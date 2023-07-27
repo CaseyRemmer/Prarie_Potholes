@@ -1,0 +1,3627 @@
+Station Name,Date,Temp,rh
+Forestburg AGCM,01-Apr-14,-7,81.5
+Forestburg AGCM,02-Apr-14,-7.6,90.7
+Forestburg AGCM,03-Apr-14,-8.8,84.1
+Forestburg AGCM,04-Apr-14,0.5,75.3
+Forestburg AGCM,05-Apr-14,2.1,76
+Forestburg AGCM,06-Apr-14,2.7,71.2
+Forestburg AGCM,07-Apr-14,4.7,56.8
+Forestburg AGCM,08-Apr-14,8.9,56
+Forestburg AGCM,09-Apr-14,5.4,49.9
+Forestburg AGCM,10-Apr-14,4.4,52.7
+Forestburg AGCM,11-Apr-14,4.8,61.7
+Forestburg AGCM,12-Apr-14,-3.2,67.2
+Forestburg AGCM,13-Apr-14,-2.9,61.4
+Forestburg AGCM,14-Apr-14,1.6,52.7
+Forestburg AGCM,15-Apr-14,1,71.5
+Forestburg AGCM,16-Apr-14,-2.5,81.4
+Forestburg AGCM,17-Apr-14,-1.2,89.6
+Forestburg AGCM,18-Apr-14,1.1,93.9
+Forestburg AGCM,19-Apr-14,5.4,67.2
+Forestburg AGCM,20-Apr-14,7,68.9
+Forestburg AGCM,21-Apr-14,8.7,51.3
+Forestburg AGCM,22-Apr-14,13.2,37.5
+Forestburg AGCM,23-Apr-14,6.6,76.2
+Forestburg AGCM,24-Apr-14,4.3,70.6
+Forestburg AGCM,25-Apr-14,2.7,79
+Forestburg AGCM,26-Apr-14,0.6,85.7
+Forestburg AGCM,27-Apr-14,2.1,86.3
+Forestburg AGCM,28-Apr-14,4.7,75.8
+Forestburg AGCM,29-Apr-14,8.9,41.6
+Forestburg AGCM,30-Apr-14,11.3,36.4
+Forestburg AGCM,01-May-14,13.5,44.4
+Forestburg AGCM,02-May-14,6.5,49
+Forestburg AGCM,03-May-14,-0.5,72.2
+Forestburg AGCM,04-May-14,0.8,91.2
+Forestburg AGCM,05-May-14,3.6,71.1
+Forestburg AGCM,06-May-14,1.3,62.2
+Forestburg AGCM,07-May-14,1.2,57.8
+Forestburg AGCM,08-May-14,7.8,48.9
+Forestburg AGCM,09-May-14,7.3,53.1
+Forestburg AGCM,10-May-14,3.9,52.8
+Forestburg AGCM,11-May-14,6,41.4
+Forestburg AGCM,12-May-14,8.7,39.9
+Forestburg AGCM,13-May-14,10.5,43.8
+Forestburg AGCM,14-May-14,14.2,35.5
+Forestburg AGCM,15-May-14,11.5,67.6
+Forestburg AGCM,16-May-14,7,81
+Forestburg AGCM,17-May-14,9.8,63.4
+Forestburg AGCM,18-May-14,8.9,82.8
+Forestburg AGCM,19-May-14,9.4,81.7
+Forestburg AGCM,20-May-14,11.5,68.3
+Forestburg AGCM,21-May-14,16.6,49.6
+Forestburg AGCM,22-May-14,18.7,41.1
+Forestburg AGCM,23-May-14,18.6,42.9
+Forestburg AGCM,24-May-14,16.5,44.5
+Forestburg AGCM,25-May-14,15.1,55.3
+Forestburg AGCM,26-May-14,13.7,76.3
+Forestburg AGCM,27-May-14,11.6,69.1
+Forestburg AGCM,28-May-14,8.3,84.7
+Forestburg AGCM,29-May-14,9.2,82.4
+Forestburg AGCM,30-May-14,14.3,53.4
+Forestburg AGCM,31-May-14,13.3,65.7
+Forestburg AGCM,01-Jun-14,13.7,70.4
+Forestburg AGCM,02-Jun-14,15.2,63.9
+Forestburg AGCM,03-Jun-14,15.2,64.3
+Forestburg AGCM,04-Jun-14,13.9,69.5
+Forestburg AGCM,05-Jun-14,6.9,77
+Forestburg AGCM,06-Jun-14,9.3,55.3
+Forestburg AGCM,07-Jun-14,12.1,52.3
+Forestburg AGCM,08-Jun-14,13.7,54.3
+Forestburg AGCM,09-Jun-14,12.2,67.8
+Forestburg AGCM,10-Jun-14,10.9,65.2
+Forestburg AGCM,11-Jun-14,12.1,71.2
+Forestburg AGCM,12-Jun-14,14.3,55.1
+Forestburg AGCM,13-Jun-14,14.8,50.9
+Forestburg AGCM,14-Jun-14,13.6,61
+Forestburg AGCM,15-Jun-14,12.7,63.6
+Forestburg AGCM,16-Jun-14,11,70.6
+Forestburg AGCM,17-Jun-14,12.4,69.4
+Forestburg AGCM,18-Jun-14,12.6,93.3
+Forestburg AGCM,19-Jun-14,14.2,85.4
+Forestburg AGCM,20-Jun-14,16,76.6
+Forestburg AGCM,21-Jun-14,15.3,65.5
+Forestburg AGCM,22-Jun-14,15.5,56.7
+Forestburg AGCM,23-Jun-14,15.8,74.1
+Forestburg AGCM,24-Jun-14,17.7,71.4
+Forestburg AGCM,25-Jun-14,15.5,85.3
+Forestburg AGCM,26-Jun-14,15.8,68.1
+Forestburg AGCM,27-Jun-14,17.1,67.7
+Forestburg AGCM,28-Jun-14,14.9,83.1
+Forestburg AGCM,29-Jun-14,13.8,88.7
+Forestburg AGCM,30-Jun-14,15.9,78.8
+Forestburg AGCM,01-Jul-14,18.1,71.3
+Forestburg AGCM,02-Jul-14,19.3,71.1
+Forestburg AGCM,03-Jul-14,20.8,72.7
+Forestburg AGCM,04-Jul-14,18.9,71.7
+Forestburg AGCM,05-Jul-14,16.9,79.7
+Forestburg AGCM,06-Jul-14,17.7,73.1
+Forestburg AGCM,07-Jul-14,17.5,69.7
+Forestburg AGCM,08-Jul-14,19.1,65.2
+Forestburg AGCM,09-Jul-14,21,62.3
+Forestburg AGCM,10-Jul-14,15.8,64.1
+Forestburg AGCM,11-Jul-14,15.6,69.8
+Forestburg AGCM,12-Jul-14,18.7,68.1
+Forestburg AGCM,13-Jul-14,18.7,67.5
+Forestburg AGCM,14-Jul-14,17.9,58.3
+Forestburg AGCM,15-Jul-14,19.5,59.9
+Forestburg AGCM,16-Jul-14,21.2,62.9
+Forestburg AGCM,17-Jul-14,16,87.7
+Forestburg AGCM,18-Jul-14,16.1,76
+Forestburg AGCM,19-Jul-14,17,73.2
+Forestburg AGCM,20-Jul-14,15.3,76.1
+Forestburg AGCM,21-Jul-14,14.7,74.4
+Forestburg AGCM,22-Jul-14,17.3,69.2
+Forestburg AGCM,23-Jul-14,19,74.3
+Forestburg AGCM,24-Jul-14,18.4,60
+Forestburg AGCM,25-Jul-14,13.3,85.6
+Forestburg AGCM,26-Jul-14,14.5,82.8
+Forestburg AGCM,27-Jul-14,16.7,73.9
+Forestburg AGCM,28-Jul-14,19.1,74.8
+Forestburg AGCM,29-Jul-14,20.9,73.5
+Forestburg AGCM,30-Jul-14,21.3,76.2
+Forestburg AGCM,31-Jul-14,20.1,84
+Forestburg AGCM,01-Aug-14,18.9,78.5
+Forestburg AGCM,02-Aug-14,19.5,78.8
+Forestburg AGCM,03-Aug-14,20,77.6
+Forestburg AGCM,04-Aug-14,18.3,75.2
+Forestburg AGCM,05-Aug-14,16.4,81.4
+Forestburg AGCM,06-Aug-14,18.7,75.6
+Forestburg AGCM,07-Aug-14,18.2,69.2
+Forestburg AGCM,08-Aug-14,13.7,87.4
+Forestburg AGCM,09-Aug-14,14.8,67.9
+Forestburg AGCM,10-Aug-14,17.7,65.6
+Forestburg AGCM,11-Aug-14,20,63.1
+Forestburg AGCM,12-Aug-14,20.8,66
+Forestburg AGCM,13-Aug-14,22.2,70.9
+Forestburg AGCM,14-Aug-14,22,77.1
+Forestburg AGCM,15-Aug-14,19.4,82.6
+Forestburg AGCM,16-Aug-14,18.7,83.7
+Forestburg AGCM,17-Aug-14,19.3,77.1
+Forestburg AGCM,18-Aug-14,20,65.3
+Forestburg AGCM,19-Aug-14,17.6,79.6
+Forestburg AGCM,20-Aug-14,14.3,76.5
+Forestburg AGCM,21-Aug-14,11.2,78.1
+Forestburg AGCM,22-Aug-14,11.9,64.2
+Forestburg AGCM,23-Aug-14,11,70
+Forestburg AGCM,24-Aug-14,12.9,69.8
+Forestburg AGCM,25-Aug-14,12.3,63
+Forestburg AGCM,26-Aug-14,18.4,54.9
+Forestburg AGCM,27-Aug-14,18.8,59.5
+Forestburg AGCM,28-Aug-14,13.6,78.3
+Forestburg AGCM,29-Aug-14,13,72.8
+Forestburg AGCM,30-Aug-14,14.1,69.4
+Forestburg AGCM,31-Aug-14,12.3,63.8
+Forestburg AGCM,01-Sep-14,11.9,66.4
+Forestburg AGCM,02-Sep-14,11.5,77.1
+Forestburg AGCM,03-Sep-14,9.9,80.1
+Forestburg AGCM,04-Sep-14,11,69.3
+Forestburg AGCM,05-Sep-14,13.6,59
+Forestburg AGCM,06-Sep-14,16.1,57.6
+Forestburg AGCM,07-Sep-14,14.2,68.4
+Forestburg AGCM,08-Sep-14,2.2,95.7
+Forestburg AGCM,09-Sep-14,2.3,91.2
+Forestburg AGCM,10-Sep-14,2.3,81.8
+Forestburg AGCM,11-Sep-14,4.4,66.3
+Forestburg AGCM,12-Sep-14,5,80.4
+Forestburg AGCM,13-Sep-14,8,70.8
+Forestburg AGCM,14-Sep-14,10,65.9
+Forestburg AGCM,15-Sep-14,13.3,59.9
+Forestburg AGCM,16-Sep-14,15.2,59.8
+Forestburg AGCM,17-Sep-14,15.4,63.6
+Forestburg AGCM,18-Sep-14,12.8,76.4
+Forestburg AGCM,19-Sep-14,13.9,72.9
+Forestburg AGCM,20-Sep-14,12.9,53.6
+Forestburg AGCM,21-Sep-14,16.5,52.9
+Forestburg AGCM,22-Sep-14,18.2,50.2
+Forestburg AGCM,23-Sep-14,14.8,68
+Forestburg AGCM,24-Sep-14,16.5,64.4
+Forestburg AGCM,25-Sep-14,16.3,61.6
+Forestburg AGCM,26-Sep-14,9.6,85.9
+Forestburg AGCM,27-Sep-14,4.3,86.5
+Forestburg AGCM,28-Sep-14,6.4,76.2
+Forestburg AGCM,29-Sep-14,9.8,77.5
+Forestburg AGCM,30-Sep-14,9.1,84.1
+Forestburg AGCM,01-Oct-14,6.9,72.5
+Forestburg AGCM,02-Oct-14,0.8,68.6
+Forestburg AGCM,03-Oct-14,1.8,65.2
+Forestburg AGCM,04-Oct-14,11.3,63.6
+Forestburg AGCM,05-Oct-14,11.5,56.4
+Forestburg AGCM,06-Oct-14,11,60.4
+Forestburg AGCM,07-Oct-14,8.1,59
+Forestburg AGCM,08-Oct-14,8.3,57.3
+Forestburg AGCM,09-Oct-14,8.1,64.8
+Forestburg AGCM,10-Oct-14,9.7,70.1
+Forestburg AGCM,11-Oct-14,11.9,53.2
+Forestburg AGCM,12-Oct-14,8.5,54.3
+Forestburg AGCM,13-Oct-14,7.3,57.7
+Forestburg AGCM,14-Oct-14,10.8,56.7
+Forestburg AGCM,15-Oct-14,5.5,88.6
+Forestburg AGCM,16-Oct-14,5.4,82
+Forestburg AGCM,17-Oct-14,6.9,71.1
+Forestburg AGCM,18-Oct-14,11.4,55
+Forestburg AGCM,19-Oct-14,9.3,60.2
+Forestburg AGCM,20-Oct-14,12.5,51.4
+Forestburg AGCM,21-Oct-14,8.7,68.7
+Forestburg AGCM,22-Oct-14,6.6,69.7
+Forestburg AGCM,23-Oct-14,10.3,51.7
+Forestburg AGCM,24-Oct-14,5.3,59.2
+Forestburg AGCM,25-Oct-14,1.8,68
+Forestburg AGCM,26-Oct-14,1.4,84.2
+Forestburg AGCM,27-Oct-14,0,87.4
+Forestburg AGCM,28-Oct-14,-1.2,87.2
+Forestburg AGCM,29-Oct-14,-1.4,92.1
+Forestburg AGCM,30-Oct-14,0.2,92
+Forestburg AGCM,31-Oct-14,4.6,81.6
+Forestburg AGCM,01-Nov-14,4.1,82.9
+Forestburg AGCM,02-Nov-14,1.6,94.9
+Forestburg AGCM,03-Nov-14,0.6,80.7
+Forestburg AGCM,04-Nov-14,0.3,86.5
+Forestburg AGCM,05-Nov-14,1.5,71.9
+Forestburg AGCM,06-Nov-14,3.9,81.9
+Forestburg AGCM,07-Nov-14,1.7,81.9
+Forestburg AGCM,08-Nov-14,-3.7,90.8
+Forestburg AGCM,09-Nov-14,-10.3,67.8
+Forestburg AGCM,10-Nov-14,-13.7,76
+Forestburg AGCM,11-Nov-14,-13.3,80.7
+Forestburg AGCM,12-Nov-14,-13.6,78.3
+Forestburg AGCM,13-Nov-14,-19,78.9
+Forestburg AGCM,14-Nov-14,-18.1,84.3
+Forestburg AGCM,15-Nov-14,-10.4,72
+Forestburg AGCM,16-Nov-14,-10.6,81.7
+Forestburg AGCM,17-Nov-14,-11.1,81.1
+Forestburg AGCM,18-Nov-14,-2.1,73.3
+Forestburg AGCM,19-Nov-14,-6.8,88.1
+Forestburg AGCM,20-Nov-14,-2.2,82.8
+Forestburg AGCM,21-Nov-14,2.2,77.4
+Forestburg AGCM,22-Nov-14,-2,92.1
+Forestburg AGCM,23-Nov-14,-7.3,86.5
+Forestburg AGCM,24-Nov-14,-1.6,82.7
+Forestburg AGCM,25-Nov-14,-7.5,89.4
+Forestburg AGCM,26-Nov-14,-7.3,87.4
+Forestburg AGCM,27-Nov-14,-10.1,89.2
+Forestburg AGCM,28-Nov-14,-20.1,80
+Forestburg AGCM,29-Nov-14,-26.2,71
+Forestburg AGCM,30-Nov-14,-23,70.6
+Forestburg AGCM,01-Dec-14,-16,69.9
+Forestburg AGCM,02-Dec-14,-12.2,78.4
+Forestburg AGCM,03-Dec-14,-8.6,69.7
+Forestburg AGCM,04-Dec-14,-10.6,83.5
+Forestburg AGCM,05-Dec-14,-13.9,88.8
+Forestburg AGCM,06-Dec-14,-10.8,91.1
+Forestburg AGCM,07-Dec-14,-7.3,88.6
+Forestburg AGCM,08-Dec-14,-12.4,88.5
+Forestburg AGCM,09-Dec-14,2.5,71.6
+Forestburg AGCM,10-Dec-14,4.9,69.6
+Forestburg AGCM,11-Dec-14,5.9,66.5
+Forestburg AGCM,12-Dec-14,3.6,81
+Forestburg AGCM,13-Dec-14,-1.4,92.2
+Forestburg AGCM,14-Dec-14,-3.6,84.6
+Forestburg AGCM,15-Dec-14,-9.4,92.7
+Forestburg AGCM,16-Dec-14,-7.7,93.7
+Forestburg AGCM,17-Dec-14,-6.8,94.3
+Forestburg AGCM,18-Dec-14,-10.3,91.9
+Forestburg AGCM,19-Dec-14,-9.7,92.2
+Forestburg AGCM,20-Dec-14,-4.9,88.8
+Forestburg AGCM,21-Dec-14,-6.4,89.8
+Forestburg AGCM,22-Dec-14,-1.3,85.7
+Forestburg AGCM,23-Dec-14,-3.8,79.8
+Forestburg AGCM,24-Dec-14,-2.3,79.1
+Forestburg AGCM,25-Dec-14,-9.7,87.4
+Forestburg AGCM,26-Dec-14,-10.1,84.7
+Forestburg AGCM,27-Dec-14,-7,86.5
+Forestburg AGCM,28-Dec-14,-14.4,86.5
+Forestburg AGCM,29-Dec-14,-20.3,78.3
+Forestburg AGCM,30-Dec-14,-13.3,65.2
+Forestburg AGCM,31-Dec-14,-2.1,62.3
+Forestburg AGCM,01-Jan-15,0.5,82.8
+Forestburg AGCM,02-Jan-15,-15.5,83.9
+Forestburg AGCM,03-Jan-15,-24.4,76.1
+Forestburg AGCM,04-Jan-15,-28.7,73.1
+Forestburg AGCM,05-Jan-15,-22.4,72.1
+Forestburg AGCM,06-Jan-15,-19.2,78.1
+Forestburg AGCM,07-Jan-15,-14.2,79.5
+Forestburg AGCM,08-Jan-15,-17.5,75
+Forestburg AGCM,09-Jan-15,-21.5,74.4
+Forestburg AGCM,10-Jan-15,-17,79.1
+Forestburg AGCM,11-Jan-15,-20.5,82.5
+Forestburg AGCM,12-Jan-15,-15.7,83.6
+Forestburg AGCM,13-Jan-15,-4.4,74
+Forestburg AGCM,14-Jan-15,1.5,70.3
+Forestburg AGCM,15-Jan-15,-5.3,87.3
+Forestburg AGCM,16-Jan-15,-3.3,82.5
+Forestburg AGCM,17-Jan-15,-3.8,64.8
+Forestburg AGCM,18-Jan-15,-7,78.2
+Forestburg AGCM,19-Jan-15,0,73.2
+Forestburg AGCM,20-Jan-15,-2.1,75.7
+Forestburg AGCM,21-Jan-15,-4.5,72.2
+Forestburg AGCM,22-Jan-15,4.3,63.8
+Forestburg AGCM,23-Jan-15,1.5,71
+Forestburg AGCM,24-Jan-15,3.6,71.4
+Forestburg AGCM,25-Jan-15,4.6,66.1
+Forestburg AGCM,26-Jan-15,1.4,81.8
+Forestburg AGCM,27-Jan-15,-0.4,90
+Forestburg AGCM,28-Jan-15,-1.9,90.1
+Forestburg AGCM,29-Jan-15,-5.2,92.3
+Forestburg AGCM,30-Jan-15,-5.9,91.6
+Forestburg AGCM,31-Jan-15,-16.6,80.9
+Forestburg AGCM,01-Feb-15,-18.8,79.6
+Forestburg AGCM,02-Feb-15,-16.1,84.3
+Forestburg AGCM,03-Feb-15,-17.9,82.1
+Forestburg AGCM,04-Feb-15,-13.6,76.3
+Forestburg AGCM,05-Feb-15,-12.6,80.8
+Forestburg AGCM,06-Feb-15,-16.7,81.2
+Forestburg AGCM,07-Feb-15,-17.7,79.8
+Forestburg AGCM,08-Feb-15,-17.7,81.4
+Forestburg AGCM,09-Feb-15,-17,83.4
+Forestburg AGCM,10-Feb-15,-13.9,81.2
+Forestburg AGCM,11-Feb-15,-14.5,83.4
+Forestburg AGCM,12-Feb-15,-3.6,79.9
+Forestburg AGCM,13-Feb-15,-0.7,85
+Forestburg AGCM,14-Feb-15,-10.4,85.2
+Forestburg AGCM,15-Feb-15,0.8,70
+Forestburg AGCM,16-Feb-15,-7.5,85.5
+Forestburg AGCM,17-Feb-15,-16,81.6
+Forestburg AGCM,18-Feb-15,-1.4,82.8
+Forestburg AGCM,19-Feb-15,2.5,77.7
+Forestburg AGCM,20-Feb-15,-3.8,83.3
+Forestburg AGCM,21-Feb-15,-15.2,79.2
+Forestburg AGCM,22-Feb-15,-12.8,77.9
+Forestburg AGCM,23-Feb-15,2,72.1
+Forestburg AGCM,24-Feb-15,0.8,78.8
+Forestburg AGCM,25-Feb-15,-15,77.4
+Forestburg AGCM,26-Feb-15,-16.6,72.2
+Forestburg AGCM,27-Feb-15,-13.6,82
+Forestburg AGCM,28-Feb-15,-10.8,79.4
+Forestburg AGCM,01-Mar-15,-8.9,78.2
+Forestburg AGCM,02-Mar-15,-8.9,73.3
+Forestburg AGCM,03-Mar-15,-16.4,63.5
+Forestburg AGCM,04-Mar-15,-14.8,69.6
+Forestburg AGCM,05-Mar-15,-2.3,64
+Forestburg AGCM,06-Mar-15,2.3,68.8
+Forestburg AGCM,07-Mar-15,1,66.5
+Forestburg AGCM,08-Mar-15,3.2,65.4
+Forestburg AGCM,09-Mar-15,3.7,75
+Forestburg AGCM,10-Mar-15,1.7,81.7
+Forestburg AGCM,11-Mar-15,0.4,89.2
+Forestburg AGCM,12-Mar-15,2.3,86.4
+Forestburg AGCM,13-Mar-15,5.9,67.9
+Forestburg AGCM,14-Mar-15,8.9,58.5
+Forestburg AGCM,15-Mar-15,2.1,60.7
+Forestburg AGCM,16-Mar-15,0.1,68.5
+Forestburg AGCM,17-Mar-15,0.7,78.4
+Forestburg AGCM,18-Mar-15,1.3,79
+Forestburg AGCM,19-Mar-15,2.5,67
+Forestburg AGCM,20-Mar-15,-1.6,87.8
+Forestburg AGCM,21-Mar-15,-3.5,90.7
+Forestburg AGCM,22-Mar-15,-6.3,83.2
+Forestburg AGCM,23-Mar-15,-7.4,89.9
+Forestburg AGCM,24-Mar-15,-3.7,86.2
+Forestburg AGCM,25-Mar-15,-2,79.4
+Forestburg AGCM,26-Mar-15,2.6,78.7
+Forestburg AGCM,27-Mar-15,8,71.1
+Forestburg AGCM,28-Mar-15,5,79.7
+Forestburg AGCM,29-Mar-15,7,67
+Forestburg AGCM,30-Mar-15,7.3,54.2
+Forestburg AGCM,31-Mar-15,8.2,61.7
+Forestburg AGCM,01-Apr-15,0.7,81.7
+Forestburg AGCM,02-Apr-15,0.1,83.2
+Forestburg AGCM,03-Apr-15,0.8,74.1
+Forestburg AGCM,04-Apr-15,-1.1,81.6
+Forestburg AGCM,05-Apr-15,-1.3,65.9
+Forestburg AGCM,06-Apr-15,-0.7,66.3
+Forestburg AGCM,07-Apr-15,1.3,77.8
+Forestburg AGCM,08-Apr-15,4,56.1
+Forestburg AGCM,09-Apr-15,7.4,44.5
+Forestburg AGCM,10-Apr-15,9.3,38.5
+Forestburg AGCM,11-Apr-15,5.3,55.6
+Forestburg AGCM,12-Apr-15,2.7,41.4
+Forestburg AGCM,13-Apr-15,4.6,38.7
+Forestburg AGCM,14-Apr-15,3.6,67.7
+Forestburg AGCM,15-Apr-15,6.4,37.5
+Forestburg AGCM,16-Apr-15,9.1,41
+Forestburg AGCM,17-Apr-15,7.9,58
+Forestburg AGCM,18-Apr-15,5.8,51.5
+Forestburg AGCM,19-Apr-15,4.9,44.9
+Forestburg AGCM,20-Apr-15,8.8,41.9
+Forestburg AGCM,21-Apr-15,9.8,48.8
+Forestburg AGCM,22-Apr-15,13.4,38.8
+Forestburg AGCM,23-Apr-15,6.9,58.6
+Forestburg AGCM,24-Apr-15,3.5,81.6
+Forestburg AGCM,25-Apr-15,-0.9,92.2
+Forestburg AGCM,26-Apr-15,1.7,73.2
+Forestburg AGCM,27-Apr-15,8.6,54.6
+Forestburg AGCM,28-Apr-15,15,42.9
+Forestburg AGCM,29-Apr-15,10.5,51
+Forestburg AGCM,30-Apr-15,8.9,52.3
+Forestburg AGCM,01-May-15,8.1,59.7
+Forestburg AGCM,02-May-15,6.1,65.2
+Forestburg AGCM,03-May-15,5.6,63.4
+Forestburg AGCM,04-May-15,10.5,50.4
+Forestburg AGCM,05-May-15,11,55
+Forestburg AGCM,06-May-15,2.6,78.2
+Forestburg AGCM,07-May-15,4.8,60.5
+Forestburg AGCM,08-May-15,5.4,65.1
+Forestburg AGCM,09-May-15,9.7,50.2
+Forestburg AGCM,10-May-15,7,51.6
+Forestburg AGCM,11-May-15,6.3,43.5
+Forestburg AGCM,12-May-15,7.9,41.8
+Forestburg AGCM,13-May-15,8.4,46.2
+Forestburg AGCM,14-May-15,9.1,52.1
+Forestburg AGCM,15-May-15,11.2,59.7
+Forestburg AGCM,16-May-15,8.3,78.2
+Forestburg AGCM,17-May-15,4.7,53
+Forestburg AGCM,18-May-15,8.2,35.4
+Forestburg AGCM,19-May-15,10.6,34.9
+Forestburg AGCM,20-May-15,13.3,32.5
+Forestburg AGCM,21-May-15,15.2,30.7
+Forestburg AGCM,22-May-15,16.5,32.1
+Forestburg AGCM,23-May-15,17.6,30.1
+Forestburg AGCM,24-May-15,17,37.2
+Forestburg AGCM,25-May-15,17.7,39
+Forestburg AGCM,26-May-15,17.9,45
+Forestburg AGCM,27-May-15,18.2,52.7
+Forestburg AGCM,28-May-15,10.3,63.7
+Forestburg AGCM,29-May-15,9,52.4
+Forestburg AGCM,30-May-15,12.2,51.7
+Forestburg AGCM,31-May-15,14.8,62.6
+Forestburg AGCM,01-Jun-15,14.4,59.8
+Forestburg AGCM,02-Jun-15,11.3,73.6
+Forestburg AGCM,03-Jun-15,15.6,55.7
+Forestburg AGCM,04-Jun-15,14,72
+Forestburg AGCM,05-Jun-15,16.5,66
+Forestburg AGCM,06-Jun-15,19.2,47.3
+Forestburg AGCM,07-Jun-15,20.2,40.5
+Forestburg AGCM,08-Jun-15,20.5,42.3
+Forestburg AGCM,09-Jun-15,16.6,51.8
+Forestburg AGCM,10-Jun-15,14,68.9
+Forestburg AGCM,11-Jun-15,18.2,64.1
+Forestburg AGCM,12-Jun-15,11.9,74.3
+Forestburg AGCM,13-Jun-15,9.1,78.7
+Forestburg AGCM,14-Jun-15,8.8,84.2
+Forestburg AGCM,15-Jun-15,12.7,61.5
+Forestburg AGCM,16-Jun-15,15.2,57.1
+Forestburg AGCM,17-Jun-15,12.6,61.2
+Forestburg AGCM,18-Jun-15,13,75.5
+Forestburg AGCM,19-Jun-15,14.8,76.1
+Forestburg AGCM,20-Jun-15,12.7,70.4
+Forestburg AGCM,21-Jun-15,12,74.5
+Forestburg AGCM,22-Jun-15,15.5,63.9
+Forestburg AGCM,23-Jun-15,16.4,69.1
+Forestburg AGCM,24-Jun-15,18.1,62
+Forestburg AGCM,25-Jun-15,19.8,62.2
+Forestburg AGCM,26-Jun-15,21.5,57.5
+Forestburg AGCM,27-Jun-15,22.2,57
+Forestburg AGCM,28-Jun-15,23.4,55.3
+Forestburg AGCM,29-Jun-15,16.7,81.1
+Forestburg AGCM,30-Jun-15,17,85.3
+Forestburg AGCM,01-Jul-15,18.4,82.3
+Forestburg AGCM,02-Jul-15,20.9,67.2
+Forestburg AGCM,03-Jul-15,21.8,60.8
+Forestburg AGCM,04-Jul-15,15.9,71.5
+Forestburg AGCM,05-Jul-15,12.6,78.2
+Forestburg AGCM,06-Jul-15,14.8,65.9
+Forestburg AGCM,07-Jul-15,14,65.2
+Forestburg AGCM,08-Jul-15,19.1,54
+Forestburg AGCM,09-Jul-15,23.6,53.3
+Forestburg AGCM,10-Jul-15,23.1,56.2
+Forestburg AGCM,11-Jul-15,22,66.2
+Forestburg AGCM,12-Jul-15,20.7,77.9
+Forestburg AGCM,13-Jul-15,18.1,79.2
+Forestburg AGCM,14-Jul-15,18.9,65.3
+Forestburg AGCM,15-Jul-15,17.9,70.4
+Forestburg AGCM,16-Jul-15,13.5,78.9
+Forestburg AGCM,17-Jul-15,13.7,90.4
+Forestburg AGCM,18-Jul-15,18,68.9
+Forestburg AGCM,19-Jul-15,19,63
+Forestburg AGCM,20-Jul-15,18.9,68.7
+Forestburg AGCM,21-Jul-15,18.4,76.6
+Forestburg AGCM,22-Jul-15,14.8,79.7
+Forestburg AGCM,23-Jul-15,14.8,75.8
+Forestburg AGCM,24-Jul-15,16.2,73.3
+Forestburg AGCM,25-Jul-15,15.4,78.8
+Forestburg AGCM,26-Jul-15,14.9,74.6
+Forestburg AGCM,27-Jul-15,14.7,77.6
+Forestburg AGCM,28-Jul-15,15.7,67.4
+Forestburg AGCM,29-Jul-15,15.8,68.8
+Forestburg AGCM,30-Jul-15,16.3,66.7
+Forestburg AGCM,31-Jul-15,19.3,62.2
+Forestburg AGCM,01-Aug-15,18.3,70.6
+Forestburg AGCM,02-Aug-15,17.8,74.3
+Forestburg AGCM,03-Aug-15,21.3,60.1
+Forestburg AGCM,04-Aug-15,17.1,85.6
+Forestburg AGCM,05-Aug-15,15.7,81.1
+Forestburg AGCM,06-Aug-15,13.3,93.6
+Forestburg AGCM,07-Aug-15,16.1,76.9
+Forestburg AGCM,08-Aug-15,18.4,67.4
+Forestburg AGCM,09-Aug-15,19.5,67.5
+Forestburg AGCM,10-Aug-15,20.4,64.6
+Forestburg AGCM,11-Aug-15,21,65.5
+Forestburg AGCM,12-Aug-15,21.4,61.9
+Forestburg AGCM,13-Aug-15,21.7,58.2
+Forestburg AGCM,14-Aug-15,17.4,65.5
+Forestburg AGCM,15-Aug-15,10.8,90.6
+Forestburg AGCM,16-Aug-15,11.5,80.7
+Forestburg AGCM,17-Aug-15,12.6,72.7
+Forestburg AGCM,18-Aug-15,14,73.6
+Forestburg AGCM,19-Aug-15,18.2,61.7
+Forestburg AGCM,20-Aug-15,15.3,73.6
+Forestburg AGCM,21-Aug-15,9.6,83.2
+Forestburg AGCM,22-Aug-15,9.9,68.3
+Forestburg AGCM,23-Aug-15,12.4,64.4
+Forestburg AGCM,24-Aug-15,15.1,68.2
+Forestburg AGCM,25-Aug-15,15.6,75.3
+Forestburg AGCM,26-Aug-15,15.4,80.7
+Forestburg AGCM,27-Aug-15,17,76.5
+Forestburg AGCM,28-Aug-15,17.4,72.4
+Forestburg AGCM,29-Aug-15,18.5,60.6
+Forestburg AGCM,30-Aug-15,17.2,52.6
+Forestburg AGCM,31-Aug-15,14.5,57
+Kessler AGCM,01-Apr-14,-6.4,80.2
+Kessler AGCM,02-Apr-14,-3.8,93.5
+Kessler AGCM,03-Apr-14,-5,92.5
+Kessler AGCM,04-Apr-14,1,78.9
+Kessler AGCM,05-Apr-14,3.1,78.2
+Kessler AGCM,06-Apr-14,2.4,74.8
+Kessler AGCM,07-Apr-14,5.2,56.5
+Kessler AGCM,08-Apr-14,10.4,48.9
+Kessler AGCM,09-Apr-14,5.8,47.9
+Kessler AGCM,10-Apr-14,4.4,50.3
+Kessler AGCM,11-Apr-14,4.7,64.9
+Kessler AGCM,12-Apr-14,-3.1,67.4
+Kessler AGCM,13-Apr-14,-3.5,61.2
+Kessler AGCM,14-Apr-14,0.9,48.3
+Kessler AGCM,15-Apr-14,0.9,62.9
+Kessler AGCM,16-Apr-14,-3.3,84.7
+Kessler AGCM,17-Apr-14,-1.1,91.1
+Kessler AGCM,18-Apr-14,2,94.8
+Kessler AGCM,19-Apr-14,5.4,69
+Kessler AGCM,20-Apr-14,5.7,74.7
+Kessler AGCM,21-Apr-14,9.4,51.4
+Kessler AGCM,22-Apr-14,13.2,38.4
+Kessler AGCM,23-Apr-14,6.4,82.9
+Kessler AGCM,24-Apr-14,3.7,78
+Kessler AGCM,25-Apr-14,2.2,78.8
+Kessler AGCM,26-Apr-14,1.7,88.3
+Kessler AGCM,27-Apr-14,1.9,92.5
+Kessler AGCM,28-Apr-14,4.4,82.4
+Kessler AGCM,29-Apr-14,8.2,51.5
+Kessler AGCM,30-Apr-14,10.4,41.4
+Kessler AGCM,01-May-14,13.6,42.4
+Kessler AGCM,02-May-14,6.6,50.8
+Kessler AGCM,03-May-14,0.6,65.4
+Kessler AGCM,04-May-14,1.5,86.6
+Kessler AGCM,05-May-14,3.4,71.4
+Kessler AGCM,06-May-14,1.4,65
+Kessler AGCM,07-May-14,0.3,69.2
+Kessler AGCM,08-May-14,7.5,50.6
+Kessler AGCM,09-May-14,8.9,42.6
+Kessler AGCM,10-May-14,3.9,51.9
+Kessler AGCM,11-May-14,4.8,44.4
+Kessler AGCM,12-May-14,8.8,38.7
+Kessler AGCM,13-May-14,9.8,42.2
+Kessler AGCM,14-May-14,13.5,34.7
+Kessler AGCM,15-May-14,12.5,64.9
+Kessler AGCM,16-May-14,7.1,86.5
+Kessler AGCM,17-May-14,10.1,67.4
+Kessler AGCM,18-May-14,9.9,83
+Kessler AGCM,19-May-14,9,83.8
+Kessler AGCM,20-May-14,11.2,69.4
+Kessler AGCM,21-May-14,16.7,51.4
+Kessler AGCM,22-May-14,18.4,46
+Kessler AGCM,23-May-14,18.2,47.3
+Kessler AGCM,24-May-14,16.6,46.2
+Kessler AGCM,25-May-14,15.2,58.3
+Kessler AGCM,26-May-14,13.7,79.8
+Kessler AGCM,27-May-14,11.6,73.4
+Kessler AGCM,28-May-14,8.2,88.7
+Kessler AGCM,29-May-14,10.3,81
+Kessler AGCM,30-May-14,13.9,55.6
+Kessler AGCM,31-May-14,13.4,60.8
+Kessler AGCM,01-Jun-14,13.9,67.6
+Kessler AGCM,02-Jun-14,15,69.4
+Kessler AGCM,03-Jun-14,14.3,76.7
+Kessler AGCM,04-Jun-14,14.8,67.4
+Kessler AGCM,05-Jun-14,7.2,81
+Kessler AGCM,06-Jun-14,8.7,62.8
+Kessler AGCM,07-Jun-14,10.8,58.1
+Kessler AGCM,08-Jun-14,12.3,63.9
+Kessler AGCM,09-Jun-14,12.6,65
+Kessler AGCM,10-Jun-14,11.1,66.6
+Kessler AGCM,11-Jun-14,11.9,65.7
+Kessler AGCM,12-Jun-14,13.5,57
+Kessler AGCM,13-Jun-14,14.2,56.8
+Kessler AGCM,14-Jun-14,12.9,67.9
+Kessler AGCM,15-Jun-14,10.9,74.1
+Kessler AGCM,16-Jun-14,10.8,73.3
+Kessler AGCM,17-Jun-14,12,75.5
+Kessler AGCM,18-Jun-14,13,97.4
+Kessler AGCM,19-Jun-14,15.2,82.4
+Kessler AGCM,20-Jun-14,16.5,73.9
+Kessler AGCM,21-Jun-14,13.8,75.2
+Kessler AGCM,22-Jun-14,15.2,58.4
+Kessler AGCM,23-Jun-14,16.1,76.2
+Kessler AGCM,24-Jun-14,17.6,74.9
+Kessler AGCM,25-Jun-14,15.1,87.3
+Kessler AGCM,26-Jun-14,16.3,71.5
+Kessler AGCM,27-Jun-14,17.5,66.9
+Kessler AGCM,28-Jun-14,15.7,80.4
+Kessler AGCM,29-Jun-14,13.9,91.6
+Kessler AGCM,30-Jun-14,16.9,77.1
+Kessler AGCM,01-Jul-14,18.1,74.2
+Kessler AGCM,02-Jul-14,20,71.1
+Kessler AGCM,03-Jul-14,20.9,74.3
+Kessler AGCM,04-Jul-14,19.9,75.2
+Kessler AGCM,05-Jul-14,17.7,79.1
+Kessler AGCM,06-Jul-14,17.7,74.8
+Kessler AGCM,07-Jul-14,17.3,73.4
+Kessler AGCM,08-Jul-14,19.1,68.6
+Kessler AGCM,09-Jul-14,21.8,59.4
+Kessler AGCM,10-Jul-14,16.3,66.9
+Kessler AGCM,11-Jul-14,15.4,73.3
+Kessler AGCM,12-Jul-14,18.6,70.1
+Kessler AGCM,13-Jul-14,17.9,69
+Kessler AGCM,14-Jul-14,17,61.7
+Kessler AGCM,15-Jul-14,19.8,58.5
+Kessler AGCM,16-Jul-14,21,62.7
+Kessler AGCM,17-Jul-14,17.7,85.5
+Kessler AGCM,18-Jul-14,16.3,76.2
+Kessler AGCM,19-Jul-14,17.1,74.8
+Kessler AGCM,20-Jul-14,15.4,79.5
+Kessler AGCM,21-Jul-14,14.5,81
+Kessler AGCM,22-Jul-14,17.3,74
+Kessler AGCM,23-Jul-14,18.7,82.8
+Kessler AGCM,24-Jul-14,18,68
+Kessler AGCM,25-Jul-14,13.7,84
+Kessler AGCM,26-Jul-14,14.4,88
+Kessler AGCM,27-Jul-14,17.1,73.9
+Kessler AGCM,28-Jul-14,20.2,69.7
+Kessler AGCM,29-Jul-14,22.2,68
+Kessler AGCM,30-Jul-14,22.4,73.5
+Kessler AGCM,31-Jul-14,20.3,87
+Kessler AGCM,01-Aug-14,19,81.7
+Kessler AGCM,02-Aug-14,19,81.2
+Kessler AGCM,03-Aug-14,20.7,70.7
+Kessler AGCM,04-Aug-14,18.4,80.6
+Kessler AGCM,05-Aug-14,16.7,86.4
+Kessler AGCM,06-Aug-14,19.4,82.8
+Kessler AGCM,07-Aug-14,18.6,74.3
+Kessler AGCM,08-Aug-14,16.7,81.7
+Kessler AGCM,09-Aug-14,14.7,73.6
+Kessler AGCM,10-Aug-14,16.6,72.4
+Kessler AGCM,11-Aug-14,20.7,62.7
+Kessler AGCM,12-Aug-14,21,67
+Kessler AGCM,13-Aug-14,22.7,69.3
+Kessler AGCM,14-Aug-14,21.7,80.6
+Kessler AGCM,15-Aug-14,20.2,79.9
+Kessler AGCM,16-Aug-14,18,87.8
+Kessler AGCM,17-Aug-14,18.1,86.8
+Kessler AGCM,18-Aug-14,19.8,73.3
+Kessler AGCM,19-Aug-14,18,83.8
+Kessler AGCM,20-Aug-14,15.4,79.3
+Kessler AGCM,21-Aug-14,11.6,84.6
+Kessler AGCM,22-Aug-14,11.6,70.1
+Kessler AGCM,23-Aug-14,11,83.2
+Kessler AGCM,24-Aug-14,12.8,74.8
+Kessler AGCM,25-Aug-14,12,71.6
+Kessler AGCM,26-Aug-14,17.5,60.6
+Kessler AGCM,27-Aug-14,18.4,67.1
+Kessler AGCM,28-Aug-14,13.4,83.7
+Kessler AGCM,29-Aug-14,12.6,77.1
+Kessler AGCM,30-Aug-14,13.9,74.5
+Kessler AGCM,31-Aug-14,11.8,70.7
+Kessler AGCM,01-Sep-14,12.4,67.1
+Kessler AGCM,02-Sep-14,10.4,84.5
+Kessler AGCM,03-Sep-14,9.9,83.9
+Kessler AGCM,04-Sep-14,10.7,70.3
+Kessler AGCM,05-Sep-14,13.2,64
+Kessler AGCM,06-Sep-14,15.9,60.4
+Kessler AGCM,07-Sep-14,15.6,65.1
+Kessler AGCM,08-Sep-14,3.3,97.4
+Kessler AGCM,09-Sep-14,2.8,88
+Kessler AGCM,10-Sep-14,2.9,74.4
+Kessler AGCM,11-Sep-14,4.1,68.9
+Kessler AGCM,12-Sep-14,5.5,79.2
+Kessler AGCM,13-Sep-14,7.5,73.5
+Kessler AGCM,14-Sep-14,9.2,69.8
+Kessler AGCM,15-Sep-14,13.4,61.1
+Kessler AGCM,16-Sep-14,14.2,67.7
+Kessler AGCM,17-Sep-14,15.8,63.7
+Kessler AGCM,18-Sep-14,13.5,80.6
+Kessler AGCM,19-Sep-14,13.9,74.8
+Kessler AGCM,20-Sep-14,12.5,56.4
+Kessler AGCM,21-Sep-14,16.6,52
+Kessler AGCM,22-Sep-14,17.9,56.4
+Kessler AGCM,23-Sep-14,14.1,73
+Kessler AGCM,24-Sep-14,16.6,68.5
+Kessler AGCM,25-Sep-14,15.8,65.8
+Kessler AGCM,26-Sep-14,10.9,80.2
+Kessler AGCM,27-Sep-14,4.2,88.7
+Kessler AGCM,28-Sep-14,4.8,78
+Kessler AGCM,29-Sep-14,10.4,75.5
+Kessler AGCM,30-Sep-14,9.5,86.1
+Kessler AGCM,01-Oct-14,7.6,72.5
+Kessler AGCM,02-Oct-14,0.7,71.9
+Kessler AGCM,03-Oct-14,1.3,67.3
+Kessler AGCM,04-Oct-14,10.1,63.7
+Kessler AGCM,05-Oct-14,9.8,65.1
+Kessler AGCM,06-Oct-14,10.9,60.8
+Kessler AGCM,07-Oct-14,7.5,62.1
+Kessler AGCM,08-Oct-14,7.9,62.3
+Kessler AGCM,09-Oct-14,7.7,65
+Kessler AGCM,10-Oct-14,10.3,67.7
+Kessler AGCM,11-Oct-14,11.6,56.4
+Kessler AGCM,12-Oct-14,8.2,58.6
+Kessler AGCM,13-Oct-14,8.1,55.7
+Kessler AGCM,14-Oct-14,10.8,56.7
+Kessler AGCM,15-Oct-14,5.6,86.2
+Kessler AGCM,16-Oct-14,5.4,81.6
+Kessler AGCM,17-Oct-14,7,74.5
+Kessler AGCM,18-Oct-14,11.5,52.8
+Kessler AGCM,19-Oct-14,9.6,59.6
+Kessler AGCM,20-Oct-14,13.5,49.6
+Kessler AGCM,21-Oct-14,10.3,62.2
+Kessler AGCM,22-Oct-14,7.7,69.1
+Kessler AGCM,23-Oct-14,11.1,53.4
+Kessler AGCM,24-Oct-14,5,60.6
+Kessler AGCM,25-Oct-14,2,69.5
+Kessler AGCM,26-Oct-14,3,80.8
+Kessler AGCM,27-Oct-14,-0.1,91.7
+Kessler AGCM,28-Oct-14,-0.8,87.5
+Kessler AGCM,29-Oct-14,-2.2,98.3
+Kessler AGCM,30-Oct-14,0.2,93.3
+Kessler AGCM,31-Oct-14,5,78.6
+Kessler AGCM,01-Nov-14,4.2,83.7
+Kessler AGCM,02-Nov-14,1,99.6
+Kessler AGCM,03-Nov-14,0.2,89.7
+Kessler AGCM,04-Nov-14,-1,92.7
+Kessler AGCM,05-Nov-14,1,79.2
+Kessler AGCM,06-Nov-14,2.7,85
+Kessler AGCM,07-Nov-14,1.2,85.4
+Kessler AGCM,08-Nov-14,-3.9,92.7
+Kessler AGCM,09-Nov-14,-11,68.8
+Kessler AGCM,10-Nov-14,-13.7,77.4
+Kessler AGCM,11-Nov-14,-13.4,81.4
+Kessler AGCM,12-Nov-14,-13.7,81.2
+Kessler AGCM,13-Nov-14,-18.1,80.7
+Kessler AGCM,14-Nov-14,-18.4,86.2
+Kessler AGCM,15-Nov-14,-11,74.1
+Kessler AGCM,16-Nov-14,-10.1,81.5
+Kessler AGCM,17-Nov-14,-11.5,83.8
+Kessler AGCM,18-Nov-14,-3.3,75.2
+Kessler AGCM,19-Nov-14,-7.7,87.9
+Kessler AGCM,20-Nov-14,-3.1,88.1
+Kessler AGCM,21-Nov-14,2.2,80.9
+Kessler AGCM,22-Nov-14,-1.9,99.3
+Kessler AGCM,23-Nov-14,-9.7,89.9
+Kessler AGCM,24-Nov-14,-3.5,90.2
+Kessler AGCM,25-Nov-14,-8.1,91.4
+Kessler AGCM,26-Nov-14,-9.3,90.1
+Kessler AGCM,27-Nov-14,-10,92.1
+Kessler AGCM,28-Nov-14,-18.8,83.6
+Kessler AGCM,29-Nov-14,-25.6,73
+Kessler AGCM,30-Nov-14,-23.3,73.1
+Kessler AGCM,01-Dec-14,-16.2,72.2
+Kessler AGCM,02-Dec-14,-12.2,80.2
+Kessler AGCM,03-Dec-14,-8.5,72.3
+Kessler AGCM,04-Dec-14,-9.6,82.4
+Kessler AGCM,05-Dec-14,-12.2,92.5
+Kessler AGCM,06-Dec-14,-10.5,93.6
+Kessler AGCM,07-Dec-14,-6.6,92.2
+Kessler AGCM,08-Dec-14,-9.7,92.5
+Kessler AGCM,09-Dec-14,1.4,77.6
+Kessler AGCM,10-Dec-14,4.8,72.2
+Kessler AGCM,11-Dec-14,5.1,73.9
+Kessler AGCM,12-Dec-14,4,81.5
+Kessler AGCM,13-Dec-14,-1,99
+Kessler AGCM,14-Dec-14,-5.8,94.6
+Kessler AGCM,15-Dec-14,-9.6,94.9
+Kessler AGCM,16-Dec-14,-10.4,94.3
+Kessler AGCM,17-Dec-14,-7.2,96.7
+Kessler AGCM,18-Dec-14,-11.2,93.6
+Kessler AGCM,19-Dec-14,-10.8,93.8
+Kessler AGCM,20-Dec-14,-5.9,98
+Kessler AGCM,21-Dec-14,-8.4,95.5
+Kessler AGCM,22-Dec-14,-2.3,97.2
+Kessler AGCM,23-Dec-14,-3.8,85.1
+Kessler AGCM,24-Dec-14,-2.8,86.2
+Kessler AGCM,25-Dec-14,-10.5,88.6
+Kessler AGCM,26-Dec-14,-11,88.7
+Kessler AGCM,27-Dec-14,-8.2,90.8
+Kessler AGCM,28-Dec-14,-16.1,87.7
+Kessler AGCM,29-Dec-14,-21.4,80.6
+Kessler AGCM,30-Dec-14,-15.5,74.4
+Kessler AGCM,31-Dec-14,-3.4,71.1
+Kessler AGCM,01-Jan-15,-0.3,87.9
+Kessler AGCM,02-Jan-15,-15.3,84.4
+Kessler AGCM,03-Jan-15,-24.1,77.1
+Kessler AGCM,04-Jan-15,-29,74.7
+Kessler AGCM,05-Jan-15,-22.9,73.5
+Kessler AGCM,06-Jan-15,-20.1,78
+Kessler AGCM,07-Jan-15,-15.6,83
+Kessler AGCM,08-Jan-15,-17.3,75.5
+Kessler AGCM,09-Jan-15,-22,74
+Kessler AGCM,10-Jan-15,-18,79.3
+Kessler AGCM,11-Jan-15,-20.7,84.6
+Kessler AGCM,12-Jan-15,-15.2,85.5
+Kessler AGCM,13-Jan-15,-5,77.1
+Kessler AGCM,14-Jan-15,2.4,71.3
+Kessler AGCM,15-Jan-15,-5.1,92.4
+Kessler AGCM,16-Jan-15,-2.5,83.8
+Kessler AGCM,17-Jan-15,-2.9,64.2
+Kessler AGCM,18-Jan-15,-5.2,85.6
+Kessler AGCM,19-Jan-15,-0.3,80.5
+Kessler AGCM,20-Jan-15,-1.4,82.1
+Kessler AGCM,21-Jan-15,-5.7,79
+Kessler AGCM,22-Jan-15,5.1,62.6
+Kessler AGCM,23-Jan-15,1.5,73.4
+Kessler AGCM,24-Jan-15,3.3,75.4
+Kessler AGCM,25-Jan-15,4.2,69
+Kessler AGCM,26-Jan-15,0.7,81.5
+Kessler AGCM,27-Jan-15,-0.1,89.4
+Kessler AGCM,28-Jan-15,-2.5,92
+Kessler AGCM,29-Jan-15,-7.5,88.4
+Kessler AGCM,30-Jan-15,-6,93.1
+Kessler AGCM,31-Jan-15,-17.8,81.5
+Kessler AGCM,01-Feb-15,-17.5,82.9
+Kessler AGCM,02-Feb-15,-16,84.7
+Kessler AGCM,03-Feb-15,-17.8,82.5
+Kessler AGCM,04-Feb-15,-16.2,77.9
+Kessler AGCM,05-Feb-15,-13.2,84
+Kessler AGCM,06-Feb-15,-16.4,84
+Kessler AGCM,07-Feb-15,-17.2,82.5
+Kessler AGCM,08-Feb-15,-17,80.7
+Kessler AGCM,09-Feb-15,-16.6,87.3
+Kessler AGCM,10-Feb-15,-14,82.6
+Kessler AGCM,11-Feb-15,-16.2,81.9
+Kessler AGCM,12-Feb-15,-5,80.8
+Kessler AGCM,13-Feb-15,-2.7,89.4
+Kessler AGCM,14-Feb-15,-12.3,86.4
+Kessler AGCM,15-Feb-15,-0.4,80.1
+Kessler AGCM,16-Feb-15,-8.8,88.5
+Kessler AGCM,17-Feb-15,-17.4,82.8
+Kessler AGCM,18-Feb-15,-4.7,86.3
+Kessler AGCM,19-Feb-15,2.1,82.4
+Kessler AGCM,20-Feb-15,-4,83.6
+Kessler AGCM,21-Feb-15,-16.1,72.8
+Kessler AGCM,22-Feb-15,-15,81.7
+Kessler AGCM,23-Feb-15,1.1,73.8
+Kessler AGCM,24-Feb-15,0.1,83.7
+Kessler AGCM,25-Feb-15,-15.9,77.7
+Kessler AGCM,26-Feb-15,-18.2,71.8
+Kessler AGCM,27-Feb-15,-13.7,80.4
+Kessler AGCM,28-Feb-15,-11.8,84.1
+Kessler AGCM,01-Mar-15,-10.8,81.4
+Kessler AGCM,02-Mar-15,-9.1,75.5
+Kessler AGCM,03-Mar-15,-17.1,65.1
+Kessler AGCM,04-Mar-15,-17.2,69.8
+Kessler AGCM,05-Mar-15,-3,65.2
+Kessler AGCM,06-Mar-15,2.4,71.9
+Kessler AGCM,07-Mar-15,1,70.3
+Kessler AGCM,08-Mar-15,2.4,69.3
+Kessler AGCM,09-Mar-15,4.5,72
+Kessler AGCM,10-Mar-15,1.9,80.7
+Kessler AGCM,11-Mar-15,0.3,90.8
+Kessler AGCM,12-Mar-15,1.7,93.9
+Kessler AGCM,13-Mar-15,6,68.1
+Kessler AGCM,14-Mar-15,8.8,60.7
+Kessler AGCM,15-Mar-15,2.2,63.5
+Kessler AGCM,16-Mar-15,-0.4,70.2
+Kessler AGCM,17-Mar-15,0.9,76.1
+Kessler AGCM,18-Mar-15,1.2,80.7
+Kessler AGCM,19-Mar-15,3.2,63.5
+Kessler AGCM,20-Mar-15,-1.9,88
+Kessler AGCM,21-Mar-15,-3.7,93.5
+Kessler AGCM,22-Mar-15,-6.8,88.2
+Kessler AGCM,23-Mar-15,-8.6,91
+Kessler AGCM,24-Mar-15,-4.6,90
+Kessler AGCM,25-Mar-15,-2.5,84
+Kessler AGCM,26-Mar-15,2.6,82.4
+Kessler AGCM,27-Mar-15,8.4,69.2
+Kessler AGCM,28-Mar-15,5.7,77.9
+Kessler AGCM,29-Mar-15,7,66.2
+Kessler AGCM,30-Mar-15,7.1,55.8
+Kessler AGCM,31-Mar-15,9.7,54.9
+Kessler AGCM,01-Apr-15,0.9,85.8
+Kessler AGCM,02-Apr-15,-1,79.4
+Kessler AGCM,03-Apr-15,0.1,81.4
+Kessler AGCM,04-Apr-15,-1.6,82.3
+Kessler AGCM,05-Apr-15,-1.9,65.6
+Kessler AGCM,06-Apr-15,-0.2,63.4
+Kessler AGCM,07-Apr-15,0.7,82.4
+Kessler AGCM,08-Apr-15,4.4,55.8
+Kessler AGCM,09-Apr-15,6.9,50.7
+Kessler AGCM,10-Apr-15,9,45.6
+Kessler AGCM,11-Apr-15,7.7,50.4
+Kessler AGCM,12-Apr-15,3.1,42.7
+Kessler AGCM,13-Apr-15,5.3,35.5
+Kessler AGCM,14-Apr-15,6.6,51.9
+Kessler AGCM,15-Apr-15,6.1,43.1
+Kessler AGCM,16-Apr-15,9.9,36.7
+Kessler AGCM,17-Apr-15,9.3,55.3
+Kessler AGCM,18-Apr-15,5.5,60.8
+Kessler AGCM,19-Apr-15,4.8,50.1
+Kessler AGCM,20-Apr-15,8.8,40.4
+Kessler AGCM,21-Apr-15,9.3,48.1
+Kessler AGCM,22-Apr-15,12.3,38.5
+Kessler AGCM,23-Apr-15,7.8,55.7
+Kessler AGCM,24-Apr-15,5,76.8
+Kessler AGCM,25-Apr-15,-0.8,94
+Kessler AGCM,26-Apr-15,2.3,72.3
+Kessler AGCM,27-Apr-15,8.9,55.8
+Kessler AGCM,28-Apr-15,14.9,41
+Kessler AGCM,29-Apr-15,11.9,48.8
+Kessler AGCM,30-Apr-15,9.5,52.3
+Kessler AGCM,01-May-15,8.6,61.4
+Kessler AGCM,02-May-15,6,69.9
+Kessler AGCM,03-May-15,5.5,66.7
+Kessler AGCM,04-May-15,11.3,49.3
+Kessler AGCM,05-May-15,13.1,50.2
+Kessler AGCM,06-May-15,3.3,79.2
+Kessler AGCM,07-May-15,4.1,61.6
+Kessler AGCM,08-May-15,4.5,63.2
+Kessler AGCM,09-May-15,9.2,53.8
+Kessler AGCM,10-May-15,6.5,61.1
+Kessler AGCM,11-May-15,5.2,50.8
+Kessler AGCM,12-May-15,7,48.9
+Kessler AGCM,13-May-15,8.1,51.5
+Kessler AGCM,14-May-15,8.4,61.3
+Kessler AGCM,15-May-15,11.7,53.7
+Kessler AGCM,16-May-15,10,60.2
+Kessler AGCM,17-May-15,4.5,50.3
+Kessler AGCM,18-May-15,8,34.9
+Kessler AGCM,19-May-15,11.1,35.4
+Kessler AGCM,20-May-15,13.9,30.7
+Kessler AGCM,21-May-15,15.4,32.1
+Kessler AGCM,22-May-15,17.2,30.9
+Kessler AGCM,23-May-15,17.2,38.4
+Kessler AGCM,24-May-15,17.2,42
+Kessler AGCM,25-May-15,16.8,45.7
+Kessler AGCM,26-May-15,16.8,52.4
+Kessler AGCM,27-May-15,16.9,58.7
+Kessler AGCM,28-May-15,9.8,67.8
+Kessler AGCM,29-May-15,8.9,54.9
+Kessler AGCM,30-May-15,12.2,48.6
+Kessler AGCM,31-May-15,16.2,55
+Kessler AGCM,01-Jun-15,14.4,61.9
+Kessler AGCM,02-Jun-15,11.4,75.4
+Kessler AGCM,03-Jun-15,14.7,54.5
+Kessler AGCM,04-Jun-15,12.8,77.9
+Kessler AGCM,05-Jun-15,16.5,71
+Kessler AGCM,06-Jun-15,18.2,56.8
+Kessler AGCM,07-Jun-15,19.9,47.6
+Kessler AGCM,08-Jun-15,20.8,48.6
+Kessler AGCM,09-Jun-15,16.5,55.4
+Kessler AGCM,10-Jun-15,15.4,60
+Kessler AGCM,11-Jun-15,18.5,62.1
+Kessler AGCM,12-Jun-15,12.3,76.7
+Kessler AGCM,13-Jun-15,10,75.7
+Kessler AGCM,14-Jun-15,8.7,81.3
+Kessler AGCM,15-Jun-15,11.8,65.8
+Kessler AGCM,16-Jun-15,15.9,54.2
+Kessler AGCM,17-Jun-15,12.3,65.3
+Kessler AGCM,18-Jun-15,12.8,74.7
+Kessler AGCM,19-Jun-15,13.8,84.5
+Kessler AGCM,20-Jun-15,12.8,76.7
+Kessler AGCM,21-Jun-15,11.9,77.7
+Kessler AGCM,22-Jun-15,15.5,64.7
+Kessler AGCM,23-Jun-15,16.1,70.1
+Kessler AGCM,24-Jun-15,18.3,66.4
+Kessler AGCM,25-Jun-15,19.6,63.9
+Kessler AGCM,26-Jun-15,22,57
+Kessler AGCM,27-Jun-15,22,60.9
+Kessler AGCM,28-Jun-15,23.9,51.9
+Kessler AGCM,29-Jun-15,17.3,80.4
+Kessler AGCM,30-Jun-15,17.4,83.1
+Kessler AGCM,01-Jul-15,18.3,82.8
+Kessler AGCM,02-Jul-15,21.2,65.4
+Kessler AGCM,03-Jul-15,22.7,58.5
+Kessler AGCM,04-Jul-15,16.9,66.9
+Kessler AGCM,05-Jul-15,11.8,83.3
+Kessler AGCM,06-Jul-15,13.7,71.5
+Kessler AGCM,07-Jul-15,14.2,66.9
+Kessler AGCM,08-Jul-15,18,58
+Kessler AGCM,09-Jul-15,24.4,49.5
+Kessler AGCM,10-Jul-15,24.4,57.7
+Kessler AGCM,11-Jul-15,24.4,57.8
+Kessler AGCM,12-Jul-15,20.2,83.2
+Kessler AGCM,13-Jul-15,18.9,80.5
+Kessler AGCM,14-Jul-15,18.9,67.2
+Kessler AGCM,15-Jul-15,17.6,75.1
+Kessler AGCM,16-Jul-15,14,80.5
+Kessler AGCM,17-Jul-15,13.7,89
+Kessler AGCM,18-Jul-15,18.1,69.7
+Kessler AGCM,19-Jul-15,18.8,63
+Kessler AGCM,20-Jul-15,19,63
+Kessler AGCM,21-Jul-15,19.8,66.6
+Kessler AGCM,22-Jul-15,14.8,84.5
+Kessler AGCM,23-Jul-15,15.7,72.1
+Kessler AGCM,24-Jul-15,17.1,68.4
+Kessler AGCM,25-Jul-15,16.3,75.1
+Kessler AGCM,26-Jul-15,15.8,74.7
+Kessler AGCM,27-Jul-15,14.7,82
+Kessler AGCM,28-Jul-15,15.9,68.1
+Kessler AGCM,29-Jul-15,16.3,65.9
+Kessler AGCM,30-Jul-15,16.3,65.3
+Kessler AGCM,31-Jul-15,19.8,57.7
+Kessler AGCM,01-Aug-15,18,68.7
+Kessler AGCM,02-Aug-15,17.8,68.9
+Kessler AGCM,03-Aug-15,22.3,53.9
+Kessler AGCM,04-Aug-15,18.3,78.3
+Kessler AGCM,05-Aug-15,16.1,83.8
+Kessler AGCM,06-Aug-15,13.4,96.7
+Kessler AGCM,07-Aug-15,15.4,82.7
+Kessler AGCM,08-Aug-15,17.9,70.3
+Kessler AGCM,09-Aug-15,21,60.3
+Kessler AGCM,10-Aug-15,20.1,69.5
+Kessler AGCM,11-Aug-15,20.9,73.6
+Kessler AGCM,12-Aug-15,21.5,67.3
+Kessler AGCM,13-Aug-15,22.1,65.1
+Kessler AGCM,14-Aug-15,18.6,65.8
+Kessler AGCM,15-Aug-15,11.1,91.1
+Kessler AGCM,16-Aug-15,12.8,79.2
+Kessler AGCM,17-Aug-15,12.4,74.3
+Kessler AGCM,18-Aug-15,14.1,76.7
+Kessler AGCM,19-Aug-15,17.1,66.3
+Kessler AGCM,20-Aug-15,15.2,79.6
+Kessler AGCM,21-Aug-15,9.6,89.7
+Kessler AGCM,22-Aug-15,9.7,73.3
+Kessler AGCM,23-Aug-15,12.4,65.8
+Kessler AGCM,24-Aug-15,15.5,64.6
+Kessler AGCM,25-Aug-15,15.4,80.1
+Kessler AGCM,26-Aug-15,14.9,86.6
+Kessler AGCM,27-Aug-15,15.9,82.5
+Kessler AGCM,28-Aug-15,18.1,74.7
+Kessler AGCM,29-Aug-15,19.6,56.9
+Kessler AGCM,30-Aug-15,17.5,51.8
+Kessler AGCM,31-Aug-15,15.7,54.4
+Lacombe CDA 2,01-Apr-14,-9.6,77.7
+Lacombe CDA 2,02-Apr-14,-4.6,90.4
+Lacombe CDA 2,03-Apr-14,-4.7,86.9
+Lacombe CDA 2,04-Apr-14,2.5,70.4
+Lacombe CDA 2,05-Apr-14,0.8,75.1
+Lacombe CDA 2,06-Apr-14,2.1,72.6
+Lacombe CDA 2,07-Apr-14,3.3,63.9
+Lacombe CDA 2,08-Apr-14,6.6,62.3
+Lacombe CDA 2,09-Apr-14,3,68.9
+Lacombe CDA 2,10-Apr-14,3,61.3
+Lacombe CDA 2,11-Apr-14,2.7,74
+Lacombe CDA 2,12-Apr-14,-3.6,75.2
+Lacombe CDA 2,13-Apr-14,-2.6,74
+Lacombe CDA 2,14-Apr-14,3.3,56.8
+Lacombe CDA 2,15-Apr-14,2.9,69.8
+Lacombe CDA 2,16-Apr-14,-1.3,86.4
+Lacombe CDA 2,17-Apr-14,-0.6,93.7
+Lacombe CDA 2,18-Apr-14,-0.7,96.3
+Lacombe CDA 2,19-Apr-14,3.7,77.1
+Lacombe CDA 2,20-Apr-14,7.3,63.8
+Lacombe CDA 2,21-Apr-14,7.8,57.1
+Lacombe CDA 2,22-Apr-14,10.7,52
+Lacombe CDA 2,23-Apr-14,5.3,82.4
+Lacombe CDA 2,24-Apr-14,4.7,70.4
+Lacombe CDA 2,25-Apr-14,3.4,82
+Lacombe CDA 2,26-Apr-14,2.2,81
+Lacombe CDA 2,27-Apr-14,5,77.8
+Lacombe CDA 2,28-Apr-14,7.1,62.3
+Lacombe CDA 2,29-Apr-14,9.1,42.4
+Lacombe CDA 2,30-Apr-14,11.9,44
+Lacombe CDA 2,01-May-14,11.4,68
+Lacombe CDA 2,02-May-14,6.4,60.1
+Lacombe CDA 2,03-May-14,-0.2,75.9
+Lacombe CDA 2,04-May-14,-0.4,95.3
+Lacombe CDA 2,05-May-14,3.3,77.4
+Lacombe CDA 2,06-May-14,0.7,63.8
+Lacombe CDA 2,07-May-14,2.2,59.6
+Lacombe CDA 2,08-May-14,8.1,56
+Lacombe CDA 2,09-May-14,7.1,59.1
+Lacombe CDA 2,10-May-14,4,60.6
+Lacombe CDA 2,11-May-14,5.1,51.8
+Lacombe CDA 2,12-May-14,8.7,50.5
+Lacombe CDA 2,13-May-14,10.9,52.9
+Lacombe CDA 2,14-May-14,13.9,49.5
+Lacombe CDA 2,15-May-14,10.9,67.4
+Lacombe CDA 2,16-May-14,7.1,76.7
+Lacombe CDA 2,17-May-14,10.6,66.2
+Lacombe CDA 2,18-May-14,9.1,88.7
+Lacombe CDA 2,19-May-14,11.4,73.4
+Lacombe CDA 2,20-May-14,11.9,77.4
+Lacombe CDA 2,21-May-14,15.7,57.4
+Lacombe CDA 2,22-May-14,17.3,48.5
+Lacombe CDA 2,23-May-14,18.2,52.6
+Lacombe CDA 2,24-May-14,13.2,64.3
+Lacombe CDA 2,25-May-14,13.2,72.9
+Lacombe CDA 2,26-May-14,12.1,79.3
+Lacombe CDA 2,27-May-14,10.8,78.7
+Lacombe CDA 2,28-May-14,8.3,91.5
+Lacombe CDA 2,29-May-14,8.7,89.5
+Lacombe CDA 2,30-May-14,14,65.1
+Lacombe CDA 2,31-May-14,13.8,67.9
+Lacombe CDA 2,01-Jun-14,12.7,76.4
+Lacombe CDA 2,02-Jun-14,14.8,68.5
+Lacombe CDA 2,03-Jun-14,15.1,67
+Lacombe CDA 2,04-Jun-14,13.6,67.7
+Lacombe CDA 2,05-Jun-14,6.3,78
+Lacombe CDA 2,06-Jun-14,9,60.5
+Lacombe CDA 2,07-Jun-14,12.6,56.8
+Lacombe CDA 2,08-Jun-14,14.6,54.8
+Lacombe CDA 2,09-Jun-14,11.2,72.5
+Lacombe CDA 2,10-Jun-14,10.7,65.2
+Lacombe CDA 2,11-Jun-14,12.1,70.9
+Lacombe CDA 2,12-Jun-14,14.7,58
+Lacombe CDA 2,13-Jun-14,12.4,77.6
+Lacombe CDA 2,14-Jun-14,13.1,71.8
+Lacombe CDA 2,15-Jun-14,12.7,71
+Lacombe CDA 2,16-Jun-14,11.4,82.2
+Lacombe CDA 2,17-Jun-14,12.6,75.2
+Lacombe CDA 2,18-Jun-14,13.2,83.8
+Lacombe CDA 2,19-Jun-14,13.5,95.6
+Lacombe CDA 2,20-Jun-14,16.1,79.1
+Lacombe CDA 2,21-Jun-14,14.3,71.8
+Lacombe CDA 2,22-Jun-14,15.2,62.5
+Lacombe CDA 2,23-Jun-14,16.6,67.5
+Lacombe CDA 2,24-Jun-14,18.5,69.8
+Lacombe CDA 2,25-Jun-14,15,79.3
+Lacombe CDA 2,26-Jun-14,15.6,70.6
+Lacombe CDA 2,27-Jun-14,16.3,73.7
+Lacombe CDA 2,28-Jun-14,14.7,85.3
+Lacombe CDA 2,29-Jun-14,12.7,89.7
+Lacombe CDA 2,30-Jun-14,16,73.4
+Lacombe CDA 2,01-Jul-14,17.1,70.9
+Lacombe CDA 2,02-Jul-14,19.2,71.5
+Lacombe CDA 2,03-Jul-14,20.6,72.8
+Lacombe CDA 2,04-Jul-14,18,76.4
+Lacombe CDA 2,05-Jul-14,17.4,79.8
+Lacombe CDA 2,06-Jul-14,16.4,81.6
+Lacombe CDA 2,07-Jul-14,17.7,69.3
+Lacombe CDA 2,08-Jul-14,18.9,73.1
+Lacombe CDA 2,09-Jul-14,20,73
+Lacombe CDA 2,10-Jul-14,15.3,69.9
+Lacombe CDA 2,11-Jul-14,15.5,72
+Lacombe CDA 2,12-Jul-14,19.4,69.7
+Lacombe CDA 2,13-Jul-14,20,72.3
+Lacombe CDA 2,14-Jul-14,19.5,66.1
+Lacombe CDA 2,15-Jul-14,19.9,71.3
+Lacombe CDA 2,16-Jul-14,20.4,75
+Lacombe CDA 2,17-Jul-14,16.7,90.5
+Lacombe CDA 2,18-Jul-14,15.5,79.9
+Lacombe CDA 2,19-Jul-14,16.1,82.8
+Lacombe CDA 2,20-Jul-14,14.7,81.8
+Lacombe CDA 2,21-Jul-14,14.2,84
+Lacombe CDA 2,22-Jul-14,16.9,77.5
+Lacombe CDA 2,23-Jul-14,18.3,74.6
+Lacombe CDA 2,24-Jul-14,17.7,65.1
+Lacombe CDA 2,25-Jul-14,11.2,90.8
+Lacombe CDA 2,26-Jul-14,15.4,77.3
+Lacombe CDA 2,27-Jul-14,17.6,75
+Lacombe CDA 2,28-Jul-14,19.3,77
+Lacombe CDA 2,29-Jul-14,20.8,80.4
+Lacombe CDA 2,30-Jul-14,22.6,79.6
+Lacombe CDA 2,31-Jul-14,20.7,85.1
+Lacombe CDA 2,01-Aug-14,19.1,79.3
+Lacombe CDA 2,02-Aug-14,19.7,80.3
+Lacombe CDA 2,03-Aug-14,18,82.8
+Lacombe CDA 2,04-Aug-14,16.7,85.7
+Lacombe CDA 2,05-Aug-14,17.1,82.8
+Lacombe CDA 2,06-Aug-14,19.3,80.5
+Lacombe CDA 2,07-Aug-14,16.2,77.2
+Lacombe CDA 2,08-Aug-14,12.5,90.1
+Lacombe CDA 2,09-Aug-14,13.6,69.1
+Lacombe CDA 2,10-Aug-14,17,64.2
+Lacombe CDA 2,11-Aug-14,19.6,62.9
+Lacombe CDA 2,12-Aug-14,19.4,70.5
+Lacombe CDA 2,13-Aug-14,20.9,70.8
+Lacombe CDA 2,14-Aug-14,20.7,73.1
+Lacombe CDA 2,15-Aug-14,19,79.5
+Lacombe CDA 2,16-Aug-14,17.6,85.3
+Lacombe CDA 2,17-Aug-14,17.7,78.7
+Lacombe CDA 2,18-Aug-14,19.4,66.1
+Lacombe CDA 2,19-Aug-14,15.7,83.4
+Lacombe CDA 2,20-Aug-14,12.4,81.8
+Lacombe CDA 2,21-Aug-14,10.5,78
+Lacombe CDA 2,22-Aug-14,11.6,67.6
+Lacombe CDA 2,23-Aug-14,10.7,73.3
+Lacombe CDA 2,24-Aug-14,11.3,82
+Lacombe CDA 2,25-Aug-14,13.1,74.2
+Lacombe CDA 2,26-Aug-14,15.9,72.2
+Lacombe CDA 2,27-Aug-14,17.6,71.8
+Lacombe CDA 2,28-Aug-14,12.7,83
+Lacombe CDA 2,29-Aug-14,11.5,85.5
+Lacombe CDA 2,30-Aug-14,13.3,71.9
+Lacombe CDA 2,31-Aug-14,11.6,71.1
+Lacombe CDA 2,01-Sep-14,9.7,83.2
+Lacombe CDA 2,02-Sep-14,10.1,84.9
+Lacombe CDA 2,03-Sep-14,8.8,89.6
+Lacombe CDA 2,04-Sep-14,9.3,78.9
+Lacombe CDA 2,05-Sep-14,13.2,66.7
+Lacombe CDA 2,06-Sep-14,15.7,67.3
+Lacombe CDA 2,07-Sep-14,11.8,82.3
+Lacombe CDA 2,08-Sep-14,1.1,97.3
+Lacombe CDA 2,09-Sep-14,1.5,95.1
+Lacombe CDA 2,10-Sep-14,1.6,91.3
+Lacombe CDA 2,11-Sep-14,2.7,75.2
+Lacombe CDA 2,12-Sep-14,3.8,88.9
+Lacombe CDA 2,13-Sep-14,7.7,80
+Lacombe CDA 2,14-Sep-14,10.8,73.4
+Lacombe CDA 2,15-Sep-14,12.3,73.3
+Lacombe CDA 2,16-Sep-14,13.4,73.7
+Lacombe CDA 2,17-Sep-14,14,72.8
+Lacombe CDA 2,18-Sep-14,12.9,82.7
+Lacombe CDA 2,19-Sep-14,13.8,73.9
+Lacombe CDA 2,20-Sep-14,12.9,58.8
+Lacombe CDA 2,21-Sep-14,16,62.4
+Lacombe CDA 2,22-Sep-14,16.6,61.6
+Lacombe CDA 2,23-Sep-14,13.7,79.2
+Lacombe CDA 2,24-Sep-14,16.3,69.2
+Lacombe CDA 2,25-Sep-14,15.4,70.6
+Lacombe CDA 2,26-Sep-14,9.7,89
+Lacombe CDA 2,27-Sep-14,5.8,84.3
+Lacombe CDA 2,28-Sep-14,7.7,81
+Lacombe CDA 2,29-Sep-14,10.8,79.9
+Lacombe CDA 2,30-Sep-14,9,79.1
+Lacombe CDA 2,01-Oct-14,5,81
+Lacombe CDA 2,02-Oct-14,1.4,68.1
+Lacombe CDA 2,03-Oct-14,1.9,74.3
+Lacombe CDA 2,04-Oct-14,10.9,72.4
+Lacombe CDA 2,05-Oct-14,10.5,72.5
+Lacombe CDA 2,06-Oct-14,10.2,70.7
+Lacombe CDA 2,07-Oct-14,6.5,73.8
+Lacombe CDA 2,08-Oct-14,8.1,65.3
+Lacombe CDA 2,09-Oct-14,7.3,76.6
+Lacombe CDA 2,10-Oct-14,9.6,70.4
+Lacombe CDA 2,11-Oct-14,10.5,61.8
+Lacombe CDA 2,12-Oct-14,8,63.6
+Lacombe CDA 2,13-Oct-14,7.7,63.1
+Lacombe CDA 2,14-Oct-14,11.9,53.1
+Lacombe CDA 2,15-Oct-14,5,91.4
+Lacombe CDA 2,16-Oct-14,5.9,87.4
+Lacombe CDA 2,17-Oct-14,6.7,75.2
+Lacombe CDA 2,18-Oct-14,12,54.8
+Lacombe CDA 2,19-Oct-14,6.9,71.9
+Lacombe CDA 2,20-Oct-14,10.7,61.5
+Lacombe CDA 2,21-Oct-14,7.1,78.1
+Lacombe CDA 2,22-Oct-14,5.8,71.7
+Lacombe CDA 2,23-Oct-14,7.9,59.8
+Lacombe CDA 2,24-Oct-14,3.7,73.7
+Lacombe CDA 2,25-Oct-14,1.3,75.2
+Lacombe CDA 2,26-Oct-14,0.8,87.1
+Lacombe CDA 2,27-Oct-14,-0.3,81.6
+Lacombe CDA 2,28-Oct-14,-2.6,89.1
+Lacombe CDA 2,29-Oct-14,-0.1,90.1
+Lacombe CDA 2,30-Oct-14,-0.6,97
+Lacombe CDA 2,31-Oct-14,4,86.4
+Lacombe CDA 2,01-Nov-14,2.8,90.6
+Lacombe CDA 2,02-Nov-14,1.7,89.6
+Lacombe CDA 2,03-Nov-14,0.2,76.8
+Lacombe CDA 2,04-Nov-14,1.8,82.7
+Lacombe CDA 2,05-Nov-14,1.7,77.2
+Lacombe CDA 2,06-Nov-14,7.6,75.9
+Lacombe CDA 2,07-Nov-14,2.8,79.1
+Lacombe CDA 2,08-Nov-14,-1.2,90.5
+Lacombe CDA 2,09-Nov-14,-9.8,91.1
+Lacombe CDA 2,10-Nov-14,-13.8,82.2
+Lacombe CDA 2,11-Nov-14,-14.2,83.7
+Lacombe CDA 2,12-Nov-14,-16.1,83.4
+Lacombe CDA 2,13-Nov-14,-22,81.2
+Lacombe CDA 2,14-Nov-14,-19.2,83.5
+Lacombe CDA 2,15-Nov-14,-9.7,75.1
+Lacombe CDA 2,16-Nov-14,-9.2,78.9
+Lacombe CDA 2,17-Nov-14,-12.7,84.5
+Lacombe CDA 2,18-Nov-14,0.3,77.2
+Lacombe CDA 2,19-Nov-14,-5.1,92.9
+Lacombe CDA 2,20-Nov-14,-4,85.7
+Lacombe CDA 2,21-Nov-14,1,78.1
+Lacombe CDA 2,22-Nov-14,-1.2,86.4
+Lacombe CDA 2,23-Nov-14,-7.1,89.8
+Lacombe CDA 2,24-Nov-14,-2.2,82.7
+Lacombe CDA 2,25-Nov-14,-4.2,87.6
+Lacombe CDA 2,26-Nov-14,-5.8,92.7
+Lacombe CDA 2,27-Nov-14,-10.2,92.4
+Lacombe CDA 2,28-Nov-14,-21.3,83.5
+Lacombe CDA 2,29-Nov-14,-26.7,74.5
+Lacombe CDA 2,30-Nov-14,-22.6,71.6
+Lacombe CDA 2,01-Dec-14,-17.1,78.9
+Lacombe CDA 2,02-Dec-14,-12.5,79.9
+Lacombe CDA 2,03-Dec-14,-11.2,76.6
+Lacombe CDA 2,04-Dec-14,-11,86.5
+Lacombe CDA 2,05-Dec-14,-12.1,89.7
+Lacombe CDA 2,06-Dec-14,-8.5,90.6
+Lacombe CDA 2,07-Dec-14,-6.2,92.8
+Lacombe CDA 2,08-Dec-14,-7.7,89.7
+Lacombe CDA 2,09-Dec-14,2.2,77.9
+Lacombe CDA 2,10-Dec-14,3.9,73.5
+Lacombe CDA 2,11-Dec-14,5.2,67.9
+Lacombe CDA 2,12-Dec-14,1.9,82.8
+Lacombe CDA 2,13-Dec-14,-0.8,90.5
+Lacombe CDA 2,14-Dec-14,-6.1,83.1
+Lacombe CDA 2,15-Dec-14,-10.2,90.4
+Lacombe CDA 2,16-Dec-14,-6.9,93.7
+Lacombe CDA 2,17-Dec-14,-7.5,94.1
+Lacombe CDA 2,18-Dec-14,-10.3,90.5
+Lacombe CDA 2,19-Dec-14,-7.4,91.8
+Lacombe CDA 2,20-Dec-14,-4.8,83.8
+Lacombe CDA 2,21-Dec-14,-3.2,87.4
+Lacombe CDA 2,22-Dec-14,-3.1,85
+Lacombe CDA 2,23-Dec-14,-4.8,83.4
+Lacombe CDA 2,24-Dec-14,-3.5,82.9
+Lacombe CDA 2,25-Dec-14,-7.7,90.8
+Lacombe CDA 2,26-Dec-14,-10,85.8
+Lacombe CDA 2,27-Dec-14,-7.6,85.4
+Lacombe CDA 2,28-Dec-14,-12.3,89.8
+Lacombe CDA 2,29-Dec-14,-18.4,83.2
+Lacombe CDA 2,30-Dec-14,-13.4,67.4
+Lacombe CDA 2,31-Dec-14,-2.5,62.9
+Lacombe CDA 2,01-Jan-15,1.6,86.7
+Lacombe CDA 2,02-Jan-15,-14.5,88.7
+Lacombe CDA 2,03-Jan-15,-23.2,82.6
+Lacombe CDA 2,04-Jan-15,-27.8,78.3
+Lacombe CDA 2,05-Jan-15,-18.9,80.3
+Lacombe CDA 2,06-Jan-15,-16.4,83.4
+Lacombe CDA 2,07-Jan-15,-11.5,83.5
+Lacombe CDA 2,08-Jan-15,-16.6,76.3
+Lacombe CDA 2,09-Jan-15,-20.1,79.8
+Lacombe CDA 2,10-Jan-15,-12.8,82.1
+Lacombe CDA 2,11-Jan-15,-16.9,85
+Lacombe CDA 2,12-Jan-15,-15.6,84.7
+Lacombe CDA 2,13-Jan-15,-7.5,82.4
+Lacombe CDA 2,14-Jan-15,-2.7,80.7
+Lacombe CDA 2,15-Jan-15,-6.2,88.8
+Lacombe CDA 2,16-Jan-15,-3,81.5
+Lacombe CDA 2,17-Jan-15,-7.2,73.2
+Lacombe CDA 2,18-Jan-15,-5.9,84.2
+Lacombe CDA 2,19-Jan-15,-1.7,74.7
+Lacombe CDA 2,20-Jan-15,-5.2,70.8
+Lacombe CDA 2,21-Jan-15,-5.6,78.4
+Lacombe CDA 2,22-Jan-15,2.1,74.6
+Lacombe CDA 2,23-Jan-15,0.7,75.3
+Lacombe CDA 2,24-Jan-15,4.1,68.9
+Lacombe CDA 2,25-Jan-15,3.6,75.9
+Lacombe CDA 2,26-Jan-15,-0.7,90
+Lacombe CDA 2,27-Jan-15,-1.7,93.2
+Lacombe CDA 2,28-Jan-15,-2.5,88.3
+Lacombe CDA 2,29-Jan-15,-6.8,96.2
+Lacombe CDA 2,30-Jan-15,-7.8,92.7
+Lacombe CDA 2,31-Jan-15,-15.8,87.5
+Lacombe CDA 2,01-Feb-15,-20.2,83.3
+Lacombe CDA 2,02-Feb-15,-15.5,85.4
+Lacombe CDA 2,03-Feb-15,-17.2,80.4
+Lacombe CDA 2,04-Feb-15,-15.1,77.6
+Lacombe CDA 2,05-Feb-15,-13.7,87.4
+Lacombe CDA 2,06-Feb-15,-16.5,86.9
+Lacombe CDA 2,07-Feb-15,-15.6,81.3
+Lacombe CDA 2,08-Feb-15,-16.5,79.5
+Lacombe CDA 2,09-Feb-15,-18.3,85
+Lacombe CDA 2,10-Feb-15,-13.3,80.6
+Lacombe CDA 2,11-Feb-15,-11.7,84.8
+Lacombe CDA 2,12-Feb-15,-3.8,81.8
+Lacombe CDA 2,13-Feb-15,1.5,83.9
+Lacombe CDA 2,14-Feb-15,-1.7,79.5
+Lacombe CDA 2,15-Feb-15,0.7,64.5
+Lacombe CDA 2,16-Feb-15,-3.7,81.8
+Lacombe CDA 2,17-Feb-15,-6.2,88.4
+Lacombe CDA 2,18-Feb-15,0.3,81.2
+Lacombe CDA 2,19-Feb-15,3.8,69.9
+Lacombe CDA 2,20-Feb-15,-2.6,84
+Lacombe CDA 2,21-Feb-15,-11.2,81.2
+Lacombe CDA 2,22-Feb-15,-11.3,76.3
+Lacombe CDA 2,23-Feb-15,3,71.3
+Lacombe CDA 2,24-Feb-15,1.2,80.7
+Lacombe CDA 2,25-Feb-15,-12.2,81.8
+Lacombe CDA 2,26-Feb-15,-14.8,80.4
+Lacombe CDA 2,27-Feb-15,-12.2,83.4
+Lacombe CDA 2,28-Feb-15,-12.2,77.3
+Lacombe CDA 2,01-Mar-15,-9.2,77.3
+Lacombe CDA 2,02-Mar-15,-8.1,74.2
+Lacombe CDA 2,03-Mar-15,-15.9,59.4
+Lacombe CDA 2,04-Mar-15,-14,72
+Lacombe CDA 2,05-Mar-15,-3.1,68.5
+Lacombe CDA 2,06-Mar-15,0.4,72
+Lacombe CDA 2,07-Mar-15,-0.9,72.4
+Lacombe CDA 2,08-Mar-15,1.4,68
+Lacombe CDA 2,09-Mar-15,3.2,76.4
+Lacombe CDA 2,10-Mar-15,1.7,84.4
+Lacombe CDA 2,11-Mar-15,0.5,90.2
+Lacombe CDA 2,12-Mar-15,3.6,76.5
+Lacombe CDA 2,13-Mar-15,5,68.9
+Lacombe CDA 2,14-Mar-15,7.8,59.3
+Lacombe CDA 2,15-Mar-15,0.7,72.7
+Lacombe CDA 2,16-Mar-15,-0.3,79.5
+Lacombe CDA 2,17-Mar-15,-0.6,87.1
+Lacombe CDA 2,18-Mar-15,2.2,78.1
+Lacombe CDA 2,19-Mar-15,1.4,84.3
+Lacombe CDA 2,20-Mar-15,-1.1,96.4
+Lacombe CDA 2,21-Mar-15,-2.7,98.3
+Lacombe CDA 2,22-Mar-15,-5,86.1
+Lacombe CDA 2,23-Mar-15,-4.8,87.1
+Lacombe CDA 2,24-Mar-15,-2.6,83.2
+Lacombe CDA 2,25-Mar-15,0.3,74
+Lacombe CDA 2,26-Mar-15,4,75.7
+Lacombe CDA 2,27-Mar-15,7,78.6
+Lacombe CDA 2,28-Mar-15,4.8,78.8
+Lacombe CDA 2,29-Mar-15,6.5,69.8
+Lacombe CDA 2,30-Mar-15,7,63.1
+Lacombe CDA 2,31-Mar-15,7.5,66.6
+Lacombe CDA 2,01-Apr-15,1.2,74.3
+Lacombe CDA 2,02-Apr-15,-0.3,88.1
+Lacombe CDA 2,03-Apr-15,1.4,73.8
+Lacombe CDA 2,04-Apr-15,-0.6,88.3
+Lacombe CDA 2,05-Apr-15,-0.5,74.6
+Lacombe CDA 2,06-Apr-15,-0.9,70.1
+Lacombe CDA 2,07-Apr-15,2.5,70.1
+Lacombe CDA 2,08-Apr-15,3.8,58.9
+Lacombe CDA 2,09-Apr-15,6.5,51.6
+Lacombe CDA 2,10-Apr-15,7.2,45.8
+Lacombe CDA 2,11-Apr-15,5.1,54
+Lacombe CDA 2,12-Apr-15,1.3,47.3
+Lacombe CDA 2,13-Apr-15,3.7,45.4
+Lacombe CDA 2,14-Apr-15,4.9,55.3
+Lacombe CDA 2,15-Apr-15,6.1,36.7
+Lacombe CDA 2,16-Apr-15,8.1,47.6
+Lacombe CDA 2,17-Apr-15,7.4,62.8
+Lacombe CDA 2,18-Apr-15,5.5,52.2
+Lacombe CDA 2,19-Apr-15,5.5,48.9
+Lacombe CDA 2,20-Apr-15,9,49.8
+Lacombe CDA 2,21-Apr-15,12.8,49.5
+Lacombe CDA 2,22-Apr-15,12.4,51.5
+Lacombe CDA 2,23-Apr-15,5.9,62.8
+Lacombe CDA 2,24-Apr-15,2.9,86.2
+Lacombe CDA 2,25-Apr-15,-0.8,92.7
+Lacombe CDA 2,26-Apr-15,0.9,80.4
+Lacombe CDA 2,27-Apr-15,9.8,53.4
+Lacombe CDA 2,28-Apr-15,14.4,49.3
+Lacombe CDA 2,29-Apr-15,8.1,60.5
+Lacombe CDA 2,30-Apr-15,7.6,57.1
+Lacombe CDA 2,01-May-15,8.3,59.8
+Lacombe CDA 2,02-May-15,5.4,62.7
+Lacombe CDA 2,03-May-15,4.7,64.9
+Lacombe CDA 2,04-May-15,9.8,49.4
+Lacombe CDA 2,05-May-15,8.5,63.4
+Lacombe CDA 2,06-May-15,1.6,85.4
+Lacombe CDA 2,07-May-15,3.8,75.1
+Lacombe CDA 2,08-May-15,6.2,71.6
+Lacombe CDA 2,09-May-15,9.4,53.5
+Lacombe CDA 2,10-May-15,9.8,50.9
+Lacombe CDA 2,11-May-15,7.3,43.2
+Lacombe CDA 2,12-May-15,8.1,44.1
+Lacombe CDA 2,13-May-15,8.7,45.8
+Lacombe CDA 2,14-May-15,10,57
+Lacombe CDA 2,15-May-15,10.7,73.4
+Lacombe CDA 2,16-May-15,6.2,92.5
+Lacombe CDA 2,17-May-15,5.3,61.4
+Lacombe CDA 2,18-May-15,8.8,46.5
+Lacombe CDA 2,19-May-15,11.1,38.7
+Lacombe CDA 2,20-May-15,13.1,37.4
+Lacombe CDA 2,21-May-15,14.8,35.3
+Lacombe CDA 2,22-May-15,15.8,40.4
+Lacombe CDA 2,23-May-15,16.5,43.9
+Lacombe CDA 2,24-May-15,16.8,43.6
+Lacombe CDA 2,25-May-15,16.4,50
+Lacombe CDA 2,26-May-15,16,58.6
+Lacombe CDA 2,27-May-15,16.7,64
+Lacombe CDA 2,28-May-15,10.7,64.8
+Lacombe CDA 2,29-May-15,9.8,56.9
+Lacombe CDA 2,30-May-15,12.8,57.8
+Lacombe CDA 2,31-May-15,15.5,63.6
+Lacombe CDA 2,01-Jun-15,14.2,66.5
+Lacombe CDA 2,02-Jun-15,12.2,74
+Lacombe CDA 2,03-Jun-15,14,65.6
+Lacombe CDA 2,04-Jun-15,14.1,77.8
+Lacombe CDA 2,05-Jun-15,15.4,69.8
+Lacombe CDA 2,06-Jun-15,18.8,56
+Lacombe CDA 2,07-Jun-15,19.3,52
+Lacombe CDA 2,08-Jun-15,18.4,56.2
+Lacombe CDA 2,09-Jun-15,16.9,56.2
+Lacombe CDA 2,10-Jun-15,15.3,70
+Lacombe CDA 2,11-Jun-15,16.4,75.8
+Lacombe CDA 2,12-Jun-15,10.7,76.1
+Lacombe CDA 2,13-Jun-15,9.1,82.4
+Lacombe CDA 2,14-Jun-15,10.4,72.9
+Lacombe CDA 2,15-Jun-15,11,71.4
+Lacombe CDA 2,16-Jun-15,13.6,73.6
+Lacombe CDA 2,17-Jun-15,10.9,81.3
+Lacombe CDA 2,18-Jun-15,12.9,85.3
+Lacombe CDA 2,19-Jun-15,13.4,83.8
+Lacombe CDA 2,20-Jun-15,11.6,74.9
+Lacombe CDA 2,21-Jun-15,12.9,73.8
+Lacombe CDA 2,22-Jun-15,15.4,67.1
+Lacombe CDA 2,23-Jun-15,15.8,73.7
+Lacombe CDA 2,24-Jun-15,17,66.3
+Lacombe CDA 2,25-Jun-15,20.3,64.1
+Lacombe CDA 2,26-Jun-15,21.1,63.7
+Lacombe CDA 2,27-Jun-15,22,66.3
+Lacombe CDA 2,28-Jun-15,22.7,63
+Lacombe CDA 2,29-Jun-15,17.7,80.2
+Lacombe CDA 2,30-Jun-15,17.3,84.5
+Lacombe CDA 2,01-Jul-15,18.7,77.8
+Lacombe CDA 2,02-Jul-15,20.2,71.9
+Lacombe CDA 2,03-Jul-15,20.6,67.4
+Lacombe CDA 2,04-Jul-15,14.8,78.4
+Lacombe CDA 2,05-Jul-15,13,72.9
+Lacombe CDA 2,06-Jul-15,14.8,72.7
+Lacombe CDA 2,07-Jul-15,14.3,76.9
+Lacombe CDA 2,08-Jul-15,19.2,67.2
+Lacombe CDA 2,09-Jul-15,22.4,63.9
+Lacombe CDA 2,10-Jul-15,22.4,62.5
+Lacombe CDA 2,11-Jul-15,21.7,76.4
+Lacombe CDA 2,12-Jul-15,21.2,77.6
+Lacombe CDA 2,13-Jul-15,18.3,78.3
+Lacombe CDA 2,14-Jul-15,17.8,70.6
+Lacombe CDA 2,15-Jul-15,17.7,73.8
+Lacombe CDA 2,16-Jul-15,12.7,78.7
+Lacombe CDA 2,17-Jul-15,13.2,89.5
+Lacombe CDA 2,18-Jul-15,18,70.7
+Lacombe CDA 2,19-Jul-15,19,63.9
+Lacombe CDA 2,20-Jul-15,19.5,73.3
+Lacombe CDA 2,21-Jul-15,16.2,81.3
+Lacombe CDA 2,22-Jul-15,12.9,86
+Lacombe CDA 2,23-Jul-15,14.5,76.7
+Lacombe CDA 2,24-Jul-15,16.9,73.4
+Lacombe CDA 2,25-Jul-15,13.7,83.7
+Lacombe CDA 2,26-Jul-15,12.7,81.6
+Lacombe CDA 2,27-Jul-15,14.1,78.8
+Lacombe CDA 2,28-Jul-15,14.8,72.1
+Lacombe CDA 2,29-Jul-15,14.6,77.7
+Lacombe CDA 2,30-Jul-15,16.2,71.9
+Lacombe CDA 2,31-Jul-15,19.1,68.9
+Lacombe CDA 2,01-Aug-15,17.6,75.7
+Lacombe CDA 2,02-Aug-15,19.4,77
+Lacombe CDA 2,03-Aug-15,20.6,73.1
+Lacombe CDA 2,04-Aug-15,16.9,78.2
+Lacombe CDA 2,05-Aug-15,14.2,85.9
+Lacombe CDA 2,06-Aug-15,13.1,89.2
+Lacombe CDA 2,07-Aug-15,16,73.8
+Lacombe CDA 2,08-Aug-15,17.6,72.3
+Lacombe CDA 2,09-Aug-15,19.1,70.1
+Lacombe CDA 2,10-Aug-15,18.8,70.4
+Lacombe CDA 2,11-Aug-15,20.7,68.2
+Lacombe CDA 2,12-Aug-15,20.2,66.7
+Lacombe CDA 2,13-Aug-15,21.1,64.1
+Lacombe CDA 2,14-Aug-15,16.2,69.3
+Lacombe CDA 2,15-Aug-15,10.4,92.2
+Lacombe CDA 2,16-Aug-15,9.1,90.8
+Lacombe CDA 2,17-Aug-15,12.1,78.5
+Lacombe CDA 2,18-Aug-15,14.3,75.3
+Lacombe CDA 2,19-Aug-15,17.9,65.1
+Lacombe CDA 2,20-Aug-15,14.1,75.3
+Lacombe CDA 2,21-Aug-15,8.4,90.1
+Lacombe CDA 2,22-Aug-15,10.6,68.9
+Lacombe CDA 2,23-Aug-15,13.1,69.6
+Lacombe CDA 2,24-Aug-15,14.7,77.7
+Lacombe CDA 2,25-Aug-15,15,84.8
+Lacombe CDA 2,26-Aug-15,15,86.2
+Lacombe CDA 2,27-Aug-15,17.4,83.6
+Lacombe CDA 2,28-Aug-15,15.9,75.5
+Lacombe CDA 2,29-Aug-15,17.2,68.3
+Lacombe CDA 2,30-Aug-15,14.5,64.5
+Lacombe CDA 2,31-Aug-15,13.4,64.2
+New Sarepta AGCM,01-Apr-14,-9,84
+New Sarepta AGCM,02-Apr-14,-6.7,83.1
+New Sarepta AGCM,03-Apr-14,-8,87.5
+New Sarepta AGCM,04-Apr-14,0.6,78.6
+New Sarepta AGCM,05-Apr-14,1.5,73.3
+New Sarepta AGCM,06-Apr-14,3.2,66.9
+New Sarepta AGCM,07-Apr-14,4.3,59.4
+New Sarepta AGCM,08-Apr-14,7.6,61.4
+New Sarepta AGCM,09-Apr-14,5,47.7
+New Sarepta AGCM,10-Apr-14,4.3,57.1
+New Sarepta AGCM,11-Apr-14,3.5,69.3
+New Sarepta AGCM,12-Apr-14,-3.7,71.2
+New Sarepta AGCM,13-Apr-14,-2.1,60.8
+New Sarepta AGCM,14-Apr-14,2.5,53.3
+New Sarepta AGCM,15-Apr-14,1.7,73.2
+New Sarepta AGCM,16-Apr-14,-2.8,85.8
+New Sarepta AGCM,17-Apr-14,-2.5,93.6
+New Sarepta AGCM,18-Apr-14,-0.6,95
+New Sarepta AGCM,19-Apr-14,4.2,75.1
+New Sarepta AGCM,20-Apr-14,7.3,73.2
+New Sarepta AGCM,21-Apr-14,8.4,53.3
+New Sarepta AGCM,22-Apr-14,11.7,43.4
+New Sarepta AGCM,23-Apr-14,4.7,88.5
+New Sarepta AGCM,24-Apr-14,3,84.2
+New Sarepta AGCM,25-Apr-14,3.1,79.6
+New Sarepta AGCM,26-Apr-14,1,89.5
+New Sarepta AGCM,27-Apr-14,3.4,85.1
+New Sarepta AGCM,28-Apr-14,6.4,65.7
+New Sarepta AGCM,29-Apr-14,8.8,40
+New Sarepta AGCM,30-Apr-14,12.3,35.5
+New Sarepta AGCM,01-May-14,12.6,49.4
+New Sarepta AGCM,02-May-14,5.6,49.6
+New Sarepta AGCM,03-May-14,-0.9,74.3
+New Sarepta AGCM,04-May-14,-0.9,93.8
+New Sarepta AGCM,05-May-14,2.4,78.4
+New Sarepta AGCM,06-May-14,0.4,65.1
+New Sarepta AGCM,07-May-14,1.8,52.3
+New Sarepta AGCM,08-May-14,6.9,49.1
+New Sarepta AGCM,09-May-14,6.3,55.9
+New Sarepta AGCM,10-May-14,3.1,54
+New Sarepta AGCM,11-May-14,6.4,39.3
+New Sarepta AGCM,12-May-14,9,40.7
+New Sarepta AGCM,13-May-14,10.5,44.8
+New Sarepta AGCM,14-May-14,13.6,45
+New Sarepta AGCM,15-May-14,9.8,74.2
+New Sarepta AGCM,16-May-14,7.7,76.7
+New Sarepta AGCM,17-May-14,10.4,62
+New Sarepta AGCM,18-May-14,11,65.7
+New Sarepta AGCM,19-May-14,10.3,73.2
+New Sarepta AGCM,20-May-14,11.5,73.4
+New Sarepta AGCM,21-May-14,15.2,56.4
+New Sarepta AGCM,22-May-14,17.9,40.8
+New Sarepta AGCM,23-May-14,18.9,43.4
+New Sarepta AGCM,24-May-14,14.5,54.2
+New Sarepta AGCM,25-May-14,11.8,72.4
+New Sarepta AGCM,26-May-14,11.4,88.7
+New Sarepta AGCM,27-May-14,10.6,75.9
+New Sarepta AGCM,28-May-14,8.2,85.5
+New Sarepta AGCM,29-May-14,8,89.7
+New Sarepta AGCM,30-May-14,13.7,60.8
+New Sarepta AGCM,31-May-14,14.1,62.5
+New Sarepta AGCM,01-Jun-14,13.8,70.3
+New Sarepta AGCM,02-Jun-14,15.3,64.2
+New Sarepta AGCM,03-Jun-14,15.7,60.8
+New Sarepta AGCM,04-Jun-14,11.7,79.4
+New Sarepta AGCM,05-Jun-14,6.1,77.8
+New Sarepta AGCM,06-Jun-14,9,59.6
+New Sarepta AGCM,07-Jun-14,10.7,63.7
+New Sarepta AGCM,08-Jun-14,13.6,57.3
+New Sarepta AGCM,09-Jun-14,11.3,75.3
+New Sarepta AGCM,10-Jun-14,9.5,80.3
+New Sarepta AGCM,11-Jun-14,11.8,70
+New Sarepta AGCM,12-Jun-14,14.8,54.3
+New Sarepta AGCM,13-Jun-14,16,47.5
+New Sarepta AGCM,14-Jun-14,14.2,57.3
+New Sarepta AGCM,15-Jun-14,14.3,56.9
+New Sarepta AGCM,16-Jun-14,12.1,70
+New Sarepta AGCM,17-Jun-14,12.7,74.7
+New Sarepta AGCM,18-Jun-14,13.2,83
+New Sarepta AGCM,19-Jun-14,14.1,95.5
+New Sarepta AGCM,20-Jun-14,16.4,80.5
+New Sarepta AGCM,21-Jun-14,15.7,57
+New Sarepta AGCM,22-Jun-14,15.3,55.3
+New Sarepta AGCM,23-Jun-14,16.5,68.8
+New Sarepta AGCM,24-Jun-14,18.5,70.1
+New Sarepta AGCM,25-Jun-14,14.8,86.1
+New Sarepta AGCM,26-Jun-14,16,65.6
+New Sarepta AGCM,27-Jun-14,17,65.8
+New Sarepta AGCM,28-Jun-14,15,81.7
+New Sarepta AGCM,29-Jun-14,14,89.5
+New Sarepta AGCM,30-Jun-14,15.9,78.9
+New Sarepta AGCM,01-Jul-14,18.3,68.4
+New Sarepta AGCM,02-Jul-14,19.8,69.6
+New Sarepta AGCM,03-Jul-14,21.2,71.9
+New Sarepta AGCM,04-Jul-14,18.4,64.3
+New Sarepta AGCM,05-Jul-14,17.3,75.6
+New Sarepta AGCM,06-Jul-14,17.5,70.9
+New Sarepta AGCM,07-Jul-14,17.6,67.8
+New Sarepta AGCM,08-Jul-14,19.5,66.1
+New Sarepta AGCM,09-Jul-14,19.8,73.6
+New Sarepta AGCM,10-Jul-14,14.6,69
+New Sarepta AGCM,11-Jul-14,15.8,68.3
+New Sarepta AGCM,12-Jul-14,19,68.4
+New Sarepta AGCM,13-Jul-14,19.4,68.6
+New Sarepta AGCM,14-Jul-14,18.7,60.1
+New Sarepta AGCM,15-Jul-14,20.1,63.9
+New Sarepta AGCM,16-Jul-14,20.4,71.9
+New Sarepta AGCM,17-Jul-14,14.6,90.5
+New Sarepta AGCM,18-Jul-14,15.5,81.4
+New Sarepta AGCM,19-Jul-14,15.5,84.6
+New Sarepta AGCM,20-Jul-14,13.9,81.9
+New Sarepta AGCM,21-Jul-14,14.5,75.8
+New Sarepta AGCM,22-Jul-14,17.4,72.9
+New Sarepta AGCM,23-Jul-14,19.2,75
+New Sarepta AGCM,24-Jul-14,18.6,70.5
+New Sarepta AGCM,25-Jul-14,12.7,93.7
+New Sarepta AGCM,26-Jul-14,14.2,86.7
+New Sarepta AGCM,27-Jul-14,17,75.1
+New Sarepta AGCM,28-Jul-14,19.8,76.1
+New Sarepta AGCM,29-Jul-14,20.8,79.9
+New Sarepta AGCM,30-Jul-14,23.4,72.6
+New Sarepta AGCM,31-Jul-14,21.6,74.2
+New Sarepta AGCM,01-Aug-14,18.1,79.3
+New Sarepta AGCM,02-Aug-14,19.1,86
+New Sarepta AGCM,03-Aug-14,19.8,83.3
+New Sarepta AGCM,04-Aug-14,17.7,80.4
+New Sarepta AGCM,05-Aug-14,18.2,79.1
+New Sarepta AGCM,06-Aug-14,18.9,75.6
+New Sarepta AGCM,07-Aug-14,16.5,74
+New Sarepta AGCM,08-Aug-14,12.7,91.4
+New Sarepta AGCM,09-Aug-14,14.1,73.5
+New Sarepta AGCM,10-Aug-14,17.4,66.8
+New Sarepta AGCM,11-Aug-14,20,64
+New Sarepta AGCM,12-Aug-14,21.1,68.4
+New Sarepta AGCM,13-Aug-14,21.6,74.8
+New Sarepta AGCM,14-Aug-14,20.5,83.5
+New Sarepta AGCM,15-Aug-14,19.6,85.2
+New Sarepta AGCM,16-Aug-14,19.7,83.3
+New Sarepta AGCM,17-Aug-14,18.3,83.7
+New Sarepta AGCM,18-Aug-14,19.4,69.8
+New Sarepta AGCM,19-Aug-14,16.6,82.2
+New Sarepta AGCM,20-Aug-14,13.8,76.6
+New Sarepta AGCM,21-Aug-14,10.9,80
+New Sarepta AGCM,22-Aug-14,9.6,68.7
+New Sarepta AGCM,23-Aug-14,10.7,68.1
+New Sarepta AGCM,24-Aug-14,12.5,75.9
+New Sarepta AGCM,25-Aug-14,13.5,65.1
+New Sarepta AGCM,26-Aug-14,18.2,60.6
+New Sarepta AGCM,27-Aug-14,17.6,67.2
+New Sarepta AGCM,28-Aug-14,13.7,74.2
+New Sarepta AGCM,29-Aug-14,12.3,76.8
+New Sarepta AGCM,30-Aug-14,13.8,71.4
+New Sarepta AGCM,31-Aug-14,11.5,68.2
+New Sarepta AGCM,01-Sep-14,10.1,77
+New Sarepta AGCM,02-Sep-14,10.6,82.2
+New Sarepta AGCM,03-Sep-14,9.7,85.1
+New Sarepta AGCM,04-Sep-14,10.2,75.9
+New Sarepta AGCM,05-Sep-14,12.8,65.1
+New Sarepta AGCM,06-Sep-14,16,61.2
+New Sarepta AGCM,07-Sep-14,11.2,83.5
+New Sarepta AGCM,08-Sep-14,1.4,96.1
+New Sarepta AGCM,09-Sep-14,2,90.4
+New Sarepta AGCM,10-Sep-14,2.2,83.8
+New Sarepta AGCM,11-Sep-14,3.9,68.8
+New Sarepta AGCM,12-Sep-14,4.7,87.4
+New Sarepta AGCM,13-Sep-14,7.6,73.7
+New Sarepta AGCM,14-Sep-14,9.8,70.8
+New Sarepta AGCM,15-Sep-14,13.2,65.3
+New Sarepta AGCM,16-Sep-14,14.7,65.3
+New Sarepta AGCM,17-Sep-14,14.5,67.4
+New Sarepta AGCM,18-Sep-14,13.9,74.1
+New Sarepta AGCM,19-Sep-14,14.4,69.9
+New Sarepta AGCM,20-Sep-14,13.2,50.5
+New Sarepta AGCM,21-Sep-14,16.5,56.6
+New Sarepta AGCM,22-Sep-14,17.7,53.3
+New Sarepta AGCM,23-Sep-14,15,71.3
+New Sarepta AGCM,24-Sep-14,16,68.9
+New Sarepta AGCM,25-Sep-14,14.9,68.7
+New Sarepta AGCM,26-Sep-14,8.8,90.5
+New Sarepta AGCM,27-Sep-14,3.8,89
+New Sarepta AGCM,28-Sep-14,7.3,77.9
+New Sarepta AGCM,29-Sep-14,9.8,79.8
+New Sarepta AGCM,30-Sep-14,9.5,77.3
+New Sarepta AGCM,01-Oct-14,5.4,74.5
+New Sarepta AGCM,02-Oct-14,1,65.7
+New Sarepta AGCM,03-Oct-14,1.4,68.3
+New Sarepta AGCM,04-Oct-14,11.3,66.3
+New Sarepta AGCM,05-Oct-14,10.8,59.2
+New Sarepta AGCM,06-Oct-14,10.8,61.4
+New Sarepta AGCM,07-Oct-14,7.3,62
+New Sarepta AGCM,08-Oct-14,7.5,72.5
+New Sarepta AGCM,09-Oct-14,9.3,67.7
+New Sarepta AGCM,10-Oct-14,10.9,66.5
+New Sarepta AGCM,11-Oct-14,11.8,52.8
+New Sarepta AGCM,12-Oct-14,8.4,56.4
+New Sarepta AGCM,13-Oct-14,7.4,57.8
+New Sarepta AGCM,14-Oct-14,9.9,61.5
+New Sarepta AGCM,15-Oct-14,4.9,87
+New Sarepta AGCM,16-Oct-14,5.8,84.2
+New Sarepta AGCM,17-Oct-14,6.7,74
+New Sarepta AGCM,18-Oct-14,10.6,56.9
+New Sarepta AGCM,19-Oct-14,8.3,63.7
+New Sarepta AGCM,20-Oct-14,11.3,57.9
+New Sarepta AGCM,21-Oct-14,8.4,72.3
+New Sarepta AGCM,22-Oct-14,7,68.5
+New Sarepta AGCM,23-Oct-14,7.7,58.8
+New Sarepta AGCM,24-Oct-14,5.3,58
+New Sarepta AGCM,25-Oct-14,2,62.5
+New Sarepta AGCM,26-Oct-14,1.3,82.4
+New Sarepta AGCM,27-Oct-14,-1.3,93.5
+New Sarepta AGCM,28-Oct-14,-2.6,93.7
+New Sarepta AGCM,29-Oct-14,-0.3,93.6
+New Sarepta AGCM,30-Oct-14,0.1,97
+New Sarepta AGCM,31-Oct-14,2.5,93.2
+New Sarepta AGCM,01-Nov-14,2.9,90
+New Sarepta AGCM,02-Nov-14,1.2,91.4
+New Sarepta AGCM,03-Nov-14,0.3,78.5
+New Sarepta AGCM,04-Nov-14,0.5,88.2
+New Sarepta AGCM,05-Nov-14,1.4,71.6
+New Sarepta AGCM,06-Nov-14,3.9,80.9
+New Sarepta AGCM,07-Nov-14,0.9,81.8
+New Sarepta AGCM,08-Nov-14,-5.3,90
+New Sarepta AGCM,09-Nov-14,-10.6,69.6
+New Sarepta AGCM,10-Nov-14,-14.5,81.5
+New Sarepta AGCM,11-Nov-14,-13.7,83.8
+New Sarepta AGCM,12-Nov-14,-13.3,83.9
+New Sarepta AGCM,13-Nov-14,-19.6,83.8
+New Sarepta AGCM,14-Nov-14,-18.1,86.6
+New Sarepta AGCM,15-Nov-14,-10.5,76.8
+New Sarepta AGCM,16-Nov-14,-10.9,86.1
+New Sarepta AGCM,17-Nov-14,-11.3,81.4
+New Sarepta AGCM,18-Nov-14,-2.5,78.3
+New Sarepta AGCM,19-Nov-14,-6.7,94.4
+New Sarepta AGCM,20-Nov-14,-2.2,82.9
+New Sarepta AGCM,21-Nov-14,3.3,86.7
+New Sarepta AGCM,22-Nov-14,-2.4,96.1
+New Sarepta AGCM,23-Nov-14,-7.5,90.4
+New Sarepta AGCM,24-Nov-14,-0.9,84.3
+New Sarepta AGCM,25-Nov-14,-6.8,91.1
+New Sarepta AGCM,26-Nov-14,-9,91.5
+New Sarepta AGCM,27-Nov-14,-12.5,88
+New Sarepta AGCM,28-Nov-14,-21.7,79.9
+New Sarepta AGCM,29-Nov-14,-26.7,73.5
+New Sarepta AGCM,30-Nov-14,-23.3,73.6
+New Sarepta AGCM,01-Dec-14,-17.4,76.5
+New Sarepta AGCM,02-Dec-14,-12,82
+New Sarepta AGCM,03-Dec-14,-7.2,71.9
+New Sarepta AGCM,04-Dec-14,-11.2,90.8
+New Sarepta AGCM,05-Dec-14,-13.1,91.1
+New Sarepta AGCM,06-Dec-14,-10,94
+New Sarepta AGCM,07-Dec-14,-9.1,92.7
+New Sarepta AGCM,08-Dec-14,-11,92.4
+New Sarepta AGCM,09-Dec-14,1,74.2
+New Sarepta AGCM,10-Dec-14,3.8,69.2
+New Sarepta AGCM,11-Dec-14,5.3,66.6
+New Sarepta AGCM,12-Dec-14,0.6,88.3
+New Sarepta AGCM,13-Dec-14,-2.9,94.6
+New Sarepta AGCM,14-Dec-14,-6.2,87.6
+New Sarepta AGCM,15-Dec-14,-10.1,94
+New Sarepta AGCM,16-Dec-14,-6.9,95.3
+New Sarepta AGCM,17-Dec-14,-6.6,96.8
+New Sarepta AGCM,18-Dec-14,-10.5,93.7
+New Sarepta AGCM,19-Dec-14,-8.6,93.9
+New Sarepta AGCM,20-Dec-14,-6.4,88
+New Sarepta AGCM,21-Dec-14,-5.7,91
+New Sarepta AGCM,22-Dec-14,-2,89.1
+New Sarepta AGCM,23-Dec-14,-4,80.4
+New Sarepta AGCM,24-Dec-14,-3.6,82.8
+New Sarepta AGCM,25-Dec-14,-10.4,92.6
+New Sarepta AGCM,26-Dec-14,-11.6,88.3
+New Sarepta AGCM,27-Dec-14,-7.8,92.2
+New Sarepta AGCM,28-Dec-14,-13.7,87.4
+New Sarepta AGCM,29-Dec-14,-19.8,80.3
+New Sarepta AGCM,30-Dec-14,-13.1,65.5
+New Sarepta AGCM,31-Dec-14,-2.4,63.5
+New Sarepta AGCM,01-Jan-15,0.1,83.3
+New Sarepta AGCM,02-Jan-15,-16.9,83.9
+New Sarepta AGCM,03-Jan-15,-24.6,77.7
+New Sarepta AGCM,04-Jan-15,-29,74.8
+New Sarepta AGCM,05-Jan-15,-23.1,75.6
+New Sarepta AGCM,06-Jan-15,-18.8,80.4
+New Sarepta AGCM,07-Jan-15,-13.7,81.9
+New Sarepta AGCM,08-Jan-15,-17.5,75.2
+New Sarepta AGCM,09-Jan-15,-21.8,77.5
+New Sarepta AGCM,10-Jan-15,-17,83
+New Sarepta AGCM,11-Jan-15,-19.2,85.5
+New Sarepta AGCM,12-Jan-15,-14.3,89.4
+New Sarepta AGCM,13-Jan-15,-2.8,79.8
+New Sarepta AGCM,14-Jan-15,2.6,72.5
+New Sarepta AGCM,15-Jan-15,-4.5,97.3
+New Sarepta AGCM,16-Jan-15,-2.9,81.8
+New Sarepta AGCM,17-Jan-15,-2.9,60.8
+New Sarepta AGCM,18-Jan-15,-6.1,71
+New Sarepta AGCM,19-Jan-15,-0.1,74.8
+New Sarepta AGCM,20-Jan-15,-2.3,77.9
+New Sarepta AGCM,21-Jan-15,-4.6,76.4
+New Sarepta AGCM,22-Jan-15,5.4,59.6
+New Sarepta AGCM,23-Jan-15,2,68.2
+New Sarepta AGCM,24-Jan-15,3.5,70.5
+New Sarepta AGCM,25-Jan-15,4.4,66.1
+New Sarepta AGCM,26-Jan-15,1.7,82.2
+New Sarepta AGCM,27-Jan-15,1.1,91.8
+New Sarepta AGCM,28-Jan-15,-3.4,98.1
+New Sarepta AGCM,29-Jan-15,-6.5,96.8
+New Sarepta AGCM,30-Jan-15,-8,95.5
+New Sarepta AGCM,31-Jan-15,-16.2,87.8
+New Sarepta AGCM,01-Feb-15,-17.6,86.1
+New Sarepta AGCM,02-Feb-15,-15.8,87.1
+New Sarepta AGCM,03-Feb-15,-18.8,84.2
+New Sarepta AGCM,04-Feb-15,-13,79.8
+New Sarepta AGCM,05-Feb-15,-13.7,80.9
+New Sarepta AGCM,06-Feb-15,-18.1,82.3
+New Sarepta AGCM,07-Feb-15,-17.9,80.3
+New Sarepta AGCM,08-Feb-15,-17.2,81.3
+New Sarepta AGCM,09-Feb-15,-17,83.9
+New Sarepta AGCM,10-Feb-15,-13.7,80.3
+New Sarepta AGCM,11-Feb-15,-14.8,84.5
+New Sarepta AGCM,12-Feb-15,-3.7,81.7
+New Sarepta AGCM,13-Feb-15,-1.4,91.4
+New Sarepta AGCM,14-Feb-15,-7.3,84.3
+New Sarepta AGCM,15-Feb-15,1.2,69.9
+New Sarepta AGCM,16-Feb-15,-6.5,82.2
+New Sarepta AGCM,17-Feb-15,-15.4,86.4
+New Sarepta AGCM,18-Feb-15,-1.7,84.6
+New Sarepta AGCM,19-Feb-15,2.9,75.9
+New Sarepta AGCM,20-Feb-15,-3.2,86.3
+New Sarepta AGCM,21-Feb-15,-13.7,76.3
+New Sarepta AGCM,22-Feb-15,-11.1,73.4
+New Sarepta AGCM,23-Feb-15,2.4,72.6
+New Sarepta AGCM,24-Feb-15,0.9,81.5
+New Sarepta AGCM,25-Feb-15,-15,77.7
+New Sarepta AGCM,26-Feb-15,-17.3,75.5
+New Sarepta AGCM,27-Feb-15,-12.8,82.2
+New Sarepta AGCM,28-Feb-15,-10.4,78.5
+New Sarepta AGCM,01-Mar-15,-9.3,80.1
+New Sarepta AGCM,02-Mar-15,-9.1,74.1
+New Sarepta AGCM,03-Mar-15,-16.2,60.1
+New Sarepta AGCM,04-Mar-15,-15,65.6
+New Sarepta AGCM,05-Mar-15,-1.5,59.3
+New Sarepta AGCM,06-Mar-15,2.6,67.8
+New Sarepta AGCM,07-Mar-15,0,65.9
+New Sarepta AGCM,08-Mar-15,1.7,65.7
+New Sarepta AGCM,09-Mar-15,3.4,73.2
+New Sarepta AGCM,10-Mar-15,0.1,81.5
+New Sarepta AGCM,11-Mar-15,-0.3,90
+New Sarepta AGCM,12-Mar-15,2,86.3
+New Sarepta AGCM,13-Mar-15,5.3,66.2
+New Sarepta AGCM,14-Mar-15,7.7,59.2
+New Sarepta AGCM,15-Mar-15,1.2,59.4
+New Sarepta AGCM,16-Mar-15,-0.7,71.1
+New Sarepta AGCM,17-Mar-15,0.1,86.2
+New Sarepta AGCM,18-Mar-15,2.1,75.7
+New Sarepta AGCM,19-Mar-15,0.8,74.3
+New Sarepta AGCM,20-Mar-15,-3.5,91.6
+New Sarepta AGCM,21-Mar-15,-5.1,92.3
+New Sarepta AGCM,22-Mar-15,-6.5,88.5
+New Sarepta AGCM,23-Mar-15,-6.6,88.4
+New Sarepta AGCM,24-Mar-15,-3.1,86.1
+New Sarepta AGCM,25-Mar-15,-0.6,76.9
+New Sarepta AGCM,26-Mar-15,3.3,77.1
+New Sarepta AGCM,27-Mar-15,6.7,79.2
+New Sarepta AGCM,28-Mar-15,4.9,82.2
+New Sarepta AGCM,29-Mar-15,6.3,69
+New Sarepta AGCM,30-Mar-15,6.5,57.1
+New Sarepta AGCM,31-Mar-15,7,67.3
+New Sarepta AGCM,01-Apr-15,0.4,87.3
+New Sarepta AGCM,02-Apr-15,-0.4,86.3
+New Sarepta AGCM,03-Apr-15,0.9,80.4
+New Sarepta AGCM,04-Apr-15,-0.9,79.9
+New Sarepta AGCM,05-Apr-15,-0.7,74.5
+New Sarepta AGCM,06-Apr-15,0,68.6
+New Sarepta AGCM,07-Apr-15,1.5,77
+New Sarepta AGCM,08-Apr-15,4.3,58.9
+New Sarepta AGCM,09-Apr-15,7.9,45.5
+New Sarepta AGCM,10-Apr-15,8.9,41.5
+New Sarepta AGCM,11-Apr-15,5.3,51.3
+New Sarepta AGCM,12-Apr-15,2.7,38.1
+New Sarepta AGCM,13-Apr-15,4.6,37.3
+New Sarepta AGCM,14-Apr-15,5.4,43.3
+New Sarepta AGCM,15-Apr-15,6,35.3
+New Sarepta AGCM,16-Apr-15,8.6,42.9
+New Sarepta AGCM,17-Apr-15,6.6,64.7
+New Sarepta AGCM,18-Apr-15,5.9,50.8
+New Sarepta AGCM,19-Apr-15,5.4,44.4
+New Sarepta AGCM,20-Apr-15,9,41.2
+New Sarepta AGCM,21-Apr-15,11.4,44.2
+New Sarepta AGCM,22-Apr-15,12.3,46.7
+New Sarepta AGCM,23-Apr-15,4.5,76.2
+New Sarepta AGCM,24-Apr-15,2.1,87.3
+New Sarepta AGCM,25-Apr-15,-1.1,90.8
+New Sarepta AGCM,26-Apr-15,-0.1,78.1
+New Sarepta AGCM,27-Apr-15,8.4,56
+New Sarepta AGCM,28-Apr-15,14.1,45.1
+New Sarepta AGCM,29-Apr-15,9.2,49.1
+New Sarepta AGCM,30-Apr-15,7.6,55.4
+New Sarepta AGCM,01-May-15,7.7,57.6
+New Sarepta AGCM,02-May-15,5.9,62.1
+New Sarepta AGCM,03-May-15,5.3,69.4
+New Sarepta AGCM,04-May-15,9.4,52.9
+New Sarepta AGCM,05-May-15,9.1,61.2
+New Sarepta AGCM,06-May-15,0.2,97.1
+New Sarepta AGCM,07-May-15,3.4,72.8
+New Sarepta AGCM,08-May-15,5.5,64.2
+New Sarepta AGCM,09-May-15,9.1,52.6
+New Sarepta AGCM,10-May-15,8.2,46.4
+New Sarepta AGCM,11-May-15,7.9,38.5
+New Sarepta AGCM,12-May-15,9.5,38.3
+New Sarepta AGCM,13-May-15,9.4,39.8
+New Sarepta AGCM,14-May-15,10,45.1
+New Sarepta AGCM,15-May-15,11.6,60.3
+New Sarepta AGCM,16-May-15,8.1,68.3
+New Sarepta AGCM,17-May-15,5.2,49.1
+New Sarepta AGCM,18-May-15,9.3,31.9
+New Sarepta AGCM,19-May-15,11.9,29.1
+New Sarepta AGCM,20-May-15,14.4,27.2
+New Sarepta AGCM,21-May-15,15.8,28.5
+New Sarepta AGCM,22-May-15,17,28.5
+New Sarepta AGCM,23-May-15,19,27.6
+New Sarepta AGCM,24-May-15,19.2,28.2
+New Sarepta AGCM,25-May-15,18.2,35.9
+New Sarepta AGCM,26-May-15,17.7,46.8
+New Sarepta AGCM,27-May-15,16.7,57.8
+New Sarepta AGCM,28-May-15,9.9,56.8
+New Sarepta AGCM,29-May-15,9.7,45
+New Sarepta AGCM,30-May-15,12.6,45.2
+New Sarepta AGCM,31-May-15,14.5,60.5
+New Sarepta AGCM,01-Jun-15,12.9,65.2
+New Sarepta AGCM,02-Jun-15,11.4,69.3
+New Sarepta AGCM,03-Jun-15,15.6,52.2
+New Sarepta AGCM,04-Jun-15,15.3,60.1
+New Sarepta AGCM,05-Jun-15,15.5,67.6
+New Sarepta AGCM,06-Jun-15,19.2,45.1
+New Sarepta AGCM,07-Jun-15,19.3,42.2
+New Sarepta AGCM,08-Jun-15,18.8,45.3
+New Sarepta AGCM,09-Jun-15,16,51.4
+New Sarepta AGCM,10-Jun-15,15.7,55.9
+New Sarepta AGCM,11-Jun-15,16.9,65.6
+New Sarepta AGCM,12-Jun-15,12.6,61.4
+New Sarepta AGCM,13-Jun-15,9.2,78.8
+New Sarepta AGCM,14-Jun-15,9.2,79.9
+New Sarepta AGCM,15-Jun-15,11.9,63.1
+New Sarepta AGCM,16-Jun-15,15.1,57.4
+New Sarepta AGCM,17-Jun-15,12.1,61.5
+New Sarepta AGCM,18-Jun-15,13.8,68.4
+New Sarepta AGCM,19-Jun-15,15,66.9
+New Sarepta AGCM,20-Jun-15,11.8,72.5
+New Sarepta AGCM,21-Jun-15,12.5,71.1
+New Sarepta AGCM,22-Jun-15,15.1,65.4
+New Sarepta AGCM,23-Jun-15,15.9,68.8
+New Sarepta AGCM,24-Jun-15,18.2,58.1
+New Sarepta AGCM,25-Jun-15,20.6,52.3
+New Sarepta AGCM,26-Jun-15,21.9,52.1
+New Sarepta AGCM,27-Jun-15,22.5,48.7
+New Sarepta AGCM,28-Jun-15,24.2,46.9
+New Sarepta AGCM,29-Jun-15,16.3,82.7
+New Sarepta AGCM,30-Jun-15,16.9,88.1
+New Sarepta AGCM,01-Jul-15,18.9,76.8
+New Sarepta AGCM,02-Jul-15,21,64.2
+New Sarepta AGCM,03-Jul-15,21.3,55.8
+New Sarepta AGCM,04-Jul-15,15.8,63
+New Sarepta AGCM,05-Jul-15,13.6,65.5
+New Sarepta AGCM,06-Jul-15,15.5,61.6
+New Sarepta AGCM,07-Jul-15,14.4,59.3
+New Sarepta AGCM,08-Jul-15,19.7,60.2
+New Sarepta AGCM,09-Jul-15,23.8,51.2
+New Sarepta AGCM,10-Jul-15,23.1,49.2
+New Sarepta AGCM,11-Jul-15,22.7,64.2
+New Sarepta AGCM,12-Jul-15,20.1,80.5
+New Sarepta AGCM,13-Jul-15,19.2,75.1
+New Sarepta AGCM,14-Jul-15,18.6,59.8
+New Sarepta AGCM,15-Jul-15,18.6,59.6
+New Sarepta AGCM,16-Jul-15,13.6,74.6
+New Sarepta AGCM,17-Jul-15,13.6,91.2
+New Sarepta AGCM,18-Jul-15,17.9,68.1
+New Sarepta AGCM,19-Jul-15,18.5,63.7
+New Sarepta AGCM,20-Jul-15,19,65
+New Sarepta AGCM,21-Jul-15,16.7,80.5
+New Sarepta AGCM,22-Jul-15,13.6,82.8
+New Sarepta AGCM,23-Jul-15,13.9,79.6
+New Sarepta AGCM,24-Jul-15,16.4,75.1
+New Sarepta AGCM,25-Jul-15,15.1,80.8
+New Sarepta AGCM,26-Jul-15,14.4,76.6
+New Sarepta AGCM,27-Jul-15,15.4,70.7
+New Sarepta AGCM,28-Jul-15,15.4,66.6
+New Sarepta AGCM,29-Jul-15,15,71.2
+New Sarepta AGCM,30-Jul-15,16.7,63.4
+New Sarepta AGCM,31-Jul-15,18.9,67.3
+New Sarepta AGCM,01-Aug-15,16.8,75.3
+New Sarepta AGCM,02-Aug-15,18.5,71.1
+New Sarepta AGCM,03-Aug-15,21.1,63.9
+New Sarepta AGCM,04-Aug-15,16.9,82.7
+New Sarepta AGCM,05-Aug-15,14.4,89.6
+New Sarepta AGCM,06-Aug-15,13.8,81.9
+New Sarepta AGCM,07-Aug-15,15.7,76.3
+New Sarepta AGCM,08-Aug-15,18.8,65.9
+New Sarepta AGCM,09-Aug-15,19.8,67.3
+New Sarepta AGCM,10-Aug-15,19.8,65.8
+New Sarepta AGCM,11-Aug-15,20.5,61.9
+New Sarepta AGCM,12-Aug-15,20.3,60.4
+New Sarepta AGCM,13-Aug-15,21.4,58.4
+New Sarepta AGCM,14-Aug-15,16.4,64
+New Sarepta AGCM,15-Aug-15,10.6,86.5
+New Sarepta AGCM,16-Aug-15,10.5,79.8
+New Sarepta AGCM,17-Aug-15,12.6,71.7
+New Sarepta AGCM,18-Aug-15,13.9,72.3
+New Sarepta AGCM,19-Aug-15,17.7,62.5
+New Sarepta AGCM,20-Aug-15,13.9,68.9
+New Sarepta AGCM,21-Aug-15,8.8,81.1
+New Sarepta AGCM,22-Aug-15,9.4,68.2
+New Sarepta AGCM,23-Aug-15,13.3,61.1
+New Sarepta AGCM,24-Aug-15,14.5,68
+New Sarepta AGCM,25-Aug-15,16.6,70.1
+New Sarepta AGCM,26-Aug-15,16.1,76.8
+New Sarepta AGCM,27-Aug-15,17.8,74.9
+New Sarepta AGCM,28-Aug-15,18.4,65.9
+New Sarepta AGCM,29-Aug-15,17.8,60.3
+New Sarepta AGCM,30-Aug-15,15.5,59.8
+New Sarepta AGCM,31-Aug-15,14.3,55.1
+Prentiss,01-Apr-14,-9.6,80.9
+Prentiss,02-Apr-14,-4.7,90.1
+Prentiss,03-Apr-14,-4.7,85.8
+Prentiss,04-Apr-14,2.3,66.7
+Prentiss,05-Apr-14,0.8,72.2
+Prentiss,06-Apr-14,2.6,56.6
+Prentiss,07-Apr-14,3.5,54.8
+Prentiss,08-Apr-14,7,51.1
+Prentiss,09-Apr-14,3.4,54.6
+Prentiss,10-Apr-14,3.2,47.9
+Prentiss,11-Apr-14,3.1,65.3
+Prentiss,12-Apr-14,-3.6,69.7
+Prentiss,13-Apr-14,-2.8,64.8
+Prentiss,14-Apr-14,3.1,48.2
+Prentiss,15-Apr-14,2.7,61.6
+Prentiss,16-Apr-14,-2.2,82.7
+Prentiss,17-Apr-14,-1.3,89.9
+Prentiss,18-Apr-14,-1.1,92.4
+Prentiss,19-Apr-14,3.9,69
+Prentiss,20-Apr-14,7,55.5
+Prentiss,21-Apr-14,8.2,41.1
+Prentiss,22-Apr-14,10.6,42
+Prentiss,23-Apr-14,4.8,77.4
+Prentiss,24-Apr-14,3.9,67.2
+Prentiss,25-Apr-14,2.7,77.1
+Prentiss,26-Apr-14,1.4,77
+Prentiss,27-Apr-14,3.6,76.5
+Prentiss,28-Apr-14,7.1,54.2
+Prentiss,29-Apr-14,8.9,30.8
+Prentiss,30-Apr-14,13,26.4
+Prentiss,01-May-14,12.4,51.1
+Prentiss,02-May-14,5.8,56.2
+Prentiss,03-May-14,-0.6,70.9
+Prentiss,04-May-14,-0.8,89.9
+Prentiss,05-May-14,2.8,72.1
+Prentiss,06-May-14,0,60.9
+Prentiss,07-May-14,1.9,49.8
+Prentiss,08-May-14,7.6,47
+Prentiss,09-May-14,7,49.9
+Prentiss,10-May-14,4.2,47.6
+Prentiss,11-May-14,5.7,35
+Prentiss,12-May-14,9.8,28.2
+Prentiss,13-May-14,11.6,36.5
+Prentiss,14-May-14,13.9,36.5
+Prentiss,15-May-14,10.5,59.9
+Prentiss,16-May-14,6.3,72.7
+Prentiss,17-May-14,10.5,58.3
+Prentiss,18-May-14,8.6,83
+Prentiss,19-May-14,10.4,70.3
+Prentiss,20-May-14,10.9,75.4
+Prentiss,21-May-14,15.2,51.6
+Prentiss,22-May-14,17.4,36.6
+Prentiss,23-May-14,19,35.5
+Prentiss,24-May-14,13,55.7
+Prentiss,25-May-14,12.9,64.6
+Prentiss,26-May-14,11.6,74.2
+Prentiss,27-May-14,10,72.5
+Prentiss,28-May-14,7.7,86.6
+Prentiss,29-May-14,8.1,84.2
+Prentiss,30-May-14,13.6,55.5
+Prentiss,31-May-14,13.5,58.2
+Prentiss,01-Jun-14,12.8,68.1
+Prentiss,02-Jun-14,14.2,62.1
+Prentiss,03-Jun-14,15.6,53.2
+Prentiss,04-Jun-14,12.8,62.6
+Prentiss,05-Jun-14,5.7,74.2
+Prentiss,06-Jun-14,8.7,53.1
+Prentiss,07-Jun-14,11.9,50.3
+Prentiss,08-Jun-14,14.4,45.1
+Prentiss,09-Jun-14,10.8,65.2
+Prentiss,10-Jun-14,10.5,57.3
+Prentiss,11-Jun-14,11.3,65.2
+Prentiss,12-Jun-14,14,52.2
+Prentiss,13-Jun-14,11.9,70.5
+Prentiss,14-Jun-14,12.7,63.2
+Prentiss,15-Jun-14,12.5,62.3
+Prentiss,16-Jun-14,11,73.5
+Prentiss,17-Jun-14,12.3,67.9
+Prentiss,18-Jun-14,12.7,78.6
+Prentiss,19-Jun-14,12.9,90.5
+Prentiss,20-Jun-14,15.7,74.6
+Prentiss,21-Jun-14,13.6,67.1
+Prentiss,22-Jun-14,15.3,51.1
+Prentiss,23-Jun-14,16.8,52.2
+Prentiss,24-Jun-14,17.6,65.3
+Prentiss,25-Jun-14,14.1,78.6
+Prentiss,26-Jun-14,15.8,62
+Prentiss,27-Jun-14,16,66.3
+Prentiss,28-Jun-14,14.1,78.3
+Prentiss,29-Jun-14,11.9,86.6
+Prentiss,30-Jun-14,15.3,69.1
+Prentiss,01-Jul-14,17.2,62.3
+Prentiss,02-Jul-14,18.2,67.8
+Prentiss,03-Jul-14,20,67.1
+Prentiss,04-Jul-14,17.2,72.2
+Prentiss,05-Jul-14,16.7,74.2
+Prentiss,06-Jul-14,16.1,74.3
+Prentiss,07-Jul-14,17.2,61.7
+Prentiss,08-Jul-14,19.4,60.9
+Prentiss,09-Jul-14,19.8,64.8
+Prentiss,10-Jul-14,14.5,66.7
+Prentiss,11-Jul-14,14.8,67.5
+Prentiss,12-Jul-14,19.6,60.3
+Prentiss,13-Jul-14,19.7,64
+Prentiss,14-Jul-14,18,63.6
+Prentiss,15-Jul-14,19.5,62.2
+Prentiss,16-Jul-14,21,63.5
+Prentiss,17-Jul-14,15.8,86.6
+Prentiss,18-Jul-14,14.8,74.9
+Prentiss,19-Jul-14,15.6,76
+Prentiss,20-Jul-14,14.3,75.5
+Prentiss,21-Jul-14,14.1,75.1
+Prentiss,22-Jul-14,16.3,71.2
+Prentiss,23-Jul-14,17.2,71.2
+Prentiss,24-Jul-14,17,60
+Prentiss,25-Jul-14,10.8,84.2
+Prentiss,26-Jul-14,14,75.1
+Prentiss,27-Jul-14,17.5,68.3
+Prentiss,28-Jul-14,19.3,69.6
+Prentiss,29-Jul-14,20.5,75.1
+Prentiss,30-Jul-14,22.5,73
+Prentiss,31-Jul-14,20.2,81.1
+Prentiss,01-Aug-14,18.3,74.4
+Prentiss,02-Aug-14,18.7,76.5
+Prentiss,03-Aug-14,18.3,73.4
+Prentiss,04-Aug-14,16.5,78.6
+Prentiss,05-Aug-14,17,78.4
+Prentiss,06-Aug-14,18.3,78.6
+Prentiss,07-Aug-14,16.1,73.7
+Prentiss,08-Aug-14,12.4,89.5
+Prentiss,09-Aug-14,13.5,69.5
+Prentiss,10-Aug-14,17,63
+Prentiss,11-Aug-14,19.7,62.5
+Prentiss,12-Aug-14,19.8,69.2
+Prentiss,13-Aug-14,20.8,70.4
+Prentiss,14-Aug-14,20.8,72.7
+Prentiss,15-Aug-14,19,78.9
+Prentiss,16-Aug-14,17.6,85.2
+Prentiss,17-Aug-14,17.6,78.1
+Prentiss,18-Aug-14,19.6,64.9
+Prentiss,19-Aug-14,15.6,83.2
+Prentiss,20-Aug-14,12.3,81.1
+Prentiss,21-Aug-14,10.1,78.9
+Prentiss,22-Aug-14,10.4,68.3
+Prentiss,23-Aug-14,10.1,69.3
+Prentiss,24-Aug-14,11.4,77.7
+Prentiss,25-Aug-14,13.4,65.4
+Prentiss,26-Aug-14,16.7,60.6
+Prentiss,27-Aug-14,18.4,58.7
+Prentiss,28-Aug-14,12.1,79.3
+Prentiss,29-Aug-14,11.7,78.2
+Prentiss,30-Aug-14,12.5,69.1
+Prentiss,31-Aug-14,11.7,62
+Prentiss,01-Sep-14,10.3,71.5
+Prentiss,02-Sep-14,10.1,77.8
+Prentiss,03-Sep-14,9,82.4
+Prentiss,04-Sep-14,9.8,71.4
+Prentiss,05-Sep-14,13.5,58.8
+Prentiss,06-Sep-14,15.7,58.3
+Prentiss,07-Sep-14,13.6,66.7
+Prentiss,08-Sep-14,0.8,94.3
+Prentiss,09-Sep-14,0.8,94
+Prentiss,10-Sep-14,1,88.7
+Prentiss,11-Sep-14,3.3,67.8
+Prentiss,12-Sep-14,4.4,81.2
+Prentiss,13-Sep-14,7.2,74.9
+Prentiss,14-Sep-14,10.5,64.4
+Prentiss,15-Sep-14,13.8,56.3
+Prentiss,16-Sep-14,16.1,53.5
+Prentiss,17-Sep-14,16.7,51.3
+Prentiss,18-Sep-14,14,65.8
+Prentiss,19-Sep-14,14.2,65.3
+Prentiss,20-Sep-14,13.1,49
+Prentiss,21-Sep-14,17.9,46.5
+Prentiss,22-Sep-14,18.6,43.3
+Prentiss,23-Sep-14,13.9,69.4
+Prentiss,24-Sep-14,15.7,63.1
+Prentiss,25-Sep-14,15.5,64.7
+Prentiss,26-Sep-14,9.4,84.2
+Prentiss,27-Sep-14,4.9,81.4
+Prentiss,28-Sep-14,6.9,77
+Prentiss,29-Sep-14,10.4,73.4
+Prentiss,30-Sep-14,8.9,73.5
+Prentiss,01-Oct-14,5.6,72.6
+Prentiss,02-Oct-14,0.8,64.6
+Prentiss,03-Oct-14,3,59.6
+Prentiss,04-Oct-14,12,60
+Prentiss,05-Oct-14,10.8,61.8
+Prentiss,06-Oct-14,10.5,59.1
+Prentiss,07-Oct-14,7.7,58.8
+Prentiss,08-Oct-14,7.8,57
+Prentiss,09-Oct-14,9,59.1
+Prentiss,10-Oct-14,11,58.4
+Prentiss,11-Oct-14,11,50.6
+Prentiss,12-Oct-14,8.8,49.2
+Prentiss,13-Oct-14,9.5,45.1
+Prentiss,14-Oct-14,12.6,39.9
+Prentiss,15-Oct-14,5.4,82.5
+Prentiss,16-Oct-14,5.5,81.8
+Prentiss,17-Oct-14,6.1,69.9
+Prentiss,18-Oct-14,13.3,40.9
+Prentiss,19-Oct-14,9.6,51.9
+Prentiss,20-Oct-14,13.5,41
+Prentiss,21-Oct-14,8.8,63.8
+Prentiss,22-Oct-14,7.9,55.5
+Prentiss,23-Oct-14,9.3,45.6
+Prentiss,24-Oct-14,4.3,62.6
+Prentiss,25-Oct-14,2.7,58.4
+Prentiss,26-Oct-14,0.4,83.1
+Prentiss,27-Oct-14,-1,80.5
+Prentiss,28-Oct-14,-2.7,84.6
+Prentiss,29-Oct-14,0.1,85.9
+Prentiss,30-Oct-14,-1.1,94.2
+Prentiss,31-Oct-14,3.5,83.8
+Prentiss,01-Nov-14,2.4,87.7
+Prentiss,02-Nov-14,1.7,86.4
+Prentiss,03-Nov-14,1.7,67.5
+Prentiss,04-Nov-14,1.9,76.9
+Prentiss,05-Nov-14,2.7,65.8
+Prentiss,06-Nov-14,8.3,65.9
+Prentiss,07-Nov-14,2.3,74.6
+Prentiss,08-Nov-14,-1.3,85.5
+Prentiss,09-Nov-14,-10.2,86
+Prentiss,10-Nov-14,-14.5,79.5
+Prentiss,11-Nov-14,-14.5,81.3
+Prentiss,12-Nov-14,-14.9,79.5
+Prentiss,13-Nov-14,-19,79
+Prentiss,14-Nov-14,-16.8,81.7
+Prentiss,15-Nov-14,-9.9,72
+Prentiss,16-Nov-14,-9.3,78.4
+Prentiss,17-Nov-14,-7.2,73.5
+Prentiss,18-Nov-14,-0.7,74.3
+Prentiss,19-Nov-14,-5.6,90.4
+Prentiss,20-Nov-14,-1.5,74.4
+Prentiss,21-Nov-14,2.5,60.9
+Prentiss,22-Nov-14,-1.9,84.5
+Prentiss,23-Nov-14,-5.5,82.9
+Prentiss,24-Nov-14,-1.4,74.8
+Prentiss,25-Nov-14,-4.4,83.8
+Prentiss,26-Nov-14,-5.9,88.2
+Prentiss,27-Nov-14,-10.5,86.8
+Prentiss,28-Nov-14,-21.5,76.5
+Prentiss,29-Nov-14,-25.2,70.3
+Prentiss,30-Nov-14,-20.9,66.7
+Prentiss,01-Dec-14,-12.6,65.3
+Prentiss,02-Dec-14,-9.7,68.6
+Prentiss,03-Dec-14,-7.9,62.7
+Prentiss,04-Dec-14,-7.3,74.5
+Prentiss,05-Dec-14,-9.3,86.8
+Prentiss,06-Dec-14,-8.2,88.6
+Prentiss,07-Dec-14,-2.1,83.6
+Prentiss,08-Dec-14,-3.8,77
+Prentiss,09-Dec-14,6.4,55.1
+Prentiss,10-Dec-14,6.3,57.5
+Prentiss,11-Dec-14,6,58.5
+Prentiss,12-Dec-14,4.2,67.8
+Prentiss,13-Dec-14,-0.2,84.1
+Prentiss,14-Dec-14,-4.1,74.5
+Prentiss,15-Dec-14,-7.7,87.1
+Prentiss,16-Dec-14,-7,89.8
+Prentiss,17-Dec-14,-7.3,89.5
+Prentiss,18-Dec-14,-6.1,90
+Prentiss,19-Dec-14,-6,87.6
+Prentiss,20-Dec-14,-2.7,72.6
+Prentiss,21-Dec-14,-3.5,83.7
+Prentiss,22-Dec-14,-1.6,75.1
+Prentiss,23-Dec-14,-2.5,70
+Prentiss,24-Dec-14,-2.2,73.3
+Prentiss,25-Dec-14,-8.3,87.6
+Prentiss,26-Dec-14,-8.4,77.2
+Prentiss,27-Dec-14,-6.8,76.8
+Prentiss,28-Dec-14,-12.7,84.9
+Prentiss,29-Dec-14,-18.4,78.8
+Prentiss,30-Dec-14,-12,60
+Prentiss,31-Dec-14,-2.1,55.4
+Prentiss,01-Jan-15,0.9,82.2
+Prentiss,02-Jan-15,-14.9,82.9
+Prentiss,03-Jan-15,-22.9,75.3
+Prentiss,04-Jan-15,-25.6,72.3
+Prentiss,05-Jan-15,-19.4,74.2
+Prentiss,06-Jan-15,-16.7,77.8
+Prentiss,07-Jan-15,-11.6,79.5
+Prentiss,08-Jan-15,-16.3,72.8
+Prentiss,09-Jan-15,-16.6,70.5
+Prentiss,10-Jan-15,-13.6,77.3
+Prentiss,11-Jan-15,-15.3,82.4
+Prentiss,12-Jan-15,-12.3,81.4
+Prentiss,13-Jan-15,-3.7,67.1
+Prentiss,14-Jan-15,1.6,61.6
+Prentiss,15-Jan-15,-1.8,70.5
+Prentiss,16-Jan-15,0.7,62.2
+Prentiss,17-Jan-15,-1.2,45.4
+Prentiss,18-Jan-15,-2.1,66.5
+Prentiss,19-Jan-15,0.5,60.8
+Prentiss,20-Jan-15,-2.9,58.4
+Prentiss,21-Jan-15,-1.5,57.9
+Prentiss,22-Jan-15,5.6,53
+Prentiss,23-Jan-15,3.9,56.5
+Prentiss,24-Jan-15,4.2,60.7
+Prentiss,25-Jan-15,5.6,59.8
+Prentiss,26-Jan-15,2.1,76.2
+Prentiss,27-Jan-15,0.2,84.4
+Prentiss,28-Jan-15,-1.3,83.7
+Prentiss,29-Jan-15,-4.6,88.9
+Prentiss,30-Jan-15,-4.3,75
+Prentiss,31-Jan-15,-15.8,81.6
+Prentiss,01-Feb-15,-17,81
+Prentiss,02-Feb-15,-16.2,81.3
+Prentiss,03-Feb-15,-16.1,77.8
+Prentiss,04-Feb-15,-9.4,65.2
+Prentiss,05-Feb-15,-11.6,83.2
+Prentiss,06-Feb-15,-17,81.4
+Prentiss,07-Feb-15,-16.7,81.2
+Prentiss,08-Feb-15,-16.7,80.2
+Prentiss,09-Feb-15,-18.3,80.1
+Prentiss,10-Feb-15,-13.9,80.1
+Prentiss,11-Feb-15,-12.5,82.9
+Prentiss,12-Feb-15,-1,71.5
+Prentiss,13-Feb-15,3.2,73.7
+Prentiss,14-Feb-15,-1.8,76.5
+Prentiss,15-Feb-15,0.5,60.2
+Prentiss,16-Feb-15,-4.6,78.4
+Prentiss,17-Feb-15,-6.8,83.4
+Prentiss,18-Feb-15,1.8,66.8
+Prentiss,19-Feb-15,3.7,62.5
+Prentiss,20-Feb-15,-3,80.2
+Prentiss,21-Feb-15,-11.9,79.2
+Prentiss,22-Feb-15,-7.9,66.3
+Prentiss,23-Feb-15,3.6,62
+Prentiss,24-Feb-15,2.9,67.1
+Prentiss,25-Feb-15,-13.1,78
+Prentiss,26-Feb-15,-15.3,76.8
+Prentiss,27-Feb-15,-12.2,80.3
+Prentiss,28-Feb-15,-10.2,71.2
+Prentiss,01-Mar-15,-7.2,70.6
+Prentiss,02-Mar-15,-8.5,70.6
+Prentiss,03-Mar-15,-15.7,55.5
+Prentiss,04-Mar-15,-11.5,59.7
+Prentiss,05-Mar-15,-0.9,52.7
+Prentiss,06-Mar-15,2.3,57.7
+Prentiss,07-Mar-15,1.1,54.9
+Prentiss,08-Mar-15,3.3,54.6
+Prentiss,09-Mar-15,5.1,62.3
+Prentiss,10-Mar-15,2.7,75.2
+Prentiss,11-Mar-15,0.6,86.3
+Prentiss,12-Mar-15,4.5,66.9
+Prentiss,13-Mar-15,7.4,52
+Prentiss,14-Mar-15,9.8,46
+Prentiss,15-Mar-15,0.5,67
+Prentiss,16-Mar-15,-0.6,74.6
+Prentiss,17-Mar-15,-0.3,80.1
+Prentiss,18-Mar-15,2.3,71.3
+Prentiss,19-Mar-15,2.6,69
+Prentiss,20-Mar-15,-1.7,93.5
+Prentiss,21-Mar-15,-2.9,97.4
+Prentiss,22-Mar-15,-5.6,88.7
+Prentiss,23-Mar-15,-5.8,87
+Prentiss,24-Mar-15,-3.5,82.5
+Prentiss,25-Mar-15,0,71.9
+Prentiss,26-Mar-15,4.7,61.2
+Prentiss,27-Mar-15,8.5,60.9
+Prentiss,28-Mar-15,5.5,68.1
+Prentiss,29-Mar-15,7.3,58.1
+Prentiss,30-Mar-15,6.8,53
+Prentiss,31-Mar-15,8.6,52.5
+Prentiss,01-Apr-15,0.7,69.2
+Prentiss,02-Apr-15,-0.6,83.1
+Prentiss,03-Apr-15,1.1,68.1
+Prentiss,04-Apr-15,-1.2,85.3
+Prentiss,05-Apr-15,-1,69.8
+Prentiss,06-Apr-15,-1.5,66.8
+Prentiss,07-Apr-15,1.8,67.7
+Prentiss,08-Apr-15,4.7,44
+Prentiss,09-Apr-15,7.6,33.5
+Prentiss,10-Apr-15,8.8,30.2
+Prentiss,11-Apr-15,6.2,40.7
+Prentiss,12-Apr-15,1.7,36.1
+Prentiss,13-Apr-15,4.1,34.3
+Prentiss,14-Apr-15,4.7,47.1
+Prentiss,15-Apr-15,5.6,31
+Prentiss,16-Apr-15,9.3,32.5
+Prentiss,17-Apr-15,7.5,52.9
+Prentiss,18-Apr-15,5.3,44.9
+Prentiss,19-Apr-15,6,34.4
+Prentiss,20-Apr-15,9.5,35.9
+Prentiss,21-Apr-15,12,39.6
+Prentiss,22-Apr-15,12,44.4
+Prentiss,23-Apr-15,5.5,58.5
+Prentiss,24-Apr-15,2.5,81.3
+Prentiss,25-Apr-15,-1.7,90.9
+Prentiss,26-Apr-15,0.1,78.4
+Prentiss,27-Apr-15,9.8,44.2
+Prentiss,28-Apr-15,15.8,33
+Prentiss,29-Apr-15,7.9,56.1
+Prentiss,30-Apr-15,8,49.1
+Prentiss,01-May-15,8.1,53.2
+Prentiss,02-May-15,4.9,57.3
+Prentiss,03-May-15,4.7,58.8
+Prentiss,04-May-15,9.1,44.5
+Prentiss,05-May-15,7.8,59
+Prentiss,06-May-15,0.8,83.8
+Prentiss,07-May-15,3.3,70.5
+Prentiss,08-May-15,5.2,68.4
+Prentiss,09-May-15,9.7,43.3
+Prentiss,10-May-15,8.2,47.8
+Prentiss,11-May-15,6.4,38.1
+Prentiss,12-May-15,8.3,31.2
+Prentiss,13-May-15,8,41.1
+Prentiss,14-May-15,9.2,51
+Prentiss,15-May-15,10.2,66.9
+Prentiss,16-May-15,6.2,85.3
+Prentiss,17-May-15,4.4,57.4
+Prentiss,18-May-15,8.1,39.6
+Prentiss,19-May-15,10.7,32.2
+Prentiss,20-May-15,13.1,29
+Prentiss,21-May-15,14.6,29
+Prentiss,22-May-15,16.3,27.2
+Prentiss,23-May-15,18.9,20.5
+Prentiss,24-May-15,18.1,26.1
+Prentiss,25-May-15,17.4,34.1
+Prentiss,26-May-15,17.1,43
+Prentiss,27-May-15,16.1,59.4
+Prentiss,28-May-15,9.8,62
+Prentiss,29-May-15,8.7,55.2
+Prentiss,30-May-15,12.1,52.2
+Prentiss,31-May-15,14.7,59.2
+Prentiss,01-Jun-15,14.6,55.8
+Prentiss,02-Jun-15,11.3,70.5
+Prentiss,03-Jun-15,13.6,59.8
+Prentiss,04-Jun-15,13.1,74.1
+Prentiss,05-Jun-15,15.2,64.3
+Prentiss,06-Jun-15,18.9,45.4
+Prentiss,07-Jun-15,20.3,35.6
+Prentiss,08-Jun-15,19.2,42.1
+Prentiss,09-Jun-15,16.5,47.5
+Prentiss,10-Jun-15,14.3,65.7
+Prentiss,11-Jun-15,15.9,71.4
+Prentiss,12-Jun-15,10,72.7
+Prentiss,13-Jun-15,8.4,77
+Prentiss,14-Jun-15,9.6,71.1
+Prentiss,15-Jun-15,11.5,62.3
+Prentiss,16-Jun-15,14.1,63.7
+Prentiss,17-Jun-15,10.4,75.8
+Prentiss,18-Jun-15,12.5,79.5
+Prentiss,19-Jun-15,13.3,76.2
+Prentiss,20-Jun-15,11.1,72.4
+Prentiss,21-Jun-15,12.6,66.1
+Prentiss,22-Jun-15,15.3,59.1
+Prentiss,23-Jun-15,15,68.8
+Prentiss,24-Jun-15,16.9,58.9
+Prentiss,25-Jun-15,20.1,53.4
+Prentiss,26-Jun-15,20.6,56.8
+Prentiss,27-Jun-15,22,58.6
+Prentiss,28-Jun-15,22.6,55.2
+Prentiss,29-Jun-15,17.1,72.8
+Prentiss,30-Jun-15,16.4,81.4
+Prentiss,01-Jul-15,17.9,74.3
+Prentiss,02-Jul-15,20.5,62.9
+Prentiss,03-Jul-15,20.6,59.3
+Prentiss,04-Jul-15,14.1,71.8
+Prentiss,05-Jul-15,12,69.2
+Prentiss,06-Jul-15,14.9,64.5
+Prentiss,07-Jul-15,13.8,72.2
+Prentiss,08-Jul-15,19.7,56.2
+Prentiss,09-Jul-15,23.4,48.1
+Prentiss,10-Jul-15,21.7,57.6
+Prentiss,11-Jul-15,20.8,72.6
+Prentiss,12-Jul-15,20.6,72.8
+Prentiss,13-Jul-15,17.4,75
+Prentiss,14-Jul-15,17.6,63.3
+Prentiss,15-Jul-15,17.3,65.8
+Prentiss,16-Jul-15,12,74.9
+Prentiss,17-Jul-15,12.1,88.5
+Prentiss,18-Jul-15,17.2,65.6
+Prentiss,19-Jul-15,18,60.4
+Prentiss,20-Jul-15,18.5,64.9
+Prentiss,21-Jul-15,16,75.7
+Prentiss,22-Jul-15,12.8,77.6
+Prentiss,23-Jul-15,14.8,68.6
+Prentiss,24-Jul-15,17,65.6
+Prentiss,25-Jul-15,13.5,77.5
+Prentiss,26-Jul-15,12.8,75.5
+Prentiss,27-Jul-15,13.5,73.4
+Prentiss,28-Jul-15,14.9,62.2
+Prentiss,29-Jul-15,14.8,68.9
+Prentiss,30-Jul-15,15.8,67.5
+Prentiss,31-Jul-15,19.3,58
+Prentiss,01-Aug-15,17.3,68.8
+Prentiss,02-Aug-15,18.9,69.2
+Prentiss,03-Aug-15,19.6,68.2
+Prentiss,04-Aug-15,16.2,73.2
+Prentiss,05-Aug-15,13.9,77.6
+Prentiss,06-Aug-15,12.6,84.8
+Prentiss,07-Aug-15,15.1,69
+Prentiss,08-Aug-15,18.3,58.1
+Prentiss,09-Aug-15,19.5,61.2
+Prentiss,10-Aug-15,19.4,59
+Prentiss,11-Aug-15,20.9,57.4
+Prentiss,12-Aug-15,20.6,54.1
+Prentiss,13-Aug-15,21.5,54.4
+Prentiss,14-Aug-15,15.9,63.5
+Prentiss,15-Aug-15,9.8,87.2
+Prentiss,16-Aug-15,9.4,83.9
+Prentiss,17-Aug-15,12.7,69.4
+Prentiss,18-Aug-15,13.5,70.1
+Prentiss,19-Aug-15,17.6,57.6
+Prentiss,20-Aug-15,14.5,65.5
+Prentiss,21-Aug-15,7.6,86.6
+Prentiss,22-Aug-15,9.6,65.1
+Prentiss,23-Aug-15,13.5,58.3
+Prentiss,24-Aug-15,14.9,68
+Prentiss,25-Aug-15,16.1,72.8
+Prentiss,26-Aug-15,15.8,76
+Prentiss,27-Aug-15,17.7,74.1
+Prentiss,28-Aug-15,17.3,58.9
+Prentiss,29-Aug-15,17.9,53.2
+Prentiss,30-Aug-15,15.1,53.8
+Prentiss,31-Aug-15,14.1,51.4
+Rosalind AGCM,01-Apr-14,-7.6,84.2
+Rosalind AGCM,02-Apr-14,-8.9,90.9
+Rosalind AGCM,03-Apr-14,-9.5,85.5
+Rosalind AGCM,04-Apr-14,-0.3,79.6
+Rosalind AGCM,05-Apr-14,1.2,78.4
+Rosalind AGCM,06-Apr-14,2,74.3
+Rosalind AGCM,07-Apr-14,3.4,65.8
+Rosalind AGCM,08-Apr-14,7.8,61.4
+Rosalind AGCM,09-Apr-14,5.1,51.1
+Rosalind AGCM,10-Apr-14,4.5,53.5
+Rosalind AGCM,11-Apr-14,4.1,65.4
+Rosalind AGCM,12-Apr-14,-3.4,67.3
+Rosalind AGCM,13-Apr-14,-2.8,61.2
+Rosalind AGCM,14-Apr-14,1.8,53.2
+Rosalind AGCM,15-Apr-14,1,72.4
+Rosalind AGCM,16-Apr-14,-2.5,81.7
+Rosalind AGCM,17-Apr-14,-1.5,91.2
+Rosalind AGCM,18-Apr-14,0.6,95.8
+Rosalind AGCM,19-Apr-14,5.4,67.2
+Rosalind AGCM,20-Apr-14,7.1,69.1
+Rosalind AGCM,21-Apr-14,8.6,51.6
+Rosalind AGCM,22-Apr-14,12.6,40.3
+Rosalind AGCM,23-Apr-14,6.1,78.5
+Rosalind AGCM,24-Apr-14,3.9,73
+Rosalind AGCM,25-Apr-14,2.3,81.1
+Rosalind AGCM,26-Apr-14,0.3,86.7
+Rosalind AGCM,27-Apr-14,2.4,86.1
+Rosalind AGCM,28-Apr-14,4.9,69.5
+Rosalind AGCM,29-Apr-14,8.6,40.8
+Rosalind AGCM,30-Apr-14,11.3,38.6
+Rosalind AGCM,01-May-14,13.1,45.7
+Rosalind AGCM,02-May-14,6.3,48.7
+Rosalind AGCM,03-May-14,-0.7,72.1
+Rosalind AGCM,04-May-14,0.2,94.1
+Rosalind AGCM,05-May-14,3.9,69.2
+Rosalind AGCM,06-May-14,1.1,59.5
+Rosalind AGCM,07-May-14,1.1,55.6
+Rosalind AGCM,08-May-14,7.3,50
+Rosalind AGCM,09-May-14,6.9,54.3
+Rosalind AGCM,10-May-14,3.9,51.1
+Rosalind AGCM,11-May-14,6.1,41
+Rosalind AGCM,12-May-14,8.7,39.2
+Rosalind AGCM,13-May-14,10.3,44
+Rosalind AGCM,14-May-14,13.9,40.4
+Rosalind AGCM,15-May-14,11.1,68.6
+Rosalind AGCM,16-May-14,7.4,78.1
+Rosalind AGCM,17-May-14,9.7,63.2
+Rosalind AGCM,18-May-14,9,79.5
+Rosalind AGCM,19-May-14,9.9,76.8
+Rosalind AGCM,20-May-14,10.9,70.4
+Rosalind AGCM,21-May-14,16.3,50.5
+Rosalind AGCM,22-May-14,18.6,37.7
+Rosalind AGCM,23-May-14,19.3,40.4
+Rosalind AGCM,24-May-14,16,47
+Rosalind AGCM,25-May-14,14.9,56.6
+Rosalind AGCM,26-May-14,13.4,76
+Rosalind AGCM,27-May-14,11.5,68.6
+Rosalind AGCM,28-May-14,8.2,84.7
+Rosalind AGCM,29-May-14,8.7,84.9
+Rosalind AGCM,30-May-14,14,56
+Rosalind AGCM,31-May-14,13.4,64.5
+Rosalind AGCM,01-Jun-14,13.5,67.3
+Rosalind AGCM,02-Jun-14,15.4,60.8
+Rosalind AGCM,03-Jun-14,15.4,59.9
+Rosalind AGCM,04-Jun-14,13.4,70.9
+Rosalind AGCM,05-Jun-14,6.9,75.3
+Rosalind AGCM,06-Jun-14,8.9,56.4
+Rosalind AGCM,07-Jun-14,12.1,52.8
+Rosalind AGCM,08-Jun-14,13.6,54.3
+Rosalind AGCM,09-Jun-14,11.7,68.9
+Rosalind AGCM,10-Jun-14,10.7,69
+Rosalind AGCM,11-Jun-14,12.2,69.9
+Rosalind AGCM,12-Jun-14,14.3,55.4
+Rosalind AGCM,13-Jun-14,15.1,49
+Rosalind AGCM,14-Jun-14,13.6,59.4
+Rosalind AGCM,15-Jun-14,13.1,61
+Rosalind AGCM,16-Jun-14,11.6,67.3
+Rosalind AGCM,17-Jun-14,12.7,67.3
+Rosalind AGCM,18-Jun-14,13,88
+Rosalind AGCM,19-Jun-14,14.2,86.2
+Rosalind AGCM,20-Jun-14,15.4,77.5
+Rosalind AGCM,21-Jun-14,15.9,60.5
+Rosalind AGCM,22-Jun-14,15.7,54.9
+Rosalind AGCM,23-Jun-14,15.6,74.8
+Rosalind AGCM,24-Jun-14,17.9,71.4
+Rosalind AGCM,25-Jun-14,15.7,82.5
+Rosalind AGCM,26-Jun-14,15.9,65.7
+Rosalind AGCM,27-Jun-14,16.9,67.5
+Rosalind AGCM,28-Jun-14,15.4,79.8
+Rosalind AGCM,29-Jun-14,14.2,87
+Rosalind AGCM,30-Jun-14,16,77.8
+Rosalind AGCM,01-Jul-14,18.4,69
+Rosalind AGCM,02-Jul-14,19.6,70.1
+Rosalind AGCM,03-Jul-14,21,73.7
+Rosalind AGCM,04-Jul-14,18.8,69.8
+Rosalind AGCM,05-Jul-14,17.4,76.8
+Rosalind AGCM,06-Jul-14,17.9,72.4
+Rosalind AGCM,07-Jul-14,17.7,68.8
+Rosalind AGCM,08-Jul-14,19.4,63.6
+Rosalind AGCM,09-Jul-14,20.3,66.1
+Rosalind AGCM,10-Jul-14,16.2,60.9
+Rosalind AGCM,11-Jul-14,15.7,68
+Rosalind AGCM,12-Jul-14,18.7,68
+Rosalind AGCM,13-Jul-14,18.7,67
+Rosalind AGCM,14-Jul-14,18.1,58.2
+Rosalind AGCM,15-Jul-14,19.1,61.5
+Rosalind AGCM,16-Jul-14,21.3,63.6
+Rosalind AGCM,17-Jul-14,15.7,88
+Rosalind AGCM,18-Jul-14,16.1,74.5
+Rosalind AGCM,19-Jul-14,16.7,74.3
+Rosalind AGCM,20-Jul-14,14.9,75.2
+Rosalind AGCM,21-Jul-14,14.3,73.9
+Rosalind AGCM,22-Jul-14,17.5,66.9
+Rosalind AGCM,23-Jul-14,19.6,69.3
+Rosalind AGCM,24-Jul-14,18.2,63.3
+Rosalind AGCM,25-Jul-14,13.5,86
+Rosalind AGCM,26-Jul-14,14.6,81.8
+Rosalind AGCM,27-Jul-14,16.7,72.3
+Rosalind AGCM,28-Jul-14,19.3,73.7
+Rosalind AGCM,29-Jul-14,20.3,76.3
+Rosalind AGCM,30-Jul-14,21.5,74.8
+Rosalind AGCM,31-Jul-14,20.3,83.1
+Rosalind AGCM,01-Aug-14,18.8,76.9
+Rosalind AGCM,02-Aug-14,19.4,80.8
+Rosalind AGCM,03-Aug-14,19.7,79.6
+Rosalind AGCM,04-Aug-14,17.8,79.1
+Rosalind AGCM,05-Aug-14,16.4,79.9
+Rosalind AGCM,06-Aug-14,18.4,77.6
+Rosalind AGCM,07-Aug-14,17.5,70.7
+Rosalind AGCM,08-Aug-14,13.5,89.2
+Rosalind AGCM,09-Aug-14,14.3,70.9
+Rosalind AGCM,10-Aug-14,17.7,65.5
+Rosalind AGCM,11-Aug-14,19.8,67.4
+Rosalind AGCM,12-Aug-14,20.4,69.8
+Rosalind AGCM,13-Aug-14,21.3,75.8
+Rosalind AGCM,14-Aug-14,21.3,82.4
+Rosalind AGCM,15-Aug-14,19.3,84.9
+Rosalind AGCM,16-Aug-14,19.1,82.9
+Rosalind AGCM,17-Aug-14,18.9,78.7
+Rosalind AGCM,18-Aug-14,19.9,65.1
+Rosalind AGCM,19-Aug-14,17,83.4
+Rosalind AGCM,20-Aug-14,14.2,75.7
+Rosalind AGCM,21-Aug-14,11.2,78.8
+Rosalind AGCM,22-Aug-14,11.7,63.2
+Rosalind AGCM,23-Aug-14,10.7,70.7
+Rosalind AGCM,24-Aug-14,12.5,73.4
+Rosalind AGCM,25-Aug-14,12.3,63.7
+Rosalind AGCM,26-Aug-14,18.6,55.3
+Rosalind AGCM,27-Aug-14,18.7,60.8
+Rosalind AGCM,28-Aug-14,13.5,76.1
+Rosalind AGCM,29-Aug-14,12.9,74.2
+Rosalind AGCM,30-Aug-14,14.4,67.7
+Rosalind AGCM,31-Aug-14,11.8,65.2
+Rosalind AGCM,01-Sep-14,11,69
+Rosalind AGCM,02-Sep-14,11.8,77
+Rosalind AGCM,03-Sep-14,10.1,78.7
+Rosalind AGCM,04-Sep-14,11,68.6
+Rosalind AGCM,05-Sep-14,13.1,59.7
+Rosalind AGCM,06-Sep-14,16.2,57.7
+Rosalind AGCM,07-Sep-14,13.4,71.3
+Rosalind AGCM,08-Sep-14,1.9,95.7
+Rosalind AGCM,09-Sep-14,2.4,91.4
+Rosalind AGCM,10-Sep-14,2.5,83.6
+Rosalind AGCM,11-Sep-14,4,68.3
+Rosalind AGCM,12-Sep-14,4.8,83
+Rosalind AGCM,13-Sep-14,8.1,68.3
+Rosalind AGCM,14-Sep-14,10,66.3
+Rosalind AGCM,15-Sep-14,13.1,61.1
+Rosalind AGCM,16-Sep-14,14.6,60.7
+Rosalind AGCM,17-Sep-14,15.1,64
+Rosalind AGCM,18-Sep-14,13.7,72.5
+Rosalind AGCM,19-Sep-14,13.5,76.2
+Rosalind AGCM,20-Sep-14,12.4,56.2
+Rosalind AGCM,21-Sep-14,16.4,55.3
+Rosalind AGCM,22-Sep-14,18.1,50.9
+Rosalind AGCM,23-Sep-14,14.8,68.8
+Rosalind AGCM,24-Sep-14,15.7,68.5
+Rosalind AGCM,25-Sep-14,15.6,66
+Rosalind AGCM,26-Sep-14,9,88.3
+Rosalind AGCM,27-Sep-14,4.5,85.6
+Rosalind AGCM,28-Sep-14,6.8,76.5
+Rosalind AGCM,29-Sep-14,9.6,79.1
+Rosalind AGCM,30-Sep-14,9.5,80.7
+Rosalind AGCM,01-Oct-14,6.5,74.2
+Rosalind AGCM,02-Oct-14,0.9,67.6
+Rosalind AGCM,03-Oct-14,1.4,66.5
+Rosalind AGCM,04-Oct-14,11.5,62.9
+Rosalind AGCM,05-Oct-14,11.3,56.9
+Rosalind AGCM,06-Oct-14,10.9,61.1
+Rosalind AGCM,07-Oct-14,7.7,60.4
+Rosalind AGCM,08-Oct-14,8.3,61.4
+Rosalind AGCM,09-Oct-14,7.7,67.8
+Rosalind AGCM,10-Oct-14,9.5,70
+Rosalind AGCM,11-Oct-14,12.1,51.3
+Rosalind AGCM,12-Oct-14,8.2,55.7
+Rosalind AGCM,13-Oct-14,7.1,58.2
+Rosalind AGCM,14-Oct-14,10.3,59.8
+Rosalind AGCM,15-Oct-14,6,85.4
+Rosalind AGCM,16-Oct-14,5.6,82
+Rosalind AGCM,17-Oct-14,6.5,73
+Rosalind AGCM,18-Oct-14,11,56.2
+Rosalind AGCM,19-Oct-14,8.1,66
+Rosalind AGCM,20-Oct-14,11.5,56.6
+Rosalind AGCM,21-Oct-14,8.7,68.3
+Rosalind AGCM,22-Oct-14,6.3,69.5
+Rosalind AGCM,23-Oct-14,9.4,53.8
+Rosalind AGCM,24-Oct-14,5.3,60.6
+Rosalind AGCM,25-Oct-14,1.5,67.5
+Rosalind AGCM,26-Oct-14,1.4,83.6
+Rosalind AGCM,27-Oct-14,0,86.9
+Rosalind AGCM,28-Oct-14,-1.4,88.6
+Rosalind AGCM,29-Oct-14,-0.8,91.6
+Rosalind AGCM,30-Oct-14,0.4,92.3
+Rosalind AGCM,31-Oct-14,4.2,83.7
+Rosalind AGCM,01-Nov-14,4.1,82
+Rosalind AGCM,02-Nov-14,1.8,93.8
+Rosalind AGCM,03-Nov-14,0.6,80.2
+Rosalind AGCM,04-Nov-14,0.5,86.7
+Rosalind AGCM,05-Nov-14,1.2,72.2
+Rosalind AGCM,06-Nov-14,3.9,82.5
+Rosalind AGCM,07-Nov-14,1.7,81
+Rosalind AGCM,08-Nov-14,-4.1,90.6
+Rosalind AGCM,09-Nov-14,-10.3,66
+Rosalind AGCM,10-Nov-14,-13.8,78
+Rosalind AGCM,11-Nov-14,-13.2,80.4
+Rosalind AGCM,12-Nov-14,-13.6,80
+Rosalind AGCM,13-Nov-14,-19.2,79.3
+Rosalind AGCM,14-Nov-14,-18.1,85.3
+Rosalind AGCM,15-Nov-14,-10.1,73.3
+Rosalind AGCM,16-Nov-14,-10.5,82.4
+Rosalind AGCM,17-Nov-14,-10.8,79.9
+Rosalind AGCM,18-Nov-14,-2.1,74.4
+Rosalind AGCM,19-Nov-14,-6.6,89.2
+Rosalind AGCM,20-Nov-14,-2.2,83.2
+Rosalind AGCM,21-Nov-14,2.4,83.2
+Rosalind AGCM,22-Nov-14,-1.8,94.3
+Rosalind AGCM,23-Nov-14,-7.8,86.9
+Rosalind AGCM,24-Nov-14,-1.6,83
+Rosalind AGCM,25-Nov-14,-7.8,89.8
+Rosalind AGCM,26-Nov-14,-7.3,88.2
+Rosalind AGCM,27-Nov-14,-10.3,89.1
+Rosalind AGCM,28-Nov-14,-20.5,79.2
+Rosalind AGCM,29-Nov-14,-26.8,71.5
+Rosalind AGCM,30-Nov-14,-23.3,71.2
+Rosalind AGCM,01-Dec-14,-16.9,73.2
+Rosalind AGCM,02-Dec-14,-13.1,80.3
+Rosalind AGCM,03-Dec-14,-8.1,72.2
+Rosalind AGCM,04-Dec-14,-11.1,85.1
+Rosalind AGCM,05-Dec-14,-14.3,88.9
+Rosalind AGCM,06-Dec-14,-11.2,91.3
+Rosalind AGCM,07-Dec-14,-8.5,90.2
+Rosalind AGCM,08-Dec-14,-12.3,90.5
+Rosalind AGCM,09-Dec-14,1,76.6
+Rosalind AGCM,10-Dec-14,4,71.9
+Rosalind AGCM,11-Dec-14,5,69.2
+Rosalind AGCM,12-Dec-14,2.6,84.1
+Rosalind AGCM,13-Dec-14,-1.5,92.3
+Rosalind AGCM,14-Dec-14,-4.2,85.5
+Rosalind AGCM,15-Dec-14,-8.9,93.3
+Rosalind AGCM,16-Dec-14,-7.1,93.4
+Rosalind AGCM,17-Dec-14,-6.4,95.1
+Rosalind AGCM,18-Dec-14,-9.3,93
+Rosalind AGCM,19-Dec-14,-9.2,92.9
+Rosalind AGCM,20-Dec-14,-5.5,89.2
+Rosalind AGCM,21-Dec-14,-6.7,90.4
+Rosalind AGCM,22-Dec-14,-1.4,86.2
+Rosalind AGCM,23-Dec-14,-3.7,80.8
+Rosalind AGCM,24-Dec-14,-2.6,81.1
+Rosalind AGCM,25-Dec-14,-9.3,87.4
+Rosalind AGCM,26-Dec-14,-11,85
+Rosalind AGCM,27-Dec-14,-7.4,89
+Rosalind AGCM,28-Dec-14,-14.3,87.1
+Rosalind AGCM,29-Dec-14,-20.3,78.1
+Rosalind AGCM,30-Dec-14,-12.8,64.6
+Rosalind AGCM,31-Dec-14,-2.3,65.7
+Rosalind AGCM,01-Jan-15,0.3,83.8
+Rosalind AGCM,02-Jan-15,-15.6,83.9
+Rosalind AGCM,03-Jan-15,-24.6,76.8
+Rosalind AGCM,04-Jan-15,-29.2,72.7
+Rosalind AGCM,05-Jan-15,-22.8,72.9
+Rosalind AGCM,06-Jan-15,-19.1,78.5
+Rosalind AGCM,07-Jan-15,-13.8,80.4
+Rosalind AGCM,08-Jan-15,-17.7,75.4
+Rosalind AGCM,09-Jan-15,-22.2,75.7
+Rosalind AGCM,10-Jan-15,-16.9,79.8
+Rosalind AGCM,11-Jan-15,-21.2,82.4
+Rosalind AGCM,12-Jan-15,-15.6,86.5
+Rosalind AGCM,13-Jan-15,-4.4,77.8
+Rosalind AGCM,14-Jan-15,1.5,73.3
+Rosalind AGCM,15-Jan-15,-5.6,93
+Rosalind AGCM,16-Jan-15,-3.5,82
+Rosalind AGCM,17-Jan-15,-4.6,67.9
+Rosalind AGCM,18-Jan-15,-7,77.7
+Rosalind AGCM,19-Jan-15,-1.4,78.6
+Rosalind AGCM,20-Jan-15,-3,77.6
+Rosalind AGCM,21-Jan-15,-4.6,74.6
+Rosalind AGCM,22-Jan-15,4.2,65.3
+Rosalind AGCM,23-Jan-15,1.6,71.5
+Rosalind AGCM,24-Jan-15,3.1,73.1
+Rosalind AGCM,25-Jan-15,4.3,68.8
+Rosalind AGCM,26-Jan-15,1.3,85.4
+Rosalind AGCM,27-Jan-15,0.3,90.5
+Rosalind AGCM,28-Jan-15,-1.5,90.6
+Rosalind AGCM,29-Jan-15,-5.1,94.7
+Rosalind AGCM,30-Jan-15,-6.3,91.8
+Rosalind AGCM,31-Jan-15,-16,81.2
+Rosalind AGCM,01-Feb-15,-18.5,79.1
+Rosalind AGCM,02-Feb-15,-15.8,84.2
+Rosalind AGCM,03-Feb-15,-18.6,82.4
+Rosalind AGCM,04-Feb-15,-14.2,76.6
+Rosalind AGCM,05-Feb-15,-12.9,81.1
+Rosalind AGCM,06-Feb-15,-17.1,81.8
+Rosalind AGCM,07-Feb-15,-17.8,79.5
+Rosalind AGCM,08-Feb-15,-17.7,81.8
+Rosalind AGCM,09-Feb-15,-17,83.7
+Rosalind AGCM,10-Feb-15,-13.6,81.6
+Rosalind AGCM,11-Feb-15,-14.4,83.6
+Rosalind AGCM,12-Feb-15,-4,81.7
+Rosalind AGCM,13-Feb-15,-1.3,88.1
+Rosalind AGCM,14-Feb-15,-10.2,85.5
+Rosalind AGCM,15-Feb-15,1,70.5
+Rosalind AGCM,16-Feb-15,-7.7,85.6
+Rosalind AGCM,17-Feb-15,-15.8,82.6
+Rosalind AGCM,18-Feb-15,-1.6,84.5
+Rosalind AGCM,19-Feb-15,2.4,78.1
+Rosalind AGCM,20-Feb-15,-4,85.4
+Rosalind AGCM,21-Feb-15,-15.4,80.8
+Rosalind AGCM,22-Feb-15,-13.3,75.7
+Rosalind AGCM,23-Feb-15,1.9,74
+Rosalind AGCM,24-Feb-15,0.5,80.2
+Rosalind AGCM,25-Feb-15,-15.3,79
+Rosalind AGCM,26-Feb-15,-17.1,74.6
+Rosalind AGCM,27-Feb-15,-13.8,82.4
+Rosalind AGCM,28-Feb-15,-11.1,78.6
+Rosalind AGCM,01-Mar-15,-9.2,78.4
+Rosalind AGCM,02-Mar-15,-8.9,73.2
+Rosalind AGCM,03-Mar-15,-16.2,62.6
+Rosalind AGCM,04-Mar-15,-15.2,69.2
+Rosalind AGCM,05-Mar-15,-2.6,66
+Rosalind AGCM,06-Mar-15,2.3,70.4
+Rosalind AGCM,07-Mar-15,-0.1,71.3
+Rosalind AGCM,08-Mar-15,2.4,69.2
+Rosalind AGCM,09-Mar-15,3.2,76.4
+Rosalind AGCM,10-Mar-15,1.1,84.5
+Rosalind AGCM,11-Mar-15,0,90.6
+Rosalind AGCM,12-Mar-15,2,88
+Rosalind AGCM,13-Mar-15,5.7,69
+Rosalind AGCM,14-Mar-15,8,62.6
+Rosalind AGCM,15-Mar-15,1.9,61.5
+Rosalind AGCM,16-Mar-15,0.1,67.7
+Rosalind AGCM,17-Mar-15,1.1,77.2
+Rosalind AGCM,18-Mar-15,1.1,80.3
+Rosalind AGCM,19-Mar-15,1.5,73.1
+Rosalind AGCM,20-Mar-15,-2.2,90.6
+Rosalind AGCM,21-Mar-15,-3.8,91
+Rosalind AGCM,22-Mar-15,-6.4,84.8
+Rosalind AGCM,23-Mar-15,-7.1,90
+Rosalind AGCM,24-Mar-15,-3.5,87.1
+Rosalind AGCM,25-Mar-15,-1.6,79.5
+Rosalind AGCM,26-Mar-15,2.7,80.1
+Rosalind AGCM,27-Mar-15,7.7,73.8
+Rosalind AGCM,28-Mar-15,4.7,81.2
+Rosalind AGCM,29-Mar-15,6.5,68.1
+Rosalind AGCM,30-Mar-15,6.6,55.9
+Rosalind AGCM,31-Mar-15,7.8,62.7
+Rosalind AGCM,01-Apr-15,0.7,84.5
+Rosalind AGCM,02-Apr-15,0.3,83.4
+Rosalind AGCM,03-Apr-15,0.8,74.5
+Rosalind AGCM,04-Apr-15,-0.6,81.4
+Rosalind AGCM,05-Apr-15,-1,66.1
+Rosalind AGCM,06-Apr-15,-0.6,65.1
+Rosalind AGCM,07-Apr-15,1.4,77.2
+Rosalind AGCM,08-Apr-15,3.7,58.2
+Rosalind AGCM,09-Apr-15,7.1,45.6
+Rosalind AGCM,10-Apr-15,8.7,39.7
+Rosalind AGCM,11-Apr-15,4.9,53.9
+Rosalind AGCM,12-Apr-15,2.2,40.8
+Rosalind AGCM,13-Apr-15,4.4,38.4
+Rosalind AGCM,14-Apr-15,4.4,52.6
+Rosalind AGCM,15-Apr-15,5.9,35.8
+Rosalind AGCM,16-Apr-15,8.7,41.1
+Rosalind AGCM,17-Apr-15,7.2,59.6
+Rosalind AGCM,18-Apr-15,5.9,49.3
+Rosalind AGCM,19-Apr-15,4.4,45.4
+Rosalind AGCM,20-Apr-15,8.6,42.3
+Rosalind AGCM,21-Apr-15,10,48.9
+Rosalind AGCM,22-Apr-15,12.7,42.3
+Rosalind AGCM,23-Apr-15,6.5,60.9
+Rosalind AGCM,24-Apr-15,3.4,80.3
+Rosalind AGCM,25-Apr-15,-1,93.7
+Rosalind AGCM,26-Apr-15,-0.1,75.1
+Rosalind AGCM,27-Apr-15,7.1,60
+Rosalind AGCM,28-Apr-15,13.6,48.8
+Rosalind AGCM,29-Apr-15,9.5,53
+Rosalind AGCM,30-Apr-15,8.4,51.7
+Rosalind AGCM,01-May-15,7.7,57.8
+Rosalind AGCM,02-May-15,6.1,63
+Rosalind AGCM,03-May-15,5.4,63.7
+Rosalind AGCM,04-May-15,10.1,51.2
+Rosalind AGCM,05-May-15,10.5,55.9
+Rosalind AGCM,06-May-15,2.2,81.8
+Rosalind AGCM,07-May-15,4.7,60
+Rosalind AGCM,08-May-15,4.8,66.7
+Rosalind AGCM,09-May-15,9.5,50.7
+Rosalind AGCM,10-May-15,7,50.2
+Rosalind AGCM,11-May-15,6.3,43.3
+Rosalind AGCM,12-May-15,8.4,38.5
+Rosalind AGCM,13-May-15,8.3,45.1
+Rosalind AGCM,14-May-15,8.8,51.1
+Rosalind AGCM,15-May-15,10.9,62
+Rosalind AGCM,16-May-15,8.2,73
+Rosalind AGCM,17-May-15,4.5,53.3
+Rosalind AGCM,18-May-15,8.1,36.6
+Rosalind AGCM,19-May-15,10.4,35.5
+Rosalind AGCM,20-May-15,13,32.9
+Rosalind AGCM,21-May-15,14.6,32.6
+Rosalind AGCM,22-May-15,16.3,31.6
+Rosalind AGCM,23-May-15,17.9,29.1
+Rosalind AGCM,24-May-15,17.4,34.5
+Rosalind AGCM,25-May-15,18,36.3
+Rosalind AGCM,26-May-15,18.1,42.8
+Rosalind AGCM,27-May-15,17.3,51.4
+Rosalind AGCM,28-May-15,10.1,62.4
+Rosalind AGCM,29-May-15,9,52.1
+Rosalind AGCM,30-May-15,12.1,49.6
+Rosalind AGCM,31-May-15,15,59.4
+Rosalind AGCM,01-Jun-15,13.8,61.6
+Rosalind AGCM,02-Jun-15,11,74
+Rosalind AGCM,03-Jun-15,15.4,54.6
+Rosalind AGCM,04-Jun-15,14.4,66.9
+Rosalind AGCM,05-Jun-15,16.2,67
+Rosalind AGCM,06-Jun-15,19.1,46.6
+Rosalind AGCM,07-Jun-15,19.7,41.3
+Rosalind AGCM,08-Jun-15,20.3,40.5
+Rosalind AGCM,09-Jun-15,17.2,46.4
+Rosalind AGCM,10-Jun-15,14.8,59.6
+Rosalind AGCM,11-Jun-15,17.9,62.1
+Rosalind AGCM,12-Jun-15,12,73.6
+Rosalind AGCM,13-Jun-15,9,79.2
+Rosalind AGCM,14-Jun-15,8.8,84
+Rosalind AGCM,15-Jun-15,12.3,62.5
+Rosalind AGCM,16-Jun-15,14.9,58.6
+Rosalind AGCM,17-Jun-15,12.5,61
+Rosalind AGCM,18-Jun-15,13.6,71.1
+Rosalind AGCM,19-Jun-15,15.3,68.1
+Rosalind AGCM,20-Jun-15,12.1,69
+Rosalind AGCM,21-Jun-15,12,71.8
+Rosalind AGCM,22-Jun-15,15.7,61.1
+Rosalind AGCM,23-Jun-15,16.1,68.6
+Rosalind AGCM,24-Jun-15,17.6,60.9
+Rosalind AGCM,25-Jun-15,19.9,58
+Rosalind AGCM,26-Jun-15,21.7,54.6
+Rosalind AGCM,27-Jun-15,22.6,50.7
+Rosalind AGCM,28-Jun-15,23.6,51.9
+Rosalind AGCM,29-Jun-15,16.5,80
+Rosalind AGCM,30-Jun-15,17.4,83.2
+Rosalind AGCM,01-Jul-15,18.7,78.4
+Rosalind AGCM,02-Jul-15,20.8,64.5
+Rosalind AGCM,03-Jul-15,21.6,59.4
+Rosalind AGCM,04-Jul-15,15.7,70.5
+Rosalind AGCM,05-Jul-15,13,73.8
+Rosalind AGCM,06-Jul-15,15.5,62.6
+Rosalind AGCM,07-Jul-15,13.9,64
+Rosalind AGCM,08-Jul-15,19.6,54.6
+Rosalind AGCM,09-Jul-15,23.8,50.8
+Rosalind AGCM,10-Jul-15,23,53.4
+Rosalind AGCM,11-Jul-15,23.2,58.6
+Rosalind AGCM,12-Jul-15,21.2,73.1
+Rosalind AGCM,13-Jul-15,18.1,77.7
+Rosalind AGCM,14-Jul-15,18.8,61.5
+Rosalind AGCM,15-Jul-15,18.4,65.7
+Rosalind AGCM,16-Jul-15,13.8,75.2
+Rosalind AGCM,17-Jul-15,13.7,89.2
+Rosalind AGCM,18-Jul-15,17.9,66.4
+Rosalind AGCM,19-Jul-15,19,61.6
+Rosalind AGCM,20-Jul-15,19.4,63.9
+Rosalind AGCM,21-Jul-15,18.1,75.9
+Rosalind AGCM,22-Jul-15,14.7,78.1
+Rosalind AGCM,23-Jul-15,14.7,72.4
+Rosalind AGCM,24-Jul-15,16.4,69.5
+Rosalind AGCM,25-Jul-15,15.6,76.8
+Rosalind AGCM,26-Jul-15,14.6,75.7
+Rosalind AGCM,27-Jul-15,14.4,78.5
+Rosalind AGCM,28-Jul-15,15.3,67.7
+Rosalind AGCM,29-Jul-15,15,70
+Rosalind AGCM,30-Jul-15,16,67.1
+Rosalind AGCM,31-Jul-15,19.4,61.2
+Rosalind AGCM,01-Aug-15,17.9,70.6
+Rosalind AGCM,02-Aug-15,18.1,70.8
+Rosalind AGCM,03-Aug-15,21.3,59.9
+Rosalind AGCM,04-Aug-15,17,84.2
+Rosalind AGCM,05-Aug-15,15.4,80.6
+Rosalind AGCM,06-Aug-15,13.6,90.5
+Rosalind AGCM,07-Aug-15,15.9,76.3
+Rosalind AGCM,08-Aug-15,18.7,65.6
+Rosalind AGCM,09-Aug-15,19.4,68.9
+Rosalind AGCM,10-Aug-15,20.6,62.6
+Rosalind AGCM,11-Aug-15,21.1,62.4
+Rosalind AGCM,12-Aug-15,20.7,62.9
+Rosalind AGCM,13-Aug-15,21.8,57.6
+Rosalind AGCM,14-Aug-15,17,64.7
+Rosalind AGCM,15-Aug-15,10.9,88.4
+Rosalind AGCM,16-Aug-15,11.1,78
+Rosalind AGCM,17-Aug-15,11.8,73.1
+Rosalind AGCM,18-Aug-15,13.8,72.3
+Rosalind AGCM,19-Aug-15,18.3,60.3
+Rosalind AGCM,20-Aug-15,15,68.7
+Rosalind AGCM,21-Aug-15,9.1,82.5
+Rosalind AGCM,22-Aug-15,9.8,66.7
+Rosalind AGCM,23-Aug-15,12.6,62.7
+Rosalind AGCM,24-Aug-15,14.9,68
+Rosalind AGCM,25-Aug-15,15.4,74.8
+Rosalind AGCM,26-Aug-15,15.3,78.8
+Rosalind AGCM,27-Aug-15,17.7,73.7
+Rosalind AGCM,28-Aug-15,17.8,69.1
+Rosalind AGCM,29-Aug-15,18.5,57.7
+Rosalind AGCM,30-Aug-15,16.4,53.7
+Rosalind AGCM,31-Aug-15,14.8,53.1
+Stettler AGDM,01-Apr-14,-7.4,85.5
+Stettler AGDM,02-Apr-14,-5,91.1
+Stettler AGDM,03-Apr-14,-7.7,88.4
+Stettler AGDM,04-Apr-14,0.6,74.9
+Stettler AGDM,05-Apr-14,1.5,77
+Stettler AGDM,06-Apr-14,2.5,72.7
+Stettler AGDM,07-Apr-14,4,63.5
+Stettler AGDM,08-Apr-14,7.9,61.5
+Stettler AGDM,09-Apr-14,4.1,61.4
+Stettler AGDM,10-Apr-14,4.5,54.8
+Stettler AGDM,11-Apr-14,4.3,66
+Stettler AGDM,12-Apr-14,-3.4,72.5
+Stettler AGDM,13-Apr-14,-2.7,66.4
+Stettler AGDM,14-Apr-14,2.7,49.6
+Stettler AGDM,15-Apr-14,2.1,69.7
+Stettler AGDM,16-Apr-14,-1.7,81.2
+Stettler AGDM,17-Apr-14,-0.5,90.1
+Stettler AGDM,18-Apr-14,0.6,98.6
+Stettler AGDM,19-Apr-14,4.9,70.6
+Stettler AGDM,20-Apr-14,7.3,64.2
+Stettler AGDM,21-Apr-14,8.7,48.1
+Stettler AGDM,22-Apr-14,12.6,40.1
+Stettler AGDM,23-Apr-14,6.3,76.7
+Stettler AGDM,24-Apr-14,4.1,70.3
+Stettler AGDM,25-Apr-14,3,75.8
+Stettler AGDM,26-Apr-14,0,87.7
+Stettler AGDM,27-Apr-14,2.2,87.8
+Stettler AGDM,28-Apr-14,5.7,68.7
+Stettler AGDM,29-Apr-14,8.5,40.1
+Stettler AGDM,30-Apr-14,12.2,33.9
+Stettler AGDM,01-May-14,13,46.6
+Stettler AGDM,02-May-14,6.9,51.6
+Stettler AGDM,03-May-14,-0.2,73
+Stettler AGDM,04-May-14,0.2,96.6
+Stettler AGDM,05-May-14,3.3,75.2
+Stettler AGDM,06-May-14,1.1,64.6
+Stettler AGDM,07-May-14,2,59.1
+Stettler AGDM,08-May-14,8,49.8
+Stettler AGDM,09-May-14,7.8,52.9
+Stettler AGDM,10-May-14,4.2,53.1
+Stettler AGDM,11-May-14,6.1,41.2
+Stettler AGDM,12-May-14,8.9,38.2
+Stettler AGDM,13-May-14,10.6,43.4
+Stettler AGDM,14-May-14,13.7,37.1
+Stettler AGDM,15-May-14,11.4,63.4
+Stettler AGDM,16-May-14,6.6,80.8
+Stettler AGDM,17-May-14,9.6,64.5
+Stettler AGDM,18-May-14,8.9,88
+Stettler AGDM,19-May-14,9.5,82.6
+Stettler AGDM,20-May-14,10.4,77.3
+Stettler AGDM,21-May-14,16,53.8
+Stettler AGDM,22-May-14,18,43.4
+Stettler AGDM,23-May-14,18.3,44.9
+Stettler AGDM,24-May-14,15.5,48.3
+Stettler AGDM,25-May-14,14.7,58.1
+Stettler AGDM,26-May-14,13,78.2
+Stettler AGDM,27-May-14,10.9,72.7
+Stettler AGDM,28-May-14,8.1,87.6
+Stettler AGDM,29-May-14,9.3,83.1
+Stettler AGDM,30-May-14,14.2,54.4
+Stettler AGDM,31-May-14,13.7,59.8
+Stettler AGDM,01-Jun-14,13.5,64.2
+Stettler AGDM,02-Jun-14,15.5,59.4
+Stettler AGDM,03-Jun-14,15.8,59.7
+Stettler AGDM,04-Jun-14,13.7,70
+Stettler AGDM,05-Jun-14,6.9,75.7
+Stettler AGDM,06-Jun-14,9.1,56
+Stettler AGDM,07-Jun-14,12.2,55
+Stettler AGDM,08-Jun-14,14.4,52.7
+Stettler AGDM,09-Jun-14,12,65.5
+Stettler AGDM,10-Jun-14,10.9,61.1
+Stettler AGDM,11-Jun-14,11.4,74.9
+Stettler AGDM,12-Jun-14,13.9,58.5
+Stettler AGDM,13-Jun-14,13.7,56
+Stettler AGDM,14-Jun-14,13.4,61.3
+Stettler AGDM,15-Jun-14,13.1,63.2
+Stettler AGDM,16-Jun-14,11.6,68.3
+Stettler AGDM,17-Jun-14,12.5,68
+Stettler AGDM,18-Jun-14,12.2,94.1
+Stettler AGDM,19-Jun-14,13.4,87.4
+Stettler AGDM,20-Jun-14,16,77
+Stettler AGDM,21-Jun-14,14.6,67.7
+Stettler AGDM,22-Jun-14,15.1,58.3
+Stettler AGDM,23-Jun-14,16,69.3
+Stettler AGDM,24-Jun-14,18.4,67.6
+Stettler AGDM,25-Jun-14,14.9,82.9
+Stettler AGDM,26-Jun-14,15.7,66.5
+Stettler AGDM,27-Jun-14,16.7,66.7
+Stettler AGDM,28-Jun-14,15.1,81.2
+Stettler AGDM,29-Jun-14,13,90.2
+Stettler AGDM,30-Jun-14,15.9,76.9
+Stettler AGDM,01-Jul-14,17.7,70.8
+Stettler AGDM,02-Jul-14,19.4,68.4
+Stettler AGDM,03-Jul-14,20.6,71.4
+Stettler AGDM,04-Jul-14,18.6,72.9
+Stettler AGDM,05-Jul-14,17.1,79.9
+Stettler AGDM,06-Jul-14,17.4,73.6
+Stettler AGDM,07-Jul-14,17.2,68.5
+Stettler AGDM,08-Jul-14,19.7,59.8
+Stettler AGDM,09-Jul-14,20,65.2
+Stettler AGDM,10-Jul-14,15.5,65.7
+Stettler AGDM,11-Jul-14,15.4,69.5
+Stettler AGDM,12-Jul-14,19.2,64.9
+Stettler AGDM,13-Jul-14,19,68.8
+Stettler AGDM,14-Jul-14,18.4,57.3
+Stettler AGDM,15-Jul-14,20.2,57
+Stettler AGDM,16-Jul-14,21.1,64.3
+Stettler AGDM,17-Jul-14,16.5,87.5
+Stettler AGDM,18-Jul-14,15.6,75.9
+Stettler AGDM,19-Jul-14,16.6,75.2
+Stettler AGDM,20-Jul-14,14.9,79.5
+Stettler AGDM,21-Jul-14,14.8,75.3
+Stettler AGDM,22-Jul-14,17.7,69.4
+Stettler AGDM,23-Jul-14,18.5,72.9
+Stettler AGDM,24-Jul-14,18.4,57.7
+Stettler AGDM,25-Jul-14,12,85.7
+Stettler AGDM,26-Jul-14,14.3,80.9
+Stettler AGDM,27-Jul-14,17.3,70.8
+Stettler AGDM,28-Jul-14,19.5,72.7
+Stettler AGDM,29-Jul-14,21.2,70
+Stettler AGDM,30-Jul-14,22.1,73.6
+Stettler AGDM,31-Jul-14,19.4,86.8
+Stettler AGDM,01-Aug-14,18.7,79.3
+Stettler AGDM,02-Aug-14,19.5,77.7
+Stettler AGDM,03-Aug-14,19.4,79.5
+Stettler AGDM,04-Aug-14,18.1,78.7
+Stettler AGDM,05-Aug-14,17.4,78.6
+Stettler AGDM,06-Aug-14,18.8,78.8
+Stettler AGDM,07-Aug-14,17.3,74.8
+Stettler AGDM,08-Aug-14,13.8,89.4
+Stettler AGDM,09-Aug-14,14.1,70.7
+Stettler AGDM,10-Aug-14,17.6,65.3
+Stettler AGDM,11-Aug-14,20.1,63.4
+Stettler AGDM,12-Aug-14,21,63.1
+Stettler AGDM,13-Aug-14,22.3,68.1
+Stettler AGDM,14-Aug-14,21.9,78.7
+Stettler AGDM,15-Aug-14,19.4,81.6
+Stettler AGDM,16-Aug-14,17.7,88
+Stettler AGDM,17-Aug-14,18.9,79.4
+Stettler AGDM,18-Aug-14,19.9,67.1
+Stettler AGDM,19-Aug-14,17.3,80.4
+Stettler AGDM,20-Aug-14,13.5,82.4
+Stettler AGDM,21-Aug-14,10.6,80.3
+Stettler AGDM,22-Aug-14,11.3,68.7
+Stettler AGDM,23-Aug-14,10.7,72.8
+Stettler AGDM,24-Aug-14,11.7,76
+Stettler AGDM,25-Aug-14,12.9,65.5
+Stettler AGDM,26-Aug-14,17.9,58
+Stettler AGDM,27-Aug-14,18.6,61
+Stettler AGDM,28-Aug-14,12.6,83
+Stettler AGDM,29-Aug-14,12.4,78.3
+Stettler AGDM,30-Aug-14,13.1,74.6
+Stettler AGDM,31-Aug-14,12.1,66.8
+Stettler AGDM,01-Sep-14,11.5,71.3
+Stettler AGDM,02-Sep-14,11.6,75.8
+Stettler AGDM,03-Sep-14,9.8,84.3
+Stettler AGDM,04-Sep-14,10.9,71.2
+Stettler AGDM,05-Sep-14,13.4,60.7
+Stettler AGDM,06-Sep-14,16.1,58.5
+Stettler AGDM,07-Sep-14,13.9,68.9
+Stettler AGDM,08-Sep-14,1.6,98
+Stettler AGDM,09-Sep-14,2,93.8
+Stettler AGDM,10-Sep-14,2.2,86.6
+Stettler AGDM,11-Sep-14,4.1,70.8
+Stettler AGDM,12-Sep-14,4.9,82.4
+Stettler AGDM,13-Sep-14,7.8,76
+Stettler AGDM,14-Sep-14,10,67.8
+Stettler AGDM,15-Sep-14,13,62.6
+Stettler AGDM,16-Sep-14,15.2,62.7
+Stettler AGDM,17-Sep-14,16,62.1
+Stettler AGDM,18-Sep-14,14,71.8
+Stettler AGDM,19-Sep-14,13.8,73.4
+Stettler AGDM,20-Sep-14,13.1,51.1
+Stettler AGDM,21-Sep-14,16.6,51.9
+Stettler AGDM,22-Sep-14,18.3,49.4
+Stettler AGDM,23-Sep-14,13.7,72.5
+Stettler AGDM,24-Sep-14,16.5,63.6
+Stettler AGDM,25-Sep-14,15.6,65.1
+Stettler AGDM,26-Sep-14,9.2,89.5
+Stettler AGDM,27-Sep-14,4.9,85.4
+Stettler AGDM,28-Sep-14,6.9,77.7
+Stettler AGDM,29-Sep-14,9.2,80.9
+Stettler AGDM,30-Sep-14,9.1,82.7
+Stettler AGDM,01-Oct-14,6.1,77.1
+Stettler AGDM,02-Oct-14,1,68.8
+Stettler AGDM,03-Oct-14,2.2,66.6
+Stettler AGDM,04-Oct-14,11.2,65.1
+Stettler AGDM,05-Oct-14,10.2,65.5
+Stettler AGDM,06-Oct-14,10.5,62.2
+Stettler AGDM,07-Oct-14,7,67.8
+Stettler AGDM,08-Oct-14,7.7,65.2
+Stettler AGDM,09-Oct-14,7.5,69
+Stettler AGDM,10-Oct-14,10,69.5
+Stettler AGDM,11-Oct-14,10.9,59
+Stettler AGDM,12-Oct-14,7.8,59.2
+Stettler AGDM,13-Oct-14,8.1,56.4
+Stettler AGDM,14-Oct-14,10.8,54.9
+Stettler AGDM,15-Oct-14,5.3,89.6
+Stettler AGDM,16-Oct-14,6,82.7
+Stettler AGDM,17-Oct-14,7.3,70.9
+Stettler AGDM,18-Oct-14,11,56.1
+Stettler AGDM,19-Oct-14,9.1,60.7
+Stettler AGDM,20-Oct-14,11.6,54.8
+Stettler AGDM,21-Oct-14,8.2,71.2
+Stettler AGDM,22-Oct-14,7.3,66.8
+Stettler AGDM,23-Oct-14,9.7,53.2
+Stettler AGDM,24-Oct-14,4.9,64.2
+Stettler AGDM,25-Oct-14,2.6,66
+Stettler AGDM,26-Oct-14,1.4,84.2
+Stettler AGDM,27-Oct-14,-0.5,88.2
+Stettler AGDM,28-Oct-14,-2,87.4
+Stettler AGDM,29-Oct-14,-1.3,95.1
+Stettler AGDM,30-Oct-14,-0.3,96.2
+Stettler AGDM,31-Oct-14,4.1,84.7
+Stettler AGDM,01-Nov-14,3.5,87.2
+Stettler AGDM,02-Nov-14,1.3,95.9
+Stettler AGDM,03-Nov-14,0.8,80.1
+Stettler AGDM,04-Nov-14,1.4,84.8
+Stettler AGDM,05-Nov-14,1.5,75.3
+Stettler AGDM,06-Nov-14,5.4,79.8
+Stettler AGDM,07-Nov-14,2.3,82.2
+Stettler AGDM,08-Nov-14,-1.7,90.3
+Stettler AGDM,09-Nov-14,-10.2,84.9
+Stettler AGDM,10-Nov-14,-13.8,81.2
+Stettler AGDM,11-Nov-14,-13.5,82.7
+Stettler AGDM,12-Nov-14,-14.3,79.2
+Stettler AGDM,13-Nov-14,-18.5,79.6
+Stettler AGDM,14-Nov-14,-17.4,84.4
+Stettler AGDM,15-Nov-14,-10.3,72.7
+Stettler AGDM,16-Nov-14,-10.7,82.2
+Stettler AGDM,17-Nov-14,-11,81.4
+Stettler AGDM,18-Nov-14,-1.3,77.9
+Stettler AGDM,19-Nov-14,-5.7,92.5
+Stettler AGDM,20-Nov-14,-2.5,84.4
+Stettler AGDM,21-Nov-14,1.9,74.5
+Stettler AGDM,22-Nov-14,-1.3,88.9
+Stettler AGDM,23-Nov-14,-5.8,86.4
+Stettler AGDM,24-Nov-14,-1.4,80.9
+Stettler AGDM,25-Nov-14,-5.4,88.3
+Stettler AGDM,26-Nov-14,-6.5,89.4
+Stettler AGDM,27-Nov-14,-9.4,90.6
+Stettler AGDM,28-Nov-14,-20.3,80.8
+Stettler AGDM,29-Nov-14,-25.8,72.6
+Stettler AGDM,30-Nov-14,-22.9,71.2
+Stettler AGDM,01-Dec-14,-15.6,70.9
+Stettler AGDM,02-Dec-14,-10.1,75.5
+Stettler AGDM,03-Dec-14,-8.4,69.1
+Stettler AGDM,04-Dec-14,-9.4,81.7
+Stettler AGDM,05-Dec-14,-11.8,90.1
+Stettler AGDM,06-Dec-14,-8.5,91
+Stettler AGDM,07-Dec-14,-5.4,89
+Stettler AGDM,08-Dec-14,-7.6,88.5
+Stettler AGDM,09-Dec-14,2.2,73.6
+Stettler AGDM,10-Dec-14,5.2,68.6
+Stettler AGDM,11-Dec-14,5.4,67.9
+Stettler AGDM,12-Dec-14,3.5,81.4
+Stettler AGDM,13-Dec-14,-0.5,92.2
+Stettler AGDM,14-Dec-14,-3.5,85.1
+Stettler AGDM,15-Dec-14,-8.2,93.9
+Stettler AGDM,16-Dec-14,-6.8,94.4
+Stettler AGDM,17-Dec-14,-6.4,94.8
+Stettler AGDM,18-Dec-14,-8.2,93.3
+Stettler AGDM,19-Dec-14,-6.9,92
+Stettler AGDM,20-Dec-14,-3.8,86.6
+Stettler AGDM,21-Dec-14,-3.8,88.9
+Stettler AGDM,22-Dec-14,-2.1,85
+Stettler AGDM,23-Dec-14,-4.1,82.2
+Stettler AGDM,24-Dec-14,-2,80.4
+Stettler AGDM,25-Dec-14,-9.4,89.8
+Stettler AGDM,26-Dec-14,-8.3,81.6
+Stettler AGDM,27-Dec-14,-6.1,83.4
+Stettler AGDM,28-Dec-14,-13.4,88.3
+Stettler AGDM,29-Dec-14,-18.7,79.6
+Stettler AGDM,30-Dec-14,-12.6,64.3
+Stettler AGDM,31-Dec-14,-2.2,63.4
+Stettler AGDM,01-Jan-15,0.9,84.6
+Stettler AGDM,02-Jan-15,-14.9,86
+Stettler AGDM,03-Jan-15,-23.6,78.3
+Stettler AGDM,04-Jan-15,-27.6,73.8
+Stettler AGDM,05-Jan-15,-20.4,75.7
+Stettler AGDM,06-Jan-15,-17.7,79.1
+Stettler AGDM,07-Jan-15,-13.1,81.1
+Stettler AGDM,08-Jan-15,-16.9,74.1
+Stettler AGDM,09-Jan-15,-18.4,71.8
+Stettler AGDM,10-Jan-15,-15.1,77
+Stettler AGDM,11-Jan-15,-18.9,83.6
+Stettler AGDM,12-Jan-15,-13.3,83.1
+Stettler AGDM,13-Jan-15,-4.3,73.7
+Stettler AGDM,14-Jan-15,0.6,70.9
+Stettler AGDM,15-Jan-15,-4.8,84.1
+Stettler AGDM,16-Jan-15,-2.3,78.5
+Stettler AGDM,17-Jan-15,-4.4,67.4
+Stettler AGDM,18-Jan-15,-4.7,79
+Stettler AGDM,19-Jan-15,-0.2,75.3
+Stettler AGDM,20-Jan-15,-3.3,75.4
+Stettler AGDM,21-Jan-15,-4.3,72
+Stettler AGDM,22-Jan-15,3.5,67.3
+Stettler AGDM,23-Jan-15,1.7,71.7
+Stettler AGDM,24-Jan-15,3.7,69.6
+Stettler AGDM,25-Jan-15,4.1,69.5
+Stettler AGDM,26-Jan-15,1.2,82.8
+Stettler AGDM,27-Jan-15,-0.7,91.4
+Stettler AGDM,28-Jan-15,-1.5,90.6
+Stettler AGDM,29-Jan-15,-5.3,94.9
+Stettler AGDM,30-Jan-15,-5.1,89.6
+Stettler AGDM,31-Jan-15,-16.2,83.9
+Stettler AGDM,01-Feb-15,-18.9,81.4
+Stettler AGDM,02-Feb-15,-15.9,84.2
+Stettler AGDM,03-Feb-15,-17.5,82
+Stettler AGDM,04-Feb-15,-12.7,76.1
+Stettler AGDM,05-Feb-15,-12.1,85.1
+Stettler AGDM,06-Feb-15,-16.1,84.4
+Stettler AGDM,07-Feb-15,-17.3,82.9
+Stettler AGDM,08-Feb-15,-17.5,81.2
+Stettler AGDM,09-Feb-15,-17.5,84.1
+Stettler AGDM,10-Feb-15,-14.4,81.9
+Stettler AGDM,11-Feb-15,-13.4,83.7
+Stettler AGDM,12-Feb-15,-2.5,79.9
+Stettler AGDM,13-Feb-15,0.6,82.7
+Stettler AGDM,14-Feb-15,-6.3,83.4
+Stettler AGDM,15-Feb-15,0.6,70.4
+Stettler AGDM,16-Feb-15,-5.5,82.9
+Stettler AGDM,17-Feb-15,-11.4,85.1
+Stettler AGDM,18-Feb-15,-0.8,82.7
+Stettler AGDM,19-Feb-15,2.7,74.8
+Stettler AGDM,20-Feb-15,-3.3,85.5
+Stettler AGDM,21-Feb-15,-14.1,79.1
+Stettler AGDM,22-Feb-15,-12.2,78.1
+Stettler AGDM,23-Feb-15,2.2,71.8
+Stettler AGDM,24-Feb-15,1.4,79.7
+Stettler AGDM,25-Feb-15,-14.5,78.8
+Stettler AGDM,26-Feb-15,-16.2,74.7
+Stettler AGDM,27-Feb-15,-12.8,82.2
+Stettler AGDM,28-Feb-15,-10.8,78.3
+Stettler AGDM,01-Mar-15,-8.6,77.9
+Stettler AGDM,02-Mar-15,-8.6,74.8
+Stettler AGDM,03-Mar-15,-16.3,62.6
+Stettler AGDM,04-Mar-15,-13.6,67.2
+Stettler AGDM,05-Mar-15,-2.1,63.2
+Stettler AGDM,06-Mar-15,1.8,68.2
+Stettler AGDM,07-Mar-15,1,68.1
+Stettler AGDM,08-Mar-15,3,66
+Stettler AGDM,09-Mar-15,3.8,74.6
+Stettler AGDM,10-Mar-15,1.9,83
+Stettler AGDM,11-Mar-15,0.9,89
+Stettler AGDM,12-Mar-15,3.8,80.9
+Stettler AGDM,13-Mar-15,5.9,65.8
+Stettler AGDM,14-Mar-15,8.6,57.6
+Stettler AGDM,15-Mar-15,1,70.8
+Stettler AGDM,16-Mar-15,0,72.1
+Stettler AGDM,17-Mar-15,0.6,79.5
+Stettler AGDM,18-Mar-15,1.9,77.3
+Stettler AGDM,19-Mar-15,2.7,70
+Stettler AGDM,20-Mar-15,-1.4,94
+Stettler AGDM,21-Mar-15,-3.1,95
+Stettler AGDM,22-Mar-15,-6.3,84.7
+Stettler AGDM,23-Mar-15,-6.3,89.9
+Stettler AGDM,24-Mar-15,-3.7,87.4
+Stettler AGDM,25-Mar-15,-1.9,81.5
+Stettler AGDM,26-Mar-15,3.4,72.4
+Stettler AGDM,27-Mar-15,7.7,69.3
+Stettler AGDM,28-Mar-15,5,77.1
+Stettler AGDM,29-Mar-15,6.7,68.1
+Stettler AGDM,30-Mar-15,6.8,58.7
+Stettler AGDM,31-Mar-15,8.7,60
+Stettler AGDM,01-Apr-15,1,74.9
+Stettler AGDM,02-Apr-15,0.1,84.3
+Stettler AGDM,03-Apr-15,1,75
+Stettler AGDM,04-Apr-15,-1,86
+Stettler AGDM,05-Apr-15,-0.8,68.3
+Stettler AGDM,06-Apr-15,-0.7,68.8
+Stettler AGDM,07-Apr-15,1.7,74.4
+Stettler AGDM,08-Apr-15,4.5,53.9
+Stettler AGDM,09-Apr-15,7.2,44.2
+Stettler AGDM,10-Apr-15,8.6,39.2
+Stettler AGDM,11-Apr-15,4.9,58
+Stettler AGDM,12-Apr-15,2.3,44.5
+Stettler AGDM,13-Apr-15,4,40.3
+Stettler AGDM,14-Apr-15,4.9,54.6
+Stettler AGDM,15-Apr-15,6.4,34.1
+Stettler AGDM,16-Apr-15,8.7,40
+Stettler AGDM,17-Apr-15,8,55.7
+Stettler AGDM,18-Apr-15,5.8,49.3
+Stettler AGDM,19-Apr-15,5.2,43.6
+Stettler AGDM,20-Apr-15,9,41.4
+Stettler AGDM,21-Apr-15,9.9,47.9
+Stettler AGDM,22-Apr-15,12.7,44.8
+Stettler AGDM,23-Apr-15,6.5,57.2
+Stettler AGDM,24-Apr-15,3.5,80.1
+Stettler AGDM,25-Apr-15,-1.3,95.6
+Stettler AGDM,26-Apr-15,1.4,79.6
+Stettler AGDM,27-Apr-15,9.2,53.2
+Stettler AGDM,28-Apr-15,14.5,42.9
+Stettler AGDM,29-Apr-15,9.1,60
+Stettler AGDM,30-Apr-15,8.3,52.6
+Stettler AGDM,01-May-15,8.6,58.7
+Stettler AGDM,02-May-15,5.9,63.3
+Stettler AGDM,03-May-15,5.2,62.5
+Stettler AGDM,04-May-15,9.4,50.4
+Stettler AGDM,05-May-15,9.1,60
+Stettler AGDM,06-May-15,2.3,77.4
+Stettler AGDM,07-May-15,4.8,59.1
+Stettler AGDM,08-May-15,5.1,71.4
+Stettler AGDM,09-May-15,9.3,49.5
+Stettler AGDM,10-May-15,6.9,52.8
+Stettler AGDM,11-May-15,6.3,41.5
+Stettler AGDM,12-May-15,8.3,37.2
+Stettler AGDM,13-May-15,8.7,43.7
+Stettler AGDM,14-May-15,9.7,50.7
+Stettler AGDM,15-May-15,10.8,64
+Stettler AGDM,16-May-15,7.6,85.5
+Stettler AGDM,17-May-15,4.1,57.4
+Stettler AGDM,18-May-15,8.3,33.7
+Stettler AGDM,19-May-15,10.5,33.7
+Stettler AGDM,20-May-15,12.7,32.7
+Stettler AGDM,21-May-15,14.3,32.9
+Stettler AGDM,22-May-15,16.4,30.4
+Stettler AGDM,23-May-15,17.2,30.4
+Stettler AGDM,24-May-15,17.8,31.6
+Stettler AGDM,25-May-15,17.8,36.5
+Stettler AGDM,26-May-15,17.5,45
+Stettler AGDM,27-May-15,16.6,62.8
+Stettler AGDM,28-May-15,9.9,66.7
+Stettler AGDM,29-May-15,9.7,50
+Stettler AGDM,30-May-15,11.9,53.9
+Stettler AGDM,31-May-15,14.7,63.5
+Stettler AGDM,01-Jun-15,14.4,59.6
+Stettler AGDM,02-Jun-15,11.8,69.9
+Stettler AGDM,03-Jun-15,14.7,57.1
+Stettler AGDM,04-Jun-15,13.3,74.2
+Stettler AGDM,05-Jun-15,15.6,67.2
+Stettler AGDM,06-Jun-15,18.7,49.4
+Stettler AGDM,07-Jun-15,20,42.6
+Stettler AGDM,08-Jun-15,19.8,45.6
+Stettler AGDM,09-Jun-15,16.6,50.5
+Stettler AGDM,10-Jun-15,14.5,63.3
+Stettler AGDM,11-Jun-15,17.3,69
+Stettler AGDM,12-Jun-15,10.9,78.3
+Stettler AGDM,13-Jun-15,8.9,81.8
+Stettler AGDM,14-Jun-15,8.8,84.4
+Stettler AGDM,15-Jun-15,11.9,64.3
+Stettler AGDM,16-Jun-15,14.3,63.8
+Stettler AGDM,17-Jun-15,11.9,68.8
+Stettler AGDM,18-Jun-15,13.2,78.2
+Stettler AGDM,19-Jun-15,14,78.8
+Stettler AGDM,20-Jun-15,11.8,74.9
+Stettler AGDM,21-Jun-15,12.8,70.3
+Stettler AGDM,22-Jun-15,15.6,60.6
+Stettler AGDM,23-Jun-15,16.1,67.3
+Stettler AGDM,24-Jun-15,17.6,58.8
+Stettler AGDM,25-Jun-15,20.8,54.7
+Stettler AGDM,26-Jun-15,20.7,56.2
+Stettler AGDM,27-Jun-15,22.6,51.7
+Stettler AGDM,28-Jun-15,23.1,54.8
+Stettler AGDM,29-Jun-15,17.3,74.9
+Stettler AGDM,30-Jun-15,17.1,80.3
+Stettler AGDM,01-Jul-15,18.5,77
+Stettler AGDM,02-Jul-15,20.9,61.1
+Stettler AGDM,03-Jul-15,21.8,56.4
+Stettler AGDM,04-Jul-15,15.5,69.9
+Stettler AGDM,05-Jul-15,12.1,76.4
+Stettler AGDM,06-Jul-15,15.5,60.4
+Stettler AGDM,07-Jul-15,14.3,66.2
+Stettler AGDM,08-Jul-15,19.7,51.1
+Stettler AGDM,09-Jul-15,24.2,45.6
+Stettler AGDM,10-Jul-15,22.8,54.9
+Stettler AGDM,11-Jul-15,21.7,62.7
+Stettler AGDM,12-Jul-15,19.5,76.1
+Stettler AGDM,13-Jul-15,17.8,77.7
+Stettler AGDM,14-Jul-15,18.3,65.2
+Stettler AGDM,15-Jul-15,18.7,64.9
+Stettler AGDM,16-Jul-15,13.1,76.2
+Stettler AGDM,17-Jul-15,12.6,91.4
+Stettler AGDM,18-Jul-15,17.5,69.1
+Stettler AGDM,19-Jul-15,18.6,61.6
+Stettler AGDM,20-Jul-15,19.4,65.1
+Stettler AGDM,21-Jul-15,17.5,77.6
+Stettler AGDM,22-Jul-15,14.1,80.4
+Stettler AGDM,23-Jul-15,15,72.4
+Stettler AGDM,24-Jul-15,16.6,69.6
+Stettler AGDM,25-Jul-15,14.6,79.3
+Stettler AGDM,26-Jul-15,14.1,75.3
+Stettler AGDM,27-Jul-15,13.5,79.6
+Stettler AGDM,28-Jul-15,14.7,70.2
+Stettler AGDM,29-Jul-15,15.2,70.5
+Stettler AGDM,30-Jul-15,15.9,66.6
+Stettler AGDM,31-Jul-15,20,53.2
+Stettler AGDM,01-Aug-15,17.2,72.6
+Stettler AGDM,02-Aug-15,19.1,65.7
+Stettler AGDM,03-Aug-15,22.4,52.7
+Stettler AGDM,04-Aug-15,16.6,82.8
+Stettler AGDM,05-Aug-15,15.7,79
+Stettler AGDM,06-Aug-15,12.3,94.1
+Stettler AGDM,07-Aug-15,15.2,77.8
+Stettler AGDM,08-Aug-15,18.4,65.1
+Stettler AGDM,09-Aug-15,19.5,66
+Stettler AGDM,10-Aug-15,19.6,68
+Stettler AGDM,11-Aug-15,19.8,68.9
+Stettler AGDM,12-Aug-15,20.9,60
+Stettler AGDM,13-Aug-15,21,62
+Stettler AGDM,14-Aug-15,16.2,70
+Stettler AGDM,15-Aug-15,10,91.7
+Stettler AGDM,16-Aug-15,10.4,83
+Stettler AGDM,17-Aug-15,12.7,72.3
+Stettler AGDM,18-Aug-15,14,71.5
+Stettler AGDM,19-Aug-15,18,58.9
+Stettler AGDM,20-Aug-15,14.7,74.4
+Stettler AGDM,21-Aug-15,8.8,86.6
+Stettler AGDM,22-Aug-15,9.8,69.1
+Stettler AGDM,23-Aug-15,13.1,61.1
+Stettler AGDM,24-Aug-15,15.2,69.2
+Stettler AGDM,25-Aug-15,15.5,74.6
+Stettler AGDM,26-Aug-15,15.4,80.3
+Stettler AGDM,27-Aug-15,17.2,76.5
+Stettler AGDM,28-Aug-15,17.4,68.9
+Stettler AGDM,29-Aug-15,18.1,59.1
+Stettler AGDM,30-Aug-15,16.3,51.8
+Stettler AGDM,31-Aug-15,14.6,51.6
