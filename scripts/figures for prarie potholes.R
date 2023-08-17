@@ -389,9 +389,11 @@ library(cowplot)
 library(colorspace)
 library(colorblindr)
 library(viridis)
+remotes::install_github("coolbutuseless/ggpattern")
+library(ggpattern)
 
-wide<-data14_cor%>%select(Site_ID,Site_Visit, EI)%>% pivot_wider(names_from = Site_ID, values_from = EI)
-wide2<-wide%>% pivot_longer(!Site_Visit, names_to = "Site_ID", values_to = "EI", values_drop_na=FALSE)
+#wide<-data14_cor%>%select(Site_ID,Site_Visit, EI)%>% pivot_wider(names_from = Site_ID, values_from = EI)
+#wide2<-wide%>% pivot_longer(!Site_Visit, names_to = "Site_ID", values_to = "EI", values_drop_na=FALSE)
 
 
 pre_tile<-
@@ -410,9 +412,6 @@ fil_15<-data15_cor %>% subset(Region == "Grassland" | Region =="Parkland")
 r15<-data15_cor %>% subset(Region == "Restored")
 
 df14<-pre_tile(data14_cor)
-for (i in 1:nrow(df14)){
-if(df14$EI[i] < 0 | is.na(df14$EI[i])){ df14$EI[i] <- NA}}
-
 df15<-pre_tile(fil_15)
 dfr15<-pre_tile(r15)
 
@@ -420,7 +419,7 @@ dfr15<-pre_tile(r15)
 p14<-
   ggplot(df14,aes(x=Site_Visit, y=Site_ID, fill = EI))+
   geom_tile(color= "white",linewidth=0.1) + 
-  scale_fill_viridis(option="plasma", na.value="yellow")+
+  scale_fill_viridis(option="plasma", na.value="#FEFFD5")+
   theme_minimal()+
   theme(axis.title.y = element_blank(),
         panel.grid.major = element_blank(),
@@ -435,7 +434,7 @@ p14<-p14 + facet_wrap(.~Region, scales = "free_y")
 
 p15<-ggplot(df15,aes(y=Site_ID, x=Site_Visit,fill=EI))+
   geom_tile(color= "white",linewidth=0.1) + 
-  scale_fill_viridis(option="plasma",na.value= "yellow")+
+  scale_fill_viridis(option="plasma",na.value= "#FEFFD5")+
   theme_minimal()+
   theme(axis.title.y = element_blank(),
         panel.grid.major = element_blank(),
@@ -445,9 +444,9 @@ p15<-ggplot(df15,aes(y=Site_ID, x=Site_Visit,fill=EI))+
 p15<-p15 + facet_wrap(.~Region, scales = "free_y")
 
 
-rp15<-ggplot(dfr15,aes(y=Site_ID, x=Site_Visit,fill=EI))+
+rp15<-ggplot(dfr15,aes(y=Site_ID, x=Site_Visit,fill=EI,color= EI))+
   geom_tile(color= "white",linewidth=0.1) + 
-  scale_fill_viridis(option="plasma",na.value="yellow")+
+  scale_fill_viridis(option="plasma",na.value="#FEFFD5")+
   theme_minimal()+
   theme(panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),plot.margin = unit(c(0,0.3,0,-0.2), 'lines'),
@@ -461,6 +460,6 @@ leg_EI <- get_legend(p15)
 EI_plot<-ggarrange(p14,as_ggplot(leg_EI), p15,rp15, widths = c(2,1), labels = c("2014","", "2015"), 
                    font.label = list(size = 12), nrow=2, ncol=2, common.legend = TRUE, legend= "none")
 EI_plot
-ggsave(EI_plot, file= "EI_plots.pdf")
-ggsave(EI_plot, file= "EI_plot.png", width=230, height=190, units = "mm", bg="white")
+ggsave(EI_plot, file= "outputs/figures/EI_plot.pdf", width=230, height=190, units = "mm", bg="white")
+ggsave(EI_plot, file= "outputs/figures/EI_plot.png", width=230, height=190, units = "mm", bg="white")
 
