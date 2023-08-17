@@ -110,11 +110,11 @@ library(tmap)    # for static and interactive maps
 library(leaflet) # for interactive maps
 library(ggplot2)
 
-data14_cor<-read.csv("2014 result with new rh.csv")
+data14_cor<-read.csv("outputs/data results/2014 result with new rh.csv")
 data14_cor$EI <- replace(data14_cor$EI,data14_cor$EI >1.5, 1.5)
 data14_cor$EI <- replace(data14_cor$EI,data14_cor$EI <0, 1.5)
 view(data14_cor$EI)
-data15_cor<-read.csv("2015_results_new_rh.csv")
+data15_cor<-read.csv("outputs/data results/2015_results_new_rh.csv")
 data15_cor$EI <- replace(data15_cor$EI,data15_cor$EI >1.5, 1.5)
 data15_cor$EI <- replace(data15_cor$EI,data15_cor$EI <0, 1.5)
 view(data15_cor)
@@ -140,9 +140,35 @@ rain_rplce<-
 
 
 
+data14_rain<-read.csv("outputs/data results/data2014_w_per.rain.csv")
+rain_rplce_NA<-
+  function(x){
+    for (i in 1:nrow(x)){
+      if (x$per.rain[i] < 0){
+        x$per.rain[i] <- NA}
+      else if(x$per.rain[i] >100){
+        x$per.rain[i] <- NA
+      }else if (is.na(x$per.rain[i])){
+        x$per.rain[i] <- NA}
+    }
+    return(x)
+  } 
 
-map14_2<-rain_rplce(data14_wOIPC)
+rain_rplce_NA<-
+  function(x){
+    for (i in 1:nrow(x)){
+      if (x$per.rain[i] < 0 |x$per.rain[i] >100 |is.na(x$per.rain[i])){
+        x$per.rain[i] <- NA}
+    }
+    return(x)
+  } 
 
+data14_rain_NA<-rain_rplce_NA(data14_rain)
+view(data14_rain_NA)
+data15_rain<-read.csv("outputs/data results/data2015_w_per.rain.csv")
+data15_rain_NA<-rain_rplce_NA(data15_rain)
+
+######--Input maps-------
 data15_wOIPC <- data15_wOIPC[-176,]
 map15_2<-rain_rplce(data15_wOIPC)
 
@@ -315,23 +341,36 @@ safe_colorblind_palette2 <- c("#88CCEE", "#CC6677", "#DDCC77", "#AA4499", "#44AA
 
 
 
-box_plot_15<-ggplot(map_data15_sf, aes(y= (100-per.rain), x=as.factor(Site_Visit), 
+box_plot_14<-ggplot(data14_rain_NA, aes(y= (100-per.rain), x=as.factor(Site_Visit), 
                           group=as.factor(Site_Visit), fill=as.factor(Site_Visit), colour=as.factor(Site_Visit)))+
   geom_boxplot(alpha=0.25)+
   geom_jitter()+
   facet_wrap(~Region)+
-  theme_minimal()+
+  theme_classic()+
   theme(axis.title.x = element_blank(),axis.text.x = element_blank())+
   ylab("% snow")+
+  scale_y_continuous(name = "% Snow", sec.axis = sec_axis(~(.-100)*-1, name="% Rain"))+
+  scale_colour_manual(values=safe_colorblind_palette2, name= "Site Visit")+
+  scale_fill_manual(values=safe_colorblind_palette2,name= "Site Visit")
+
+box_plot_15<-ggplot(data15_rain_NA, aes(y= (100-per.rain), x=as.factor(Site_Visit), 
+                                        group=as.factor(Site_Visit), fill=as.factor(Site_Visit), colour=as.factor(Site_Visit)))+
+  geom_boxplot(alpha=0.25)+
+  geom_jitter()+
+  facet_wrap(~Region)+
+  theme_classic()+
+  theme(axis.title.x = element_blank(),axis.text.x = element_blank())+
+  ylab("% snow")+
+  scale_y_continuous(name = "% Snow", sec.axis = sec_axis(~(.-100)*-1, name="% Rain"))+
   scale_colour_manual(values=safe_colorblind_palette2, name= "Site Visit")+
   scale_fill_manual(values=safe_colorblind_palette2,name= "Site Visit")
 
 leg_box<-get_legend(box_plot_15)
                         
 boxplot_bothyrs<-ggarrange(ggarrange(box_plot_14+theme (axis.title.x = element_blank()), 
-                           as_ggplot(leg_box),legend="none", widths=c(2,1)),
+                           as_ggplot(leg_box),legend="none", widths=c(2.6,1)),
                            box_plot_15,
-                           labels = c("2014", "2015"), nrow=2, heights=c(1,1),
+                           labels = c("2014", "2015"), label.x =-0.025  , label.y =1 , nrow=2, heights=c(1,1),
                            common.legend = TRUE, legend="none")
 
 
@@ -339,29 +378,9 @@ boxplot_bothyrs<-ggarrange(ggarrange(box_plot_14+theme (axis.title.x = element_b
 ggsave(boxplot_bothyrs, file= "boxplot_bothyrs.pdf", width=230, height=190, units = "mm")
 ggsave(boxplot_bothyrs, file= "boxplot_bothyrs.png", width=230, height=190, units = "mm")
 
----------------------------------------
+--------------------------------------
 
-library(RColorBrewer)
-my_colors <- brewer.pal(9, "Reds") 
-my_colors <- colorRampPalette(my_colors)(10)
-
-class_of_site <- cut(map_data14_sf$per.rain, 10)
-my_colors <- my_colors[as.numeric(class_of_site)]
-
-##okay so the problem is that the names for the restored sites dont match in the 2015 data, they are capitilzed for Lat/long but not the normal data
-##need to switch out the names
-##then add some background to the maps, maybe some means ect? little box plots od=f the difference in % rain/snow between each set, but could get busy
-##remove the sites where dI is wonky
-map_data15_sf %>% filter (IO < -50 | IO >6)## removing 190 visit 5, Bergq-07 visit 5, heber-03 visit 5
-map_data15_sf2 <- map_data15_sf[-c(74, 147, 178),]
-map_data15_sf2 %>% filter (IO < -50 | IO >6)
-
-map_data14_sf %>% filter (IO < -45| IO >0)
-map_data1_sf2 <- map_data15_sf[-,]
-
-map_data15_sf %>% select(Site_ID==190)
-x2%>% filter(  per.rain >90)
-
+### EI plots------------------------------------
 
 install.packages("colorspace", repos = "http://R-Forge.R-project.org")
 install.packages("colorblindr")
@@ -374,10 +393,6 @@ library(viridis)
 wide<-data14_cor%>%select(Site_ID,Site_Visit, EI)%>% pivot_wider(names_from = Site_ID, values_from = EI)
 wide2<-wide%>% pivot_longer(!Site_Visit, names_to = "Site_ID", values_to = "EI", values_drop_na=FALSE)
 
-ggplot(wide2, aes(Site_ID, Site_Visit,fill=EI))+
-           geom_tile(color= "white",linewidth=0.1) 
-
-view(merge(data14_cor, wide2,by=c( "Site_ID" ,"Site_Visit"), all.x=TRUE))
 
 pre_tile<-
 function (data){
@@ -395,12 +410,15 @@ fil_15<-data15_cor %>% subset(Region == "Grassland" | Region =="Parkland")
 r15<-data15_cor %>% subset(Region == "Restored")
 
 df14<-pre_tile(data14_cor)
+for (i in 1:nrow(df14)){
+if(df14$EI[i] < 0 | is.na(df14$EI[i])){ df14$EI[i] <- NA}}
+
 df15<-pre_tile(fil_15)
 dfr15<-pre_tile(r15)
 
 
 p14<-
-  ggplot(df14,aes(x=Site_Visit, y=Site_ID,fill=EI))+
+  ggplot(df14,aes(x=Site_Visit, y=Site_ID, fill = EI))+
   geom_tile(color= "white",linewidth=0.1) + 
   scale_fill_viridis(option="plasma", na.value="yellow")+
   theme_minimal()+

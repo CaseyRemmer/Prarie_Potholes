@@ -65,7 +65,7 @@ data['temp']<-c("NA")
 
 ##tsibble will mask inerval!!
 for (i in 1:nrow(data)){
-  past <- data$Date[i] - days(30) #define the 30 day interval for each site ## adjust to try different dat widows
+  past <- data$Date[i] - days(30) #define the 30 day interval for each site ## adjust to try different date widows
   subset_data <- subset(met_data, Date %within% interval(past, data$Date[i]) #pull out the met_data for that interval at the met station of the site
                         & grepl(data$met_station[i], met_data$Station.Name)) 
       subset_data <- na.omit(subset_data)
