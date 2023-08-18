@@ -518,12 +518,9 @@ for (i in 1:2){
 }}
 
 
-  star_year[[i]]<-cbind(star_obs, reg_p)   
-}
 
-yybyyr<-star_obs
-
-corr_ci(r=res$obs, n=ncol(test3))
+yrbyyr<-star_obs
+write.csv(yrbyyr, file="outputs/data results/2014vs2015_synchrony_results.csv")
 
 star_year
 write.csv(star_year[[1]], file="2014_synchrony_results_star.csv")

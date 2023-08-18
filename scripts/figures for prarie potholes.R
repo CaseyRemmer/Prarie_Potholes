@@ -2,31 +2,34 @@
 setwd("C:/Users/Casey/Dropbox/Prarie Potholes")
 
 ##synchrony plots-------------------------------------
-sync15<-read.csv("2015_synchrony_results_star.csv")
+sync15<-read.csv("outputs/data results/2015_synchrony_results_star.csv")
 sync15<-sync15[,-c(5,6,7)]
 names(sync15)<-c("X", "Grass", "Park", "Rest")
 
-sync14<-read.csv("2014_synchrony_results_star.csv")
+sync14<-read.csv("outputs/data results/2014_synchrony_results_star.csv")
 sync14<-sync14[,-c(4,5,6,7)]
 names(sync14)<-c("X", "Grass", "Park")
+
 yrbyyr<-as.data.frame(yrbyyr)
+yrbyyr$'2014'<-as.numeric(yrbyyr$'2014')
+yrbyyr$'2015'<-as.numeric(yrbyyr$'2015')
 yrbyyr<-cbind(yrbyyr, row.names(yrbyyr))
 names(yrbyyr)<-c("2014", "2015", "X")
 
-cis<-read.csv("ci_s.csv")
-cisB<-ci_year
+cis<-read.csv("outputs/data results/ci_s.csv")
+
 
 
 
 
 sync15_plot<-
-  ggplot(data=sync15 %>% pivot_longer(names_to= "Region", cols=c(Grass, Park, Rest)) %>% left_join(cis%>%filter(Year== 2015), join_by ( X==X, Region==Region)),
+  ggplot(data=sync15 %>% pivot_longer(names_to= "Region", cols=c(Grass, Park, Rest)) %>% left_join(cis%>%filter(Year== 2015), join_by ( X==X, Region==Region)) %>% filter( X == "EI"),
          aes(y=value, x=X, fill= Region, group=Region))+
-  geom_col(width = 0.5, position = position_dodge(0.7),colour="#AA4499", lwd=0.75)+
+  geom_col(width = 0.5, position = position_dodge(0.7), lwd=0.75)+
   geom_errorbar(aes(ymin=value-ci, ymax=value+ci), width=.2,
-                position=position_dodge(.7),colour="#AA4499", lwd=0.75)+ ##from the package
-  geom_errorbar(aes(ymin=ci_year, ymax=value+ci), width=.2,
-                position=position_dodge(.7),colour="#AA4499", lwd=0.75)+ ##from the boostrap method
+                position=position_dodge(.7), lwd=0.75)+ ##from the package
+  #geom_errorbar(aes(ymin=ci_year, ymax=value+ci), width=.2,
+                #position=position_dodge(.7),colour="#AA4499", lwd=0.75)+ ##from the boostrap method
   ylab("synchrony")+
   xlab("")+
   theme_minimal()+
@@ -34,32 +37,13 @@ sync15_plot<-
   ylim(c(0,1.15))
 
 
-##bootstrap plot 
-
-cisB15<-as.data.frame(ci_year[[2]])
-cisB15$X<-c("O","H","EI")
-Region<-rep(c("Grass", "Park", "Rest"), times=3)
-dir<-rep(c("d","d","d","p","p","p"), times=3)
-cisB15<-cisB15%>%pivot_longer(names_to="ci", cols=c(1:6)) %>% cbind(Region, dir)
-
-sync15_plotB<-
-  ggplot(data=sync15 %>% pivot_longer(names_to= "Region", cols=c(Grass, Park, Rest)) %>% full_join(cisB15, join_by ( X==X, Region==Region)),
-         aes(y=value, x=X, fill= Region, group=Region))+
-  geom_col(width = 0.5, position = position_dodge(0.7),colour="#AA4499", lwd=0.75)+
-  geom_errorbar(aes(ymin=ci_year, ymax=value+ci), width=.2,
-                position=position_dodge(.7),colour="#AA4499", lwd=0.75)+ ##from the boostrap method
-  ylab("synchrony")+
-  xlab("")+
-  theme_minimal()+
-  scale_fill_manual(values=c( "#DDCC77", "#44AA99","#6699CC"))+
-  ylim(c(0,1.15))
 
 sync14_plot<-
-  ggplot(sync14 %>% pivot_longer(names_to= "Region", cols=c(Grass, Park)) %>% left_join(cis%>%filter(Year== 2014), join_by ( X==X, Region==Region)),
+  ggplot(sync14 %>% pivot_longer(names_to= "Region", cols=c(Grass, Park)) %>% left_join(cis%>%filter(Year== 2014), join_by ( X==X, Region==Region))%>% filter( X == "EI"),
          aes(y=value, x=X, fill= Region, group=Region))+
-  geom_col(width = 0.5, position = position_dodge(0.7), colour="#332288", lwd=0.75)+
+  geom_col(width = 0.5, position = position_dodge(0.7) , lwd=0.75)+
   geom_errorbar(aes(ymin=value-ci, ymax=value+ci), width=.2,
-                position=position_dodge(.7),colour="#332288", lwd=0.75)+
+                position=position_dodge(.7), lwd=0.75)+
   ylab("synchrony")+
   xlab("")+
   theme_minimal()+
@@ -67,7 +51,7 @@ sync14_plot<-
   ylim(c(0,1.15))
 
 yr_plot<-
-  ggplot(yrbyyr %>% pivot_longer(names_to= "Year", cols=c("2014", "2015")) %>% left_join(cis%>% filter(is.na(Region)), join_by ( X==X, Year==Year)),
+  ggplot(yrbyyr %>% pivot_longer(names_to= "Year", cols=c("2014", "2015")) %>% left_join(cis%>% filter(is.na(Region)), join_by ( X==X, Year== Year))%>% filter( X == "EI"),
          aes(y=value, x=X, fill= Year, group=Year))+
   geom_col(width = 0.5, position = position_dodge(0.7), lwd=0.75)+
   geom_errorbar(aes(ymin=value-ci, ymax=value+ci), width=.2,
@@ -90,8 +74,8 @@ sync_full<- ggarrange(ggarrange(yr_plot,
                       ggarrange(leg1,leg2, nrow=1),
                       nrow=2, heights=c(0.9,0.1))
                      
-ggsave(sync_full, file= "sync_full.png", width=230, height=190, units = "mm")
-ggsave(sync_full, file= "sync_full.pdf", width=230, height=190, units = "mm")
+ggsave(sync_full, file= "outputs/figures/sync_full.png", width=230, height=190, units = "mm")
+ggsave(sync_full, file= "outputs/figures/sync_full.pdf", width=230, height=190, units = "mm")
 
 -----------------------------------------------
 library(cowplot)
@@ -457,7 +441,7 @@ rp15<-rp15 + facet_wrap(.~Region, scales = "free")
 leg_EI <- get_legend(p15)
 
 
-EI_plot<-ggarrange(p14,as_ggplot(leg_EI), p15,rp15, widths = c(2,1), labels = c("2014","", "2015"), 
+EI_plot<-ggarrange(p14,as_ggplot(leg_EI), p15,rp15, widths = c(2.8,1), labels = c("2014","", "2015"), 
                    font.label = list(size = 12), nrow=2, ncol=2, common.legend = TRUE, legend= "none")
 EI_plot
 ggsave(EI_plot, file= "outputs/figures/EI_plot.pdf", width=230, height=190, units = "mm", bg="white")
