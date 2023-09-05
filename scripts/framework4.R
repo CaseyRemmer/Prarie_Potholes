@@ -529,7 +529,7 @@ write.csv(star_year[[2]], file="2015_synchrony_results_star.csv")
 ## man-whitney u tests-----------------------------------
 #δ18O, δ2H, δI, E/I
 ## input comp?
-data14_cor<-read.csv("2014 result with new rh.csv")
+data14_cor<-read.csv("/outputs/data results/2014 result with new rh.csv")
 data14_cor$EI <- replace(data14_cor$EI,data14_cor$EI >1.5, 1.5)
 data14_cor$EI <- replace(data14_cor$EI,data14_cor$EI <0, 1.5)
 view(data14_cor$EI)
@@ -539,13 +539,10 @@ data15_cor$EI <- replace(data15_cor$EI,data15_cor$EI <0, 1.5)
 view(data15_cor$EI)
 
 
-variables<-c("O", "H", "EI", "IO", "IH")
-#rgn<-c(unique(data$Region)
-
 
 manu_res<-data.frame(ncol=)
 
-mwu_by.yr <- function(data1, data2) {
+mwu_by.yr <- function(data1, data2, region) {
   variables<-c("O", "H", "EI", "IO", "IH")
   manu_res<-data.frame(matrix(ncol = 5, nrow = 5))
   manu_stat<-data.frame(matrix(ncol = 5, nrow = 5))
@@ -553,26 +550,35 @@ mwu_by.yr <- function(data1, data2) {
   for(i in 1:5) {
     for(y in 1:length(variables)){
       if (y<3){
-    x1<-data1%>% filter(Site_Visit == i) %>% select (variables[y])%>%unlist()%>%as.numeric()
-    x2<-data2%>%filter(Site_Visit == i) %>% select (variables[y])%>%unlist()%>%as.numeric()
+    x1<-data1%>% filter(Site_Visit == i & Region == region) %>% select (variables[y])%>%unlist()%>%as.numeric()
+    x2<-data2%>%filter(Site_Visit == i& Region == region) %>% select (variables[y])%>%unlist()%>%as.numeric()
     }else{
-        x1<-data1%>% filter(Site_Visit == i & EI <1.5) %>% select (variables[y])%>%unlist()%>%as.numeric()
-        x2<-data2%>%filter(Site_Visit == i & EI <1.5) %>% select (variables[y])%>%unlist()%>%as.numeric()
-      }
+        x1<-data1%>% filter(Site_Visit == i & Region == region & EI <1.5) %>% select (variables[y])%>%unlist()%>%as.numeric()
+        x2<-data2%>%filter(Site_Visit == i &  Region == region & EI <1.5) %>% select (variables[y])%>%unlist()%>%as.numeric()
+    }
+      if (length(x1) == 0 | length(x2) == 0) {
+        # Handle the case when the subset is empty
+        # Return or do something appropriate
+        manu_res[i,y]<-NA
+      } else {
+        wc<-wilcox.test(x1,x2,exact=FALSE)
     wc<-wilcox.test(x1,x2,exact=FALSE)
     ##save results
     manu_res[i,y]<-wc$p.value
     manu_stat[i,y]<-wc$statistic
-    }
+    }}
   }
   print(manu_res)
   print(manu_stat)
-  write.csv(manu_res, file="2014vs2015_manWu.csv")
-  write.csv(manu_stat, file="2014vs2015_manWu_stat.csv")
+  file_name <- paste0("2014 vs 2015" , region, "MWU", ".csv")
+  file_name2 <- paste0("2014 vs 2015" , region, "MWU_stat", ".csv")
+  write.csv(manu_res, file= file_name)
+  write.csv(manu_stat, file= file_name2)
 }	
 
 
-mwu_by.yr(data14_cor, data15_cor)
+mwu_by.yr(data14_cor, data15_cor, "Grassland")
+mwu_by.yr(data14_cor, data15_cor, "Parkland")
 
 #### many-whitney u tests by region & year
 
@@ -611,6 +617,43 @@ mwu_by.rgn <- function(data1, region1, region2) {
 mwu_by.rgn(data14_cor, "Grassland", "Parkland")
 mwu_by.rgn(data15_cor, "Grassland", "Parkland")
 mwu_by.rgn(data15_cor, "Parkland", "Restored")
+
+
+mwu_by.rgn <- function(data1, data2, region1, region2) {
+  variables<-c("O", "H", "EI","IO", "IH")
+  manu_res<-data.frame(matrix(ncol = 5, nrow = 5))
+  manu_stat<-data.frame(matrix(ncol = 5, nrow = 5))
+  colnames(manu_res) <- c(variables)
+  for(i in 1:5) {
+    for(y in 1:length(variables)){
+      if (y<3){
+        x1<-data1%>% filter(Site_Visit == i & Region == region1) %>% select (variables[y])%>%unlist()%>%as.numeric()
+        x2<-data1%>%filter(Site_Visit == i & Region == region2) %>% select (variables[y])%>%unlist()%>%as.numeric() 
+        x3<-data2%>% filter(Site_Visit == i & Region == region1) %>% select (variables[y])%>%unlist()%>%as.numeric()
+        x4<-data2%>%filter(Site_Visit == i & Region == region2) %>% select (variables[y])%>%unlist()%>%as.numeric()
+          }else{
+        x1<-data1%>% filter(Site_Visit == i& Region == region1 & EI <1.5) %>% select (variables[y])%>%unlist()%>%as.numeric()
+        x2<-data1%>%filter(Site_Visit == i & Region == region2 & EI <1.5) %>% select (variables[y])%>%unlist()%>%as.numeric()
+        x3<-data2%>% filter(Site_Visit == i & Region == region1 & EI <1.5) %>% select (variables[y])%>%unlist()%>%as.numeric()
+        x4<-data2%>%filter(Site_Visit == i & Region == region2 & EI <1.5) %>% select (variables[y])%>%unlist()%>%as.numeric()
+         }
+      if (length(x1) == 0 | length(x2) == 0) {
+        # Handle the case when the subset is empty
+        # Return or do something appropriate
+        manu_res[i,y]<-NA
+      } else {
+        wc<-wilcox.test(x1,x2,exact=FALSE)
+        ##save results
+        manu_res[i,y]<-wc$p.value
+        manu_stat[i,y]<-wc$statistic}
+    }
+  }
+  print(manu_res)
+  print(manu_stat)
+  file_name <- paste0(substitute(data1), region1, "vs" , region2, "MWU", ".csv")
+  write.csv(manu_res, file= file_name)
+}	
+
 -----------------------------------------------------------------------
 
 ### calulating the proportion of input water atributable to rain/snow--------------------------------------------
